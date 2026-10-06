@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Meghalaya Opposition Tracker</title>
+<style>
+:root{--bg:#07111d;--panel:#0c1a29;--panel2:#102235;--text:#e9f1f7;--muted:#8fa4b7;--line:#1e3850;--accent:#56d6c9;--accent2:#ffc857;--danger:#ff7b72;--good:#8bd17c;--white:#fff;--shadow:0 14px 34px rgba(0,0,0,.25)}
+*{box-sizing:border-box} body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:linear-gradient(180deg,#06101a 0%,#091727 100%);color:var(--text);min-height:100vh}.app{display:grid;grid-template-columns:250px 1fr;min-height:100vh}.sidebar{position:sticky;top:0;height:100vh;padding:24px 16px;border-right:1px solid var(--line);background:rgba(6,16,26,.94);backdrop-filter:blur(16px)}.brand{padding:0 8px 20px;border-bottom:1px solid var(--line);margin-bottom:18px}.brand .eyebrow{font-size:11px;letter-spacing:.18em;color:var(--accent);text-transform:uppercase}.brand h1{font-size:20px;line-height:1.2;margin:8px 0 4px}.brand p{font-size:12px;color:var(--muted);margin:0}.nav{display:flex;flex-direction:column;gap:7px}.nav button{all:unset;cursor:pointer;padding:11px 12px;border-radius:9px;color:#b7c8d7;font-size:14px;border:1px solid transparent}.nav button:hover{background:#0d1d2c}.nav button.active{background:#10283a;color:var(--white);border-color:#21455e}.footnote{position:absolute;bottom:18px;left:24px;right:24px;color:#6f879b;font-size:11px;line-height:1.45}.main{padding:26px 30px 50px;max-width:1500px;width:100%}.topbar{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;margin-bottom:22px}.title h2{margin:0;font-size:28px}.title p{margin:6px 0 0;color:var(--muted);font-size:14px}.status{display:flex;gap:8px;align-items:center;flex-wrap:wrap;justify-content:flex-end}.chip{border:1px solid var(--line);background:#0d1d2b;padding:7px 10px;border-radius:999px;font-size:12px;color:#b8c8d5}.chip.live{color:#bdf8ed;border-color:#205d56;background:#0d2828}.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.card{background:linear-gradient(180deg,var(--panel),#0a1724);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}.leader-card{padding:18px;cursor:pointer;transition:.2s transform,.2s border-color}.leader-card:hover{transform:translateY(-2px);border-color:#2b5875}.avatar{width:52px;height:52px;border-radius:14px;background:linear-gradient(135deg,#173b50,#10293a);display:grid;place-items:center;font-weight:800;font-size:18px;color:var(--accent);border:1px solid #2a526b}.leader-head{display:flex;gap:12px;align-items:center}.leader-card h3{margin:0 0 3px;font-size:17px}.meta{font-size:12px;color:var(--muted)}.role{margin:14px 0 0;color:#d4e2ec;font-size:13px;line-height:1.55}.tags{display:flex;gap:7px;flex-wrap:wrap;margin-top:13px}.tag{font-size:11px;border-radius:999px;padding:5px 8px;background:#13273a;color:#a9bfce;border:1px solid #24455d}.section{display:none}.section.active{display:block}.panel{padding:18px}.panel h3{margin:0 0 14px;font-size:16px}.overview-grid{display:grid;grid-template-columns:1.25fr .75fr;gap:14px;margin-top:14px}.activity-list{display:flex;flex-direction:column;gap:10px}.activity{display:grid;grid-template-columns:92px 1fr auto;gap:13px;align-items:start;padding:13px;border:1px solid #1b354b;border-radius:11px;background:#0b1a28}.activity .date{font-size:12px;color:var(--accent);font-weight:700}.activity .headline{font-size:14px;font-weight:650}.activity .desc{font-size:12px;color:var(--muted);margin-top:4px;line-height:1.5}.source{font-size:11px;color:#93adbf;text-decoration:none;border:1px solid #26455c;padding:5px 7px;border-radius:7px}.source:hover{color:white;border-color:#3b708e}.metric{padding:13px;border-bottom:1px solid #1b3346;display:flex;justify-content:space-between;gap:12px}.metric:last-child{border-bottom:none}.metric .k{font-size:12px;color:var(--muted)}.metric .v{font-size:12px;text-align:right;font-weight:650}.issue-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.issue{padding:13px;border:1px solid #1e3a51;border-radius:11px;background:#0b1b29}.issue strong{font-size:13px}.issue p{font-size:12px;line-height:1.5;color:var(--muted);margin:5px 0 0}.leader-page{display:grid;grid-template-columns:.8fr 1.2fr;gap:14px}.profilebox{padding:20px}.profilebox .bigavatar{width:76px;height:76px;border-radius:20px;background:linear-gradient(135deg,#173f55,#0f2738);display:grid;place-items:center;font-size:26px;font-weight:800;color:var(--accent);border:1px solid #2b5872;margin-bottom:14px}.profilebox h3{font-size:23px;margin:0 0 4px}.profilebox .subtitle{color:var(--muted);font-size:13px}.fact-table{margin-top:18px;border-top:1px solid var(--line)}.timeline{padding:18px}.timeline-item{position:relative;padding:0 0 18px 22px;border-left:1px solid #31516a;margin-left:7px}.timeline-item:before{content:"";position:absolute;left:-5px;top:4px;width:9px;height:9px;border-radius:50%;background:var(--accent)}.timeline-item:last-child{padding-bottom:0}.timeline-item .tdate{font-size:11px;color:var(--accent);font-weight:700}.timeline-item h4{margin:4px 0;font-size:14px}.timeline-item p{margin:0;color:var(--muted);font-size:12px;line-height:1.55}.matrix{width:100%;border-collapse:collapse;font-size:12px}.matrix th,.matrix td{padding:12px;border-bottom:1px solid #1d3549;text-align:left;vertical-align:top}.matrix th{color:#9bb1c2;font-weight:600;background:#0c1b29;position:sticky;top:0}.matrix td:first-child{font-weight:650;color:#dce7ef}.signal{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--accent2)}.toolbar{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap}.toolbar input,.toolbar select{background:#0a1825;color:#dbe6ee;border:1px solid #23425a;border-radius:9px;padding:9px 11px;outline:none}.toolbar input{min-width:260px}.source-card{padding:15px;margin-bottom:10px}.source-card a{color:#dceaf4;text-decoration:none;font-weight:650;font-size:13px}.source-card p{color:var(--muted);font-size:12px;margin:5px 0 0}.notice{padding:12px 14px;border:1px solid #3d4c32;background:#172016;border-radius:10px;color:#bfd0ac;font-size:12px;line-height:1.55;margin-bottom:14px}@media(max-width:980px){.app{grid-template-columns:1fr}.sidebar{position:relative;height:auto;border-right:none;border-bottom:1px solid var(--line)}.nav{flex-direction:row;overflow:auto}.footnote{display:none}.grid3,.overview-grid,.leader-page{grid-template-columns:1fr}.main{padding:20px}.topbar{flex-direction:column}.status{justify-content:flex-start}.issue-grid{grid-template-columns:1fr}.activity{grid-template-columns:1fr}.source{width:max-content}}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar">
+    <div class="brand"><div class="eyebrow">Meghalaya • Political Monitor</div><h1>Opposition Tracker</h1><p>Public-source activity dashboard</p></div>
+    <div class="nav">
+      <button class="active" data-tab="dashboard">Dashboard</button>
+      <button data-tab="mukul">Mukul Sangma</button>
+      <button data-tab="ardent">Ardent Miller</button>
+      <button data-tab="saleng">Saleng Sangma</button>
+      <button data-tab="issues">Issue Matrix</button>
+      <button data-tab="sources">Source Desk</button>
+    </div>
+    <div class="footnote">Neutral monitoring tool. Tracks documented public statements and activity; it does not score, rank, or infer political intent.</div>
+  </aside>
+
+  <main class="main">
+    <div class="topbar"><div class="title"><h2 id="pageTitle">Opposition Dashboard</h2><p id="pageSub">Three prominent opposition figures • Meghalaya • last verified 6 Oct 2026</p></div><div class="status"><span class="chip live">● Public-source tracker</span><span class="chip">Last verified: 06 Oct 2026</span></div></div>
+
+    <section class="section active" id="dashboard">
+      <div class="notice">This dashboard separates <b>reported facts</b> from <b>allegations or political claims</b>. Where a leader criticises the government, the wording below attributes that claim to the speaker rather than presenting it as established fact.</div>
+      <div class="grid3">
+        <div class="card leader-card" onclick="openTab('mukul')"><div class="leader-head"><div class="avatar">MS</div><div><h3>Dr. Mukul M. Sangma</h3><div class="meta">AITC • Songsak (ST) • MLA</div></div></div><div class="role">Leader of the Opposition in the Meghalaya Legislative Assembly; former Chief Minister.</div><div class="tags"><span class="tag">Assembly</span><span class="tag">MRSSA / ILP</span><span class="tag">Coal mining</span><span class="tag">Law & order</span></div></div>
+        <div class="card leader-card" onclick="openTab('ardent')"><div class="leader-head"><div class="avatar">AMB</div><div><h3>Ardent Miller Basaiawmoit</h3><div class="meta">VPP • Nongkrem (ST) • MLA</div></div></div><div class="role">President of the Voice of the People Party and a prominent opposition voice in the Khasi–Jaintia political space.</div><div class="tags"><span class="tag">Education</span><span class="tag">Assembly procedure</span><span class="tag">Public rallies</span><span class="tag">Garo expansion</span></div></div>
+        <div class="card leader-card" onclick="openTab('saleng')"><div class="leader-head"><div class="avatar">SAS</div><div><h3>Saleng A. Sangma</h3><div class="meta">INC • Tura (ST) • Lok Sabha MP</div></div></div><div class="role">Congress MP from Tura; formerly represented Gambegre in the Meghalaya Legislative Assembly.</div><div class="tags"><span class="tag">Parliament</span><span class="tag">FCRA</span><span class="tag">Border</span><span class="tag">Garo Hills</span></div></div>
+      </div>
+      <div class="overview-grid">
+        <div class="card panel"><h3>Recent Public Activity</h3><div class="activity-list" id="recentActivity"></div></div>
+        <div class="card panel"><h3>Quick Institutional Picture</h3>
+          <div class="metric"><div class="k">Leader of Opposition</div><div class="v">Mukul Sangma</div></div>
+          <div class="metric"><div class="k">VPP president</div><div class="v">Ardent Miller Basaiawmoit</div></div>
+          <div class="metric"><div class="k">Tura Lok Sabha MP</div><div class="v">Saleng A. Sangma</div></div>
+          <div class="metric"><div class="k">NPP strength in Assembly</div><div class="v">33 MLAs (NEVA, 2026)</div></div>
+          <div class="metric"><div class="k">AITC strength</div><div class="v">5 MLAs</div></div>
+          <div class="metric"><div class="k">VPP strength</div><div class="v">4 MLAs</div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="mukul">
+      <div class="leader-page">
+        <div class="card profilebox"><div class="bigavatar">MS</div><h3>Dr. Mukul M. Sangma</h3><div class="subtitle">All India Trinamool Congress • MLA, Songsak (ST)</div><div class="fact-table"><div class="metric"><div class="k">Current role</div><div class="v">Leader of Opposition</div></div><div class="metric"><div class="k">Political base</div><div class="v">Garo Hills</div></div><div class="metric"><div class="k">Former office</div><div class="v">Chief Minister, Meghalaya</div></div><div class="metric"><div class="k">Institution</div><div class="v">Meghalaya Assembly</div></div></div><div class="tags"><span class="tag">MRSSA</span><span class="tag">Illegal coal mining</span><span class="tag">Law & order</span><span class="tag">Justice administration</span></div></div>
+        <div class="card timeline"><h3>Documented 2026 activity</h3>
+          <div class="timeline-item"><div class="tdate">03 SEP 2026</div><h4>Illegal coal mining cases</h4><p>Alleged that the handling of illegal mining cases was allowing violations to remain unresolved; called for cases to be treated separately and independently.</p></div>
+          <div class="timeline-item"><div class="tdate">28 AUG 2026</div><h4>Advocate General controversy</h4><p>Raised a point of order seeking the government’s position on lawyers’ demands concerning the Advocate General.</p></div>
+          <div class="timeline-item"><div class="tdate">24 AUG 2026</div><h4>Shillong rally violence</h4><p>Raised the August 19 KSU rally violence in the Assembly; the Chief Minister responded with details of arrests and FIRs.</p></div>
+          <div class="timeline-item"><div class="tdate">21 AUG 2026</div><h4>MRSSA implementation</h4><p>Criticised the government over delays in implementing the Meghalaya Residents Safety and Security Act and argued its mandate had been diluted.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="ardent">
+      <div class="leader-page">
+        <div class="card profilebox"><div class="bigavatar">AMB</div><h3>Ardent Miller Basaiawmoit</h3><div class="subtitle">Voice of the People Party • MLA, Nongkrem (ST)</div><div class="fact-table"><div class="metric"><div class="k">Current role</div><div class="v">VPP President</div></div><div class="metric"><div class="k">Political base</div><div class="v">Khasi–Jaintia Hills</div></div><div class="metric"><div class="k">Constituency</div><div class="v">Nongkrem (ST)</div></div><div class="metric"><div class="k">Institution</div><div class="v">Meghalaya Assembly</div></div></div><div class="tags"><span class="tag">Education policy</span><span class="tag">Public mobilisation</span><span class="tag">Assembly time</span><span class="tag">VPP expansion</span></div></div>
+        <div class="card timeline"><h3>Documented 2026 activity</h3>
+          <div class="timeline-item"><div class="tdate">15 SEP 2026</div><h4>Assembly speaking time</h4><p>Argued that limited opposition time in the Assembly was pushing VPP to use social media to highlight issues it said could not be adequately debated in the House.</p></div>
+          <div class="timeline-item"><div class="tdate">10 SEP 2026</div><h4>Education administration</h4><p>VPP demanded the removal of Education Commissioner & Secretary Vijay Kumar Mantri, citing concerns over structured pay, grant-in-aid teachers, service conditions and school rationalisation.</p></div>
+          <div class="timeline-item"><div class="tdate">06 AUG 2026</div><h4>Shillong rally</h4><p>Led a VPP protest in Shillong over multiple public issues; reporting said the march drew thousands and ended peacefully.</p></div>
+          <div class="timeline-item"><div class="tdate">28 FEB 2026</div><h4>Garo Hills expansion</h4><p>Publicly signalled VPP’s intention to expand in Garo Hills ahead of the 2028 Assembly election.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="saleng">
+      <div class="leader-page">
+        <div class="card profilebox"><div class="bigavatar">SAS</div><h3>Saleng A. Sangma</h3><div class="subtitle">Indian National Congress • MP, Tura (ST)</div><div class="fact-table"><div class="metric"><div class="k">Current role</div><div class="v">Lok Sabha MP</div></div><div class="metric"><div class="k">Political base</div><div class="v">Garo Hills / Tura</div></div><div class="metric"><div class="k">Former role</div><div class="v">MLA, Gambegre</div></div><div class="metric"><div class="k">Institution</div><div class="v">18th Lok Sabha</div></div></div><div class="tags"><span class="tag">FCRA</span><span class="tag">Minority institutions</span><span class="tag">Assam–Meghalaya border</span><span class="tag">Parliament</span></div></div>
+        <div class="card timeline"><h3>Documented 2026 activity</h3>
+          <div class="timeline-item"><div class="tdate">29 SEP 2026</div><h4>FCRA Amendment Bill</h4><p>Criticised provisions of the proposed FCRA Amendment Bill, arguing they could affect welfare bodies, educational institutions and churches; defended his outreach to foreign delegates as a request for prayers rather than political intervention.</p></div>
+          <div class="timeline-item"><div class="tdate">25 SEP 2026</div><h4>Maikhuli border tension</h4><p>Disputed the Chief Minister’s characterisation of the Maikhuli incident as simply another manifestation of the decades-old Assam–Meghalaya border dispute, arguing the area had historically been different from other contested sectors.</p></div>
+          <div class="timeline-item"><div class="tdate">2024–2026</div><h4>Parliamentary role</h4><p>Serves as the Congress MP for the Tura (ST) parliamentary constituency in the 18th Lok Sabha.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="issues">
+      <div class="card panel"><h3>Issue Matrix</h3><div class="toolbar"><input id="issueSearch" placeholder="Filter issue or leader..." oninput="filterMatrix()"/></div><div style="overflow:auto"><table class="matrix" id="matrix"><thead><tr><th>Issue</th><th>Mukul Sangma</th><th>Ardent Miller</th><th>Saleng Sangma</th></tr></thead><tbody>
+        <tr><td>MRSSA / ILP</td><td><span class="signal"></span>Criticised delay / dilution of MRSSA</td><td>VPP has raised indigenous-rights and governance issues in public mobilisation</td><td>—</td></tr>
+        <tr><td>Education</td><td>—</td><td><span class="signal"></span>Major 2026 focus: structured pay, teachers, rationalisation, department leadership</td><td>Raised concerns about effects of FCRA changes on educational institutions</td></tr>
+        <tr><td>Law & order</td><td><span class="signal"></span>Raised August 2026 Shillong violence and government preparedness</td><td>Public rallies and criticism of space available to opposition in Assembly</td><td>—</td></tr>
+        <tr><td>Illegal coal mining</td><td><span class="signal"></span>Called for independent treatment of individual cases</td><td>—</td><td>—</td></tr>
+        <tr><td>Assam–Meghalaya border</td><td>—</td><td>—</td><td><span class="signal"></span>Challenged government framing of Maikhuli incident</td></tr>
+        <tr><td>FCRA / institutions</td><td>—</td><td>Raised FCRA among issues VPP said received insufficient Assembly time</td><td><span class="signal"></span>Publicly criticised proposed FCRA Amendment Bill provisions</td></tr>
+        <tr><td>2028 organisation</td><td>AITC opposition leadership</td><td><span class="signal"></span>VPP expansion into Garo Hills publicly signalled</td><td>Congress parliamentary presence in Tura</td></tr>
+      </tbody></table></div></div>
+    </section>
+
+    <section class="section" id="sources"><div class="notice">Source desk prioritises official government / legislature pages for office-holding facts and dated news reports for public statements. Political allegations remain attributed to the person or party making them.</div><div id="sourceList"></div></section>
+  </main>
+</div>
+<script>
+const activity=[
+{date:'29 Sep',leader:'Saleng Sangma',headline:'FCRA Amendment Bill criticism',desc:'Warned of possible effects on welfare bodies, schools, colleges and churches; defended his outreach to foreign delegates.',url:'https://www.indiatoday.in/india/video/saleng-sangma-fcra-is-a-dangerous-attack-on-minority-institutions-india-today-ytvd-3006021-2026-09-29'},
+{date:'25 Sep',leader:'Saleng Sangma',headline:'Maikhuli border dispute',desc:'Disputed the state government’s framing of the recent Maikhuli tensions as simply part of the decades-old border conflict.',url:'https://highlandpost.com/maikhuli-dispute-different-not-similar-to-langpih-saleng/'},
+{date:'15 Sep',leader:'Ardent Miller',headline:'Assembly time / social media',desc:'Said limited opposition time in the House was forcing VPP to highlight more issues outside the Assembly.',url:'https://home.turangga.workers.dev/read-https-theshillongtimes.com/2026/09/16/limited-assembly-time-forces-vpp-to-highlight-issues-on-social-media/'},
+{date:'10 Sep',leader:'Ardent Miller',headline:'Education department demand',desc:'VPP demanded removal of the Education Commissioner & Secretary over several education-policy concerns.',url:'https://meghalayatimes.in/vpp-demands-removal-of-education-bureaucrat/'},
+{date:'03 Sep',leader:'Mukul Sangma',headline:'Illegal coal mining cases',desc:'Alleged that the handling of illegal mining cases was shielding violations and called for separate treatment of individual cases.',url:'https://meghalayatimes.in/mukul-alleges-attempts-to-shield-illegal-coal-mining-calls-for-independent-probe/'},
+{date:'28 Aug',leader:'Mukul Sangma',headline:'Advocate General issue',desc:'Sought the government’s position on lawyers’ demands concerning the Advocate General during the Assembly session.',url:'https://shillongtoday.com/mukul-seeks-clarity-on-demand-for-ags-removal-cm-cites-pending-court-proceedings/'}
+];
+const sources=[
+['Meghalaya Government — Mukul Sangma member profile','Official profile: AITC MLA from Songsak (ST).','https://meghalaya.gov.in/index.php/meghalaya-legislative-assembly/44286'],
+['Meghalaya Government — Leader of Opposition notification','Official 29 Aug 2024 recognition of Mukul Sangma as Leader of the Opposition.','https://meghalaya.gov.in/circulars/content/47295'],
+['National eVidhan Application — Meghalaya Assembly','Assembly party representation and 2026 session information.','https://asla.neva.gov.in/Home/Index/ML'],
+['Meghalaya Government — Saleng A. Sangma','Official profile: Congress MP from Tura (ST), 18th Lok Sabha.','https://www.meghalaya.gov.in/meghalaya/index.php/loksabha/46832'],
+['Meghalaya Times — Mukul on MRSSA','21 Aug 2026 report on his criticism of MRSSA implementation delay.','https://meghalayatimes.in/mukul-accuses-govt-of-lying-on-mrssa-implementation-delay/'],
+['Meghalaya Times — Mukul on coal mining','3 Sep 2026 report on allegations concerning illegal coal-mining cases.','https://meghalayatimes.in/mukul-alleges-attempts-to-shield-illegal-coal-mining-calls-for-independent-probe/'],
+['Shillong Today — Mukul on Advocate General issue','28 Aug 2026 Assembly intervention seeking clarity from the government.','https://shillongtoday.com/mukul-seeks-clarity-on-demand-for-ags-removal-cm-cites-pending-court-proceedings/'],
+['EastMojo — VPP Shillong rally','6 Aug 2026 report on VPP rally and Ardent Miller Basaiawmoit’s statements.','https://eastmojo.com/meghalaya/2026/08/06/vpp-rallies-in-shillong-accuses-mda-government-of-ignoring-public-concerns/'],
+['Meghalaya Times — VPP education demand','10 Sep 2026 report on VPP demand regarding education administration.','https://meghalayatimes.in/vpp-demands-removal-of-education-bureaucrat/'],
+['Shillong News — VPP Garo Hills expansion','28 Feb 2026 report on VPP’s stated plan to contest in Garo Hills in 2028.','https://shillongnews.com/2026/02/28/vpp-to-contest-from-garo-hills-in-next-election/'],
+['India Today — Saleng on FCRA','29 Sep 2026 interview/report on Saleng Sangma’s FCRA criticism.','https://www.indiatoday.in/india/video/saleng-sangma-fcra-is-a-dangerous-attack-on-minority-institutions-india-today-ytvd-3006021-2026-09-29'],
+['Highland Post — Saleng on Maikhuli','25 Sep 2026 report on Saleng Sangma’s response to recent Assam–Meghalaya border tensions.','https://highlandpost.com/maikhuli-dispute-different-not-similar-to-langpih-saleng/']
+];
+function renderActivity(){document.getElementById('recentActivity').innerHTML=activity.map(a=>`<div class="activity"><div class="date">${a.date} 2026</div><div><div class="headline">${a.leader} — ${a.headline}</div><div class="desc">${a.desc}</div></div><a class="source" href="${a.url}" target="_blank" rel="noopener">Source ↗</a></div>`).join('')}
+function renderSources(){document.getElementById('sourceList').innerHTML=sources.map(s=>`<div class="card source-card"><a href="${s[2]}" target="_blank" rel="noopener">${s[0]} ↗</a><p>${s[1]}</p></div>`).join('')}
+function openTab(id){document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));document.getElementById(id).classList.add('active');document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.tab===id));const titles={dashboard:['Opposition Dashboard','Three prominent opposition figures • Meghalaya • last verified 6 Oct 2026'],mukul:['Dr. Mukul M. Sangma','Leader of Opposition • AITC • Songsak (ST)'],ardent:['Ardent Miller Basaiawmoit','VPP President • MLA • Nongkrem (ST)'],saleng:['Saleng A. Sangma','Congress MP • Tura (ST) • 18th Lok Sabha'],issues:['Issue Matrix','Side-by-side map of documented public issue activity'],sources:['Source Desk','Official records and dated public reporting used in this tracker']};document.getElementById('pageTitle').textContent=titles[id][0];document.getElementById('pageSub').textContent=titles[id][1];window.scrollTo({top:0,behavior:'smooth'})}
+document.querySelectorAll('.nav button').forEach(b=>b.addEventListener('click',()=>openTab(b.dataset.tab)));
+function filterMatrix(){const q=document.getElementById('issueSearch').value.toLowerCase();document.querySelectorAll('#matrix tbody tr').forEach(r=>r.style.display=r.innerText.toLowerCase().includes(q)?'':'none')}
+renderActivity();renderSources();
+</script>
+</body>
+</html>
