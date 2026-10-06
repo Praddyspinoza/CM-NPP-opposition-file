@@ -1,0 +1,41 @@
+{
+  "leaders": [
+    {"id":"mukul","name":"Dr. Mukul M. Sangma","party":"All India Trinamool Congress","office":"Leader of Opposition; MLA, Songsak (ST)","queries":["Mukul Sangma Meghalaya","Mukul Sangma TMC Meghalaya"],"x_handles":[],"youtube_channel_ids":[],"facebook_page_ids":[],"instagram_user_ids":[]},
+    {"id":"ardent","name":"Ardent Miller Basaiawmoit","party":"Voice of the People Party","office":"VPP President; MLA, Nongkrem (ST)","queries":["Ardent Miller Basaiawmoit Meghalaya","VPP Meghalaya Ardent Miller"],"x_handles":[],"youtube_channel_ids":[],"facebook_page_ids":[],"instagram_user_ids":[]},
+    {"id":"saleng","name":"Saleng A. Sangma","party":"Indian National Congress","office":"MP, Tura (ST)","queries":["Saleng Sangma Meghalaya","Saleng Sangma Tura Congress"],"x_handles":[],"youtube_channel_ids":[],"facebook_page_ids":[],"instagram_user_ids":[]}
+  ],
+  "source_tiers": {
+    "meghalaya_media": [
+      {"name":"Meghalaya Chronicle","domain":"meghalayachronicle.com"},
+      {"name":"The Shillong Times","domain":"theshillongtimes.com"},
+      {"name":"Highland Post","domain":"highlandpost.com"},
+      {"name":"Hub Network","domain":"hubnetwork.in"},
+      {"name":"Meghalaya Monitor","domain":"meghalayamonitor.com"}
+    ],
+    "official_institutional": [
+      {"name":"Government of Meghalaya","domain":"meghalaya.gov.in"},
+      {"name":"Parliament of India / Sansad","domain":"sansad.in"},
+      {"name":"Digital Sansad","domain":"sansad.in"}
+    ],
+    "regional_national_media": [
+      {"name":"EastMojo","domain":"eastmojo.com"},
+      {"name":"Northeast Now","domain":"nenow.in"},
+      {"name":"India Today NE","domain":"indiatodayne.in"},
+      {"name":"The Hindu","domain":"thehindu.com"},
+      {"name":"The Indian Express","domain":"indianexpress.com"},
+      {"name":"Times of India","domain":"timesofindia.indiatimes.com"},
+      {"name":"News18","domain":"news18.com"},
+      {"name":"PTI","domain":"ptinews.com"}
+    ]
+  },
+  "youtube_sources": {
+    "leaders": [],
+    "parties": [],
+    "institutional": []
+  },
+  "party_sources": [
+    {"name":"All India Trinamool Congress","x_handles":["AITCofficial"],"youtube_channel_ids":[],"facebook_page_ids":[],"instagram_user_ids":[]},
+    {"name":"Voice of the People Party Meghalaya","x_handles":[],"youtube_channel_ids":[],"facebook_page_ids":[],"instagram_user_ids":[]},
+    {"name":"Indian National Congress","x_handles":["INCIndia","INCMeghalaya"],"youtube_channel_ids":[],"facebook_page_ids":[],"instagram_user_ids":[]}
+  ]
+}

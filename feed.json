@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-10-06T10:25:34.288222+00:00",
+  "status": "updated",
+  "items": [
+    {
+      "id": "seed-1",
+      "leader": "ardent",
+      "date": "2026-09-26T13:33:00+05:30",
+      "type": "news",
+      "category": "Security",
+      "title": "Basaiawmoit says he declined police security cover",
+      "summary": "UNI reported that Ardent Miller Basaiawmoit said he had declined a Meghalaya Police offer of security cover after being informed of an alleged threat.",
+      "source": "UNI India",
+      "url": "https://www.uniindia.com/east-india/security-meghalaya-basaiawmoit/193833",
+      "primary": false
+    },
+    {
+      "id": "seed-2",
+      "leader": "ardent",
+      "date": "2026-09-23T09:00:00+05:30",
+      "type": "news",
+      "category": "Education",
+      "title": "VPP comments on withdrawal of Structured Pay Framework notification",
+      "summary": "Meghalaya Chronicle reported Basaiawmoit saying the withdrawal showed the government had corrected an error; the article also records his criticism of the education administration.",
+      "source": "Meghalaya Chronicle",
+      "url": "https://meghalayachronicle.com/ka-jingweng-ia-ka-nofication-ka-pynpaw-ba-don-jingbakla-halor-ka-spf-ong-ka-vpp/",
+      "primary": false
+    },
+    {
+      "id": "seed-3",
+      "leader": "ardent",
+      "date": "2026-08-26T09:00:00+05:30",
+      "type": "news",
+      "category": "Governance",
+      "title": "VPP chief places 10-point charter before Assembly",
+      "summary": "Reporting described demands covering land, recruitment, jobs, influx, industrial projects, education and natural resources.",
+      "source": "Meghalaya Today",
+      "url": "https://meghalayatoday.com/ardent-basaiawmoit-demands-scrapping-of-lumpongdeng-project-shree-cement-hearing/",
+      "primary": false
+    },
+    {
+      "id": "seed-4",
+      "leader": "ardent",
+      "date": "2026-08-20T09:00:00+05:30",
+      "type": "youtube",
+      "category": "Public statement",
+      "title": "VPP chief appeals to all parties to refrain from violence",
+      "summary": "Video coverage of Ardent Miller Basaiawmoit's appeal.",
+      "source": "Northeast Live",
+      "url": "https://www.youtube.com/watch?v=9jm44kpQIII",
+      "video_id": "9jm44kpQIII",
+      "primary": false
+    }
+  ]
+}
