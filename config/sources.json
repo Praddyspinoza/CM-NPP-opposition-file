@@ -1,0 +1,108 @@
+{
+  "leaders": [
+    {
+      "id": "mukul",
+      "name": "Dr. Mukul M. Sangma",
+      "party": "AITC",
+      "office": "Leader of Opposition \u2022 MLA, Songsak (ST)",
+      "queries": [
+        "Mukul Sangma Meghalaya"
+      ],
+      "x_handles": [],
+      "youtube_channel_ids": [],
+      "facebook_page_ids": [],
+      "instagram_user_ids": []
+    },
+    {
+      "id": "ardent",
+      "name": "Ardent Miller Basaiawmoit",
+      "party": "VPP",
+      "office": "VPP President \u2022 MLA, Nongkrem (ST)",
+      "queries": [
+        "Ardent Miller Meghalaya"
+      ],
+      "x_handles": [],
+      "youtube_channel_ids": [],
+      "facebook_page_ids": [],
+      "instagram_user_ids": []
+    },
+    {
+      "id": "saleng",
+      "name": "Saleng A. Sangma",
+      "party": "INC",
+      "office": "Congress MP \u2022 Tura (ST)",
+      "queries": [
+        "Saleng Sangma Meghalaya"
+      ],
+      "x_handles": [],
+      "youtube_channel_ids": [],
+      "facebook_page_ids": [],
+      "instagram_user_ids": []
+    },
+    {
+      "id": "bernard",
+      "name": "Bernard N. Marak",
+      "party": "BJP",
+      "office": "MDC, Tura (GHADC)",
+      "queries": [
+        "Bernard Marak Meghalaya"
+      ],
+      "x_handles": [],
+      "youtube_channel_ids": [],
+      "facebook_page_ids": [],
+      "instagram_user_ids": []
+    }
+  ],
+  "source_tiers": {
+    "meghalaya_media": [
+      {
+        "name": "Meghalaya Chronicle",
+        "domain": "meghalayachronicle.com"
+      },
+      {
+        "name": "The Shillong Times",
+        "domain": "theshillongtimes.com"
+      },
+      {
+        "name": "Highland Post",
+        "domain": "highlandpost.com"
+      },
+      {
+        "name": "Hub Network",
+        "domain": "hubnetwork.in"
+      },
+      {
+        "name": "Meghalaya Monitor",
+        "domain": "meghalayamonitor.com"
+      }
+    ],
+    "official_institutional": [
+      {
+        "name": "Government of Meghalaya",
+        "domain": "meghalaya.gov.in"
+      },
+      {
+        "name": "Sansad",
+        "domain": "sansad.in"
+      }
+    ],
+    "regional_national_media": [
+      {
+        "name": "EastMojo",
+        "domain": "eastmojo.com"
+      },
+      {
+        "name": "Northeast Now",
+        "domain": "nenow.in"
+      },
+      {
+        "name": "India Today NE",
+        "domain": "indiatodayne.in"
+      },
+      {
+        "name": "Indian Express",
+        "domain": "indianexpress.com"
+      }
+    ]
+  }
+}
