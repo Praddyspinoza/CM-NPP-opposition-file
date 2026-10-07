@@ -1,0 +1,31 @@
+name: Daily 7AM IST update
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run opposition tracker update
+        run: python scripts/update.py
+
+      - name: Save refreshed feed
+        run: |
+          git config user.name "meghalaya-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/feed.json
+          git diff --cached --quiet || git commit -m "Daily 7AM tracker update"
+          git push
