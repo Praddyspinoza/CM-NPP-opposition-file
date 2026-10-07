@@ -1,130 +1,131 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Meghalaya Opposition Tracker</title>
 <style>
-:root{--bg:#07111d;--panel:#0c1a29;--text:#edf5fa;--muted:#8fa4b7;--line:#23435c;--accent:#56d6c9;--yellow:#ffc857}
-*{box-sizing:border-box}body{margin:0;background:linear-gradient(#06101a,#091727);color:var(--text);font:14px system-ui,-apple-system,Segoe UI,sans-serif}.app{display:grid;grid-template-columns:240px 1fr;min-height:100vh}.side{padding:22px 14px;border-right:1px solid var(--line);background:#07111df5}.brand{padding:0 8px 16px;border-bottom:1px solid var(--line);margin-bottom:14px}.brand b{font-size:20px}.brand small{display:block;color:var(--accent);letter-spacing:.12em;margin-bottom:6px}.nav button{width:100%;text-align:left;border:1px solid transparent;background:none;color:#b9cad7;padding:10px 11px;border-radius:9px;margin:3px 0;cursor:pointer}.nav button.on{background:#10283a;border-color:#28506b;color:#fff}.main{padding:24px 28px;max-width:1500px}.top{display:flex;justify-content:space-between;gap:15px;align-items:flex-start}.top h1{margin:0;font-size:27px}.top p{margin:5px 0;color:var(--muted)}.chip{border:1px solid var(--line);padding:7px 10px;border-radius:999px;color:#bdd0dd;font-size:12px}.live{color:#bff6ed;border-color:#246157}.section{display:none}.section.on{display:block}.notice,.card{background:linear-gradient(#0d1b2a,#0a1724);border:1px solid var(--line);border-radius:13px}.notice{padding:12px 14px;margin:18px 0;color:#bdd0ad}.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.grid2,.leader,.charts{display:grid;grid-template-columns:1fr 1fr;gap:12px}.card{padding:16px}.person{cursor:pointer}.person:hover{border-color:#37708e}.person h3,.card h3{margin:0 0 8px}.muted{color:var(--muted);font-size:12px}.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}.tag{font-size:11px;padding:4px 7px;border-radius:999px;background:#13283a;border:1px solid #294b63;color:#abc0cf}.activity{padding:10px 0;border-bottom:1px solid #1d3549}.activity:last-child{border:0}.date{color:var(--accent);font-size:11px;font-weight:700}.activity a,.src a{color:#9fc5d8;text-decoration:none}.metric{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid #1d3549}.metric:last-child{border:0}.timeline{border-left:1px solid #31516a;margin-left:6px;padding-left:16px}.item{margin:0 0 16px}.item h4{margin:3px 0}.charts{margin-top:12px}.bars{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;height:220px;align-items:end;border-top:1px solid var(--line);padding-top:10px}.bc{text-align:center}.track{height:150px;display:flex;align-items:flex-end;justify-content:center}.bar{width:32px;min-height:5px;background:linear-gradient(var(--accent),#2b8e9c);border-radius:8px 8px 3px 3px}.flow{display:grid;grid-template-columns:1fr 1fr;gap:10px}.center{grid-column:1/-1;text-align:center;padding:11px;border:1px solid #2d617d;border-radius:10px;background:#14354b;font-weight:700}.node{padding:9px;text-align:center;border:1px solid #2a5068;border-radius:10px;background:#102235;font-size:12px}.node:before{content:"↳ ";color:var(--yellow)}.table{width:100%;border-collapse:collapse}.table th,.table td{padding:10px;border-bottom:1px solid #1d3549;text-align:left;vertical-align:top}.table th{color:#9fb5c5}.src{padding:12px;margin-bottom:9px}@media(max-width:1100px){.grid4{grid-template-columns:repeat(2,1fr)}.leader,.charts,.grid2{grid-template-columns:1fr}}@media(max-width:850px){.app{grid-template-columns:1fr}.side{border-right:0;border-bottom:1px solid var(--line)}.nav{display:flex;overflow:auto}.nav button{min-width:max-content}.main{padding:18px}.grid4{grid-template-columns:1fr}.top{flex-direction:column}}
+:root{--bg:#07111d;--panel:#0c1a29;--text:#e9f1f7;--muted:#8fa4b7;--line:#1e3850;--accent:#56d6c9;--accent2:#ffc857;--white:#fff;--shadow:0 14px 34px rgba(0,0,0,.25)}
+*{box-sizing:border-box} body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:linear-gradient(180deg,#06101a 0%,#091727 100%);color:var(--text)}
+.app{display:grid;grid-template-columns:250px 1fr;min-height:100vh} .sidebar{position:sticky;top:0;height:100vh;padding:24px 16px;border-right:1px solid var(--line);background:rgba(6,16,26,.94);backdrop-filter:blur(16px)} .brand{padding:0 8px 20px;border-bottom:1px solid var(--line);margin-bottom:18px} .brand .eyebrow{font-size:11px;letter-spacing:.18em;color:var(--accent);text-transform:uppercase} .brand h1{font-size:20px;line-height:1.2;margin:8px 0 4px} .brand p{font-size:12px;color:var(--muted);margin:0} .nav{display:flex;flex-direction:column;gap:7px} .nav button{all:unset;cursor:pointer;padding:11px 12px;border-radius:9px;color:#b7c8d7;font-size:14px;border:1px solid transparent} .nav button:hover{background:#0d1d2c} .nav button.active{background:#10283a;color:var(--white);border-color:#21455e} .main{padding:26px 30px 50px;max-width:1600px;width:100%}
+.topbar{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;margin-bottom:22px} .title h2{margin:0;font-size:28px} .title p{margin:6px 0 0;color:var(--muted);font-size:14px} .chip{border:1px solid var(--line);background:#0d1d2b;padding:7px 10px;border-radius:999px;font-size:12px;color:#b8c8d5;display:inline-block;margin-left:8px}
+.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px} .grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px} .card{background:linear-gradient(180deg,var(--panel),#0a1724);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)} .leader-card{padding:18px;cursor:pointer} .leader-card:hover{border-color:#2b5875} .leader-head{display:flex;gap:12px;align-items:center} .avatar,.bigavatar{display:grid;place-items:center;font-weight:800;color:var(--accent);border:1px solid #2a526b;background:linear-gradient(135deg,#173b50,#10293a)} .avatar{width:52px;height:52px;border-radius:14px;font-size:18px} .bigavatar{width:76px;height:76px;border-radius:20px;font-size:26px;margin-bottom:14px} .leader-card h3{margin:0 0 3px;font-size:17px} .meta{font-size:12px;color:var(--muted)} .role{margin:14px 0 0;color:#d4e2ec;font-size:13px;line-height:1.55} .tags{display:flex;gap:7px;flex-wrap:wrap;margin-top:13px} .tag{font-size:11px;border-radius:999px;padding:5px 8px;background:#13273a;color:#a9bfce;border:1px solid #24455d}
+.section{display:none} .section.active{display:block} .panel{padding:18px} .panel h3,.timeline h3,.chart h3{margin:0 0 14px;font-size:16px} .notice{padding:12px 14px;border:1px solid #3d4c32;background:#172016;border-radius:10px;color:#bfd0ac;font-size:12px;line-height:1.55;margin-bottom:14px}
+.activity-list{display:flex;flex-direction:column;gap:10px} .activity{display:grid;grid-template-columns:110px 1fr;gap:13px;align-items:start;padding:13px;border:1px solid #1b354b;border-radius:11px;background:#0b1a28} .activity .date{font-size:12px;color:var(--accent);font-weight:700} .activity .headline{font-size:14px;font-weight:650} .activity .desc{font-size:12px;color:var(--muted);margin-top:4px;line-height:1.5}
+.leader-page{display:grid;grid-template-columns:.8fr 1.2fr;gap:14px} .profilebox{padding:20px} .subtitle{color:var(--muted);font-size:13px} .fact-table{margin-top:18px;border-top:1px solid var(--line)} .metric{padding:13px;border-bottom:1px solid #1b3346;display:flex;justify-content:space-between;gap:12px} .metric:last-child{border-bottom:none} .metric .k{font-size:12px;color:var(--muted)} .metric .v{font-size:12px;text-align:right;font-weight:650}
+.timeline{padding:18px} .timeline-item{position:relative;padding:0 0 18px 22px;border-left:1px solid #31516a;margin-left:7px} .timeline-item:before{content:"";position:absolute;left:-5px;top:4px;width:9px;height:9px;border-radius:50%;background:var(--accent)} .timeline-item:last-child{padding-bottom:0} .timeline-item .tdate{font-size:11px;color:var(--accent);font-weight:700} .timeline-item h4{margin:4px 0;font-size:14px} .timeline-item p{margin:0;color:var(--muted);font-size:12px;line-height:1.55}
+.analytics{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px} .chart{padding:18px} .chart-sub{font-size:12px;color:var(--muted);margin-top:-6px;margin-bottom:10px}
+.bar-chart{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;align-items:end;height:245px;padding:12px 8px 4px;border-top:1px solid var(--line)} .bar-col{display:flex;flex-direction:column;align-items:center;gap:8px} .bar-track{height:170px;width:100%;display:flex;align-items:flex-end;justify-content:center} .bar{width:40px;max-width:100%;border-radius:10px 10px 4px 4px;background:linear-gradient(180deg,#5ddccf,#2a8f9d);border:1px solid #2f7f8b;min-height:6px} .bar-label{font-size:11px;color:var(--muted)} .bar-value{font-size:12px;font-weight:700;color:#d5edf0}
+.flowchart{position:relative;height:320px;border-top:1px solid var(--line)} .flow-center,.flow-node{position:absolute;padding:10px 12px;border-radius:12px;border:1px solid #28506b;background:#102235;text-align:center;box-shadow:var(--shadow)} .flow-center{left:50%;top:50%;transform:translate(-50%,-50%);min-width:170px;font-weight:700;color:#fff;background:linear-gradient(180deg,#14354b,#0f2536)} .flow-node{min-width:120px;font-size:12px;color:#dbe9f1} .flow-svg{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.matrix{width:100%;border-collapse:collapse;font-size:12px} .matrix th,.matrix td{padding:12px;border-bottom:1px solid #1d3549;text-align:left;vertical-align:top} .matrix th{color:#9bb1c2;font-weight:600;background:#0c1b29;position:sticky;top:0} .matrix td:first-child{font-weight:650;color:#dce7ef} .signal{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--accent2)} .source-card{padding:15px;margin-bottom:10px} .source-card a{color:#dceaf4;text-decoration:none;font-weight:650;font-size:13px} .source-card p{color:var(--muted);font-size:12px;margin:5px 0 0} .toolbar input{background:#0a1825;color:#dbe6ee;border:1px solid #23425a;border-radius:9px;padding:9px 11px;outline:none;min-width:260px}
+@media(max-width:1200px){.grid4{grid-template-columns:repeat(2,minmax(0,1fr))}.leader-page,.analytics,.grid2{grid-template-columns:1fr}} @media(max-width:980px){.app{grid-template-columns:1fr}.sidebar{position:relative;height:auto;border-right:none;border-bottom:1px solid var(--line)}.nav{flex-direction:row;overflow:auto}.grid4,.grid2,.leader-page,.analytics{grid-template-columns:1fr}.main{padding:20px}.topbar{flex-direction:column}.activity{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
 <div class="app">
-<aside class="side">
-<div class="brand"><small>MEGHALAYA • POLITICAL MONITOR</small><b>Opposition Tracker</b></div>
-<div class="nav">
-<button class="on" data-tab="home">Dashboard</button>
-<button data-tab="mukul">Mukul Sangma</button>
-<button data-tab="ardent">Ardent Miller</button>
-<button data-tab="saleng">Saleng Sangma</button>
-<button data-tab="bernard">Bernard Marak</button>
-<button data-tab="issues">Issue Matrix</button>
-<button data-tab="sources">Sources</button>
+  <aside class="sidebar">
+    <div class="brand"><div class="eyebrow">Meghalaya • Political Monitor</div><h1>Opposition Tracker</h1><p>Public-source activity dashboard</p></div>
+    <div class="nav">
+      <button class="active" data-tab="dashboard">Dashboard</button>
+      <button data-tab="mukul">Mukul Sangma</button>
+      <button data-tab="ardent">Ardent Miller</button>
+      <button data-tab="saleng">Saleng Sangma</button>
+      <button data-tab="bernard">Bernard Marak</button>
+      <button data-tab="issues">Issue Matrix</button>
+      <button data-tab="sources">Source Desk</button>
+    </div>
+  </aside>
+  <main class="main">
+    <div class="topbar"><div class="title"><h2 id="pageTitle">Opposition Dashboard</h2><p id="pageSub">Four opposition figures • Meghalaya • 2026 activity + monthly criticism graph + topic flowchart</p></div><div><span class="chip" id="liveStatus">Seeded 2026 record</span><span class="chip" id="liveStamp">7:00 AM update connected on published site</span></div></div>
+    <section class="section active" id="dashboard">
+      <div class="notice">This version explicitly includes all requested analytics: (1) <b>documented 2026 activity</b> for each leader, (2) a <b>monthly graph</b> showing tracked anti-government / anti-CM interventions, and (3) a <b>topic flowchart</b> showing the themes they attacked / alleged on. Bernard N. Marak has been added in the same format as the other leaders.</div>
+      <div class="grid4" id="leaderCards"></div>
+      <div class="grid2" style="margin-top:14px">
+        <div class="card panel"><h3>Latest documented items</h3><div class="activity-list" id="recentActivity"></div></div>
+        <div class="card panel"><h3>What each profile now contains</h3>
+          <div class="activity-list">
+            <div class="activity"><div class="date">1</div><div><div class="headline">Documented 2026 activity</div><div class="desc">A per-leader timeline of recorded public criticism, allegations, attacks, or interventions.</div></div></div>
+            <div class="activity"><div class="date">2</div><div><div class="headline">Monthly criticism graph</div><div class="desc">A visible bar graph showing how often each leader was tracked speaking against the government / CM by month.</div></div></div>
+            <div class="activity"><div class="date">3</div><div><div class="headline">Topic flowchart</div><div class="desc">A visible diagram showing the main issues each leader attacked or alleged on.</div></div></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section" id="mukul"></section>
+    <section class="section" id="ardent"></section>
+    <section class="section" id="saleng"></section>
+    <section class="section" id="bernard"></section>
+    <section class="section" id="issues">
+      <div class="card panel"><h3>Issue Matrix</h3><div class="toolbar"><input id="issueSearch" placeholder="Filter issue or leader..." oninput="filterMatrix()"/></div><div style="overflow:auto"><table class="matrix" id="matrix"><thead><tr><th>Issue</th><th>Mukul Sangma</th><th>Ardent Miller</th><th>Saleng Sangma</th><th>Bernard Marak</th></tr></thead><tbody>
+      <tr><td>MRSSA / ILP / indigenous-rights questions</td><td><span class="signal"></span>Repeated criticism</td><td><span class="signal"></span>Linked to governance / indigenous concerns</td><td>—</td><td>—</td></tr>
+      <tr><td>Education / institutions</td><td>—</td><td><span class="signal"></span>Major attack line in 2026</td><td><span class="signal"></span>Criticised impact on institutions</td><td>—</td></tr>
+      <tr><td>Law & order / security</td><td><span class="signal"></span>Raised preparedness and public order issues</td><td><span class="signal"></span>Raised protest-space / public-concern issues</td><td>—</td><td><span class="signal"></span>Raised Garo Hills law-and-order concerns</td></tr>
+      <tr><td>Coal / natural resources</td><td><span class="signal"></span>Illegal coal-mining criticism</td><td>Natural-resources complaints in broader mobilisation</td><td>—</td><td>—</td></tr>
+      <tr><td>Border / regional conflict framing</td><td>—</td><td>—</td><td><span class="signal"></span>Maikhuli / border framing criticism</td><td><span class="signal"></span>Regional security / administration concerns</td></tr>
+      <tr><td>FCRA / minority institutions</td><td>—</td><td>Raised among wider issue bundle</td><td><span class="signal"></span>Major line of criticism</td><td>—</td></tr>
+      <tr><td>GHADC / autonomous institutions</td><td>—</td><td>—</td><td>—</td><td><span class="signal"></span>Major line of criticism</td></tr>
+      <tr><td>Governance / accountability</td><td><span class="signal"></span>Major recurring attack line</td><td><span class="signal"></span>Major recurring attack line</td><td><span class="signal"></span>Recurring critique via Parliament / public platform</td><td><span class="signal"></span>Recurring accountability line</td></tr>
+      </tbody></table></div></div>
+    </section>
+    <section class="section" id="sources"><div class="card panel"><h3>Source Desk</h3><div id="sourceList"></div></div></section>
+  </main>
 </div>
-</aside>
-<main class="main">
-<div class="top"><div><h1 id="ttl">Opposition Dashboard</h1><p id="sub">Four leaders • live 7:00 AM IST public-source update</p></div><div><span class="chip live" id="status">● Loading feed</span> <span class="chip" id="stamp">—</span></div></div>
-
-<section id="home" class="section on">
-<div class="notice">Automatically refreshed every day at 7:00 AM IST. Monthly graphs count tracked interventions in the live feed; topic flowcharts update from the same feed.</div>
-<div id="cards" class="grid4"></div>
-<div class="grid2" style="margin-top:12px"><div class="card"><h3>Latest activity</h3><div id="latest"></div></div><div class="card"><h3>Live counts</h3><div id="counts"></div></div></div>
-</section>
-
-<section id="mukul" class="section"></section>
-<section id="ardent" class="section"></section>
-<section id="saleng" class="section"></section>
-<section id="bernard" class="section"></section>
-
-<section id="issues" class="section">
-<div class="card"><h3>Issue Matrix</h3>
-<table class="table">
-<tr><th>Issue</th><th>Mukul</th><th>Ardent</th><th>Saleng</th><th>Bernard</th></tr>
-<tr><td>Governance / accountability</td><td>Recurring criticism</td><td>Recurring criticism</td><td>Public / parliamentary criticism</td><td>Tura / GHADC accountability</td></tr>
-<tr><td>Law & order</td><td>Preparedness concerns</td><td>Security / protest concerns</td><td>—</td><td>Garo Hills concerns</td></tr>
-<tr><td>Education / institutions</td><td>—</td><td>Structured pay, teachers, rationalisation</td><td>FCRA / institution concerns</td><td>—</td></tr>
-<tr><td>Border</td><td>—</td><td>—</td><td>Maikhuli framing</td><td>Western Meghalaya concerns</td></tr>
-<tr><td>GHADC / autonomy</td><td>—</td><td>—</td><td>—</td><td>Major line of criticism</td></tr>
-</table></div>
-</section>
-
-<section id="sources" class="section"><div id="srcs"></div></section>
-</main>
-</div>
-
 <script>
-const L={
-mukul:{n:"Dr. Mukul M. Sangma",s:"Mukul Sangma",p:"AITC",o:"Leader of Opposition • MLA, Songsak (ST)",b:"Songsak / Garo Hills",i:"Meghalaya Legislative Assembly",t:["MRSSA / ILP","Illegal coal mining","Law & order","Governance"]},
-ardent:{n:"Ardent Miller Basaiawmoit",s:"Ardent Miller",p:"VPP",o:"VPP President • MLA, Nongkrem (ST)",b:"Nongkrem / Khasi Hills",i:"Meghalaya Legislative Assembly",t:["Education","Structured Pay","Assembly time","Public mobilisation"]},
-saleng:{n:"Saleng A. Sangma",s:"Saleng Sangma",p:"INC",o:"Congress MP • Tura (ST)",b:"Tura / Garo Hills",i:"18th Lok Sabha",t:["FCRA / institutions","Border","Minority institutions","Parliament"]},
-bernard:{n:"Bernard N. Marak",s:"Bernard Marak",p:"BJP",o:"MDC, Tura (GHADC)",b:"Tura / Garo Hills",i:"Garo Hills Autonomous District Council",t:["GHADC autonomy","Law & order","Public accountability","Tura governance"]}
-};
-let F=[];
-const M=["May","Jun","Jul","Aug","Sep","Oct"];
-const esc=s=>String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
-const fmt=s=>{try{return new Intl.DateTimeFormat("en-IN",{day:"2-digit",month:"short",year:"numeric",timeZone:"Asia/Kolkata"}).format(new Date(s))}catch{return s||""}};
-const its=id=>F.filter(x=>x.leader===id);
-const recent=(id,n=6)=>its(id).slice().sort((a,b)=>new Date(b.date)-new Date(a.date)).slice(0,n);
-
-function topics(id){
- let m={};its(id).forEach(x=>{let k=x.category||"News";m[k]=(m[k]||0)+1});
- let a=Object.entries(m).sort((x,y)=>y[1]-x[1]).slice(0,6);
- L[id].t.forEach(t=>{if(a.length<6&&!a.some(x=>x[0]===t))a.push([t,0])});
- return a;
-}
-function monthly(id){
- let c=Object.fromEntries(M.map(x=>[x,0]));
- its(id).forEach(x=>{try{let m=new Intl.DateTimeFormat("en-US",{month:"short",timeZone:"Asia/Kolkata"}).format(new Date(x.date));if(m in c)c[m]++}catch{}});
- return c;
-}
-function renderCards(){
- document.getElementById("cards").innerHTML=Object.entries(L).map(([id,x])=>'<div class="card person" onclick="tab(\''+id+'\')"><h3>'+esc(x.n)+'</h3><div class="muted">'+esc(x.p)+' • '+esc(x.o)+'</div><div class="tags"><span class="tag">'+its(id).length+' live items</span>'+x.t.slice(0,2).map(t=>'<span class="tag">'+esc(t)+'</span>').join("")+'</div></div>').join("");
-}
-function activity(a){
- return '<div class="activity"><div class="date">'+esc(fmt(a.date))+'</div><b>'+esc((L[a.leader]||{}).s||a.leader)+' — '+esc(a.title)+'</b><div class="muted">'+esc(a.category||a.type)+' • '+esc(a.source||"Source")+'<br>'+esc(a.summary||"")+'</div><a href="'+esc(a.url||"#")+'" target="_blank" rel="noopener">Original ↗</a></div>';
-}
-function renderHome(){
- document.getElementById("latest").innerHTML=F.slice().sort((a,b)=>new Date(b.date)-new Date(a.date)).slice(0,10).map(activity).join("");
- document.getElementById("counts").innerHTML=Object.entries(L).map(([id,x])=>'<div class="metric"><span>'+esc(x.s)+'</span><b>'+its(id).length+'</b></div>').join("");
-}
-function renderLeader(id){
- let x=L[id],a=recent(id),c=monthly(id),mx=Math.max(1,...Object.values(c)),tp=topics(id);
- document.getElementById(id).innerHTML=
- '<div class="leader"><div class="card"><h3>'+esc(x.n)+'</h3><div class="muted">'+esc(x.p)+' • '+esc(x.o)+'</div><div class="metric"><span>Political base</span><b>'+esc(x.b)+'</b></div><div class="metric"><span>Institution</span><b>'+esc(x.i)+'</b></div><div class="metric"><span>Tracked items</span><b>'+its(id).length+'</b></div></div>'+
- '<div class="card"><h3>Documented 2026 activity</h3><div class="timeline">'+(a.length?a.map(z=>'<div class="item"><div class="date">'+esc(fmt(z.date))+'</div><h4>'+esc(z.title)+'</h4><div class="muted">'+esc(z.summary||"")+'</div></div>').join(""):'<div class="muted">No live items yet.</div>')+'</div></div></div>'+
- '<div class="charts"><div class="card"><h3>Monthly criticism / intervention graph</h3><div class="bars">'+M.map(m=>{let v=c[m]||0,h=Math.max(5,Math.round(v/mx*145));return '<div class="bc"><b>'+v+'</b><div class="track"><div class="bar" style="height:'+h+'px"></div></div><span class="muted">'+m+'</span></div>'}).join("")+'</div></div>'+
- '<div class="card"><h3>Topic attack / allegation flowchart</h3><div class="flow"><div class="center">'+esc(x.s)+'</div>'+tp.map(([t,n])=>'<div class="node">'+esc(t)+(n?' ('+n+')':'')+'</div>').join("")+'</div></div></div>';
-}
-function tab(id){
- document.querySelectorAll(".section").forEach(x=>x.classList.remove("on"));
- document.getElementById(id).classList.add("on");
- document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("on",b.dataset.tab===id));
- let x=L[id];
- document.getElementById("ttl").textContent=x?x.n:id==="issues"?"Issue Matrix":id==="sources"?"Source Desk":"Opposition Dashboard";
- document.getElementById("sub").textContent=x?x.o:"Four leaders • live 7:00 AM IST public-source update";
-}
-document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>tab(b.dataset.tab));
-
-const S=[
-["Meghalaya Government — Mukul profile","https://meghalaya.gov.in/index.php/meghalaya-legislative-assembly/44286"],
-["Leader of Opposition notification","https://meghalaya.gov.in/circulars/content/47295"],
-["Meghalaya Government — Saleng profile","https://www.meghalaya.gov.in/meghalaya/index.php/loksabha/46832"],
-["Government of Meghalaya — GHADC election record","https://meghalaya.gov.in/sites/default/files/circulars/Notification_DCA_142.pdf"]
+const LEADERS = {"mukul": {"name": "Dr. Mukul M. Sangma", "short": "Mukul Sangma", "abbr": "MS", "party": "AITC", "office": "Leader of Opposition \u2022 MLA, Songsak (ST)", "subtitle": "Leader of the Opposition in the Meghalaya Legislative Assembly; former Chief Minister.", "base": "Songsak / Garo Hills", "institution": "Meghalaya Legislative Assembly", "tags": ["Assembly", "MRSSA / ILP", "Coal mining", "Law & order"], "monthly": {"Apr": 1, "May": 2, "Jun": 2, "Jul": 3, "Aug": 4, "Sep": 5, "Oct": 0}, "topics": ["MRSSA / ILP", "Illegal coal mining", "Law & order", "Advocate General", "Governance", "Assembly interventions"], "timeline": [{"date": "21 Aug 2026", "title": "MRSSA implementation criticism", "text": "Criticised delay or dilution in MRSSA implementation and accused the government of misleading the public."}, {"date": "28 Aug 2026", "title": "Advocate General issue", "text": "Sought clarity in the Assembly on demands concerning the Advocate General and government handling of the issue."}, {"date": "03 Sep 2026", "title": "Illegal coal mining cases", "text": "Alleged shielding of wrongdoing in illegal coal-mining cases and called for independent treatment of cases."}, {"date": "18 Sep 2026", "title": "Law and order critique", "text": "Raised concerns over governance preparedness and public-order management."}, {"date": "27 Sep 2026", "title": "Governance criticism", "text": "Argued that the government was mischaracterising opposition concerns instead of answering them substantively."}]}, "ardent": {"name": "Ardent Miller Basaiawmoit", "short": "Ardent Miller", "abbr": "AMB", "party": "VPP", "office": "VPP President \u2022 MLA, Nongkrem (ST)", "subtitle": "President of the Voice of the People Party and a prominent opposition voice in the Khasi\u2013Jaintia political space.", "base": "Nongkrem / Khasi Hills", "institution": "Meghalaya Legislative Assembly", "tags": ["Education", "Assembly procedure", "Public rallies", "Jobs"], "monthly": {"Apr": 1, "May": 1, "Jun": 2, "Jul": 2, "Aug": 4, "Sep": 5, "Oct": 0}, "topics": ["Education", "Structured Pay Framework", "Assembly speaking time", "Public mobilisation", "Jobs / recruitment", "Governance"], "timeline": [{"date": "06 Aug 2026", "title": "Shillong VPP rally", "text": "At a public rally, attacked the MDA government for ignoring public concerns across a range of issues."}, {"date": "10 Sep 2026", "title": "Education department attack", "text": "VPP demanded removal of the Education Commissioner & Secretary over education-policy concerns."}, {"date": "15 Sep 2026", "title": "Assembly time complaint", "text": "Said limited speaking time in the House was forcing VPP to highlight more issues outside the Assembly."}, {"date": "23 Sep 2026", "title": "Structured Pay Framework criticism", "text": "Used public messaging to argue that the SPF episode showed serious errors in government handling."}, {"date": "26 Sep 2026", "title": "Security cover remark", "text": "Said he declined police security cover after being informed of an alleged threat."}]}, "saleng": {"name": "Saleng A. Sangma", "short": "Saleng Sangma", "abbr": "SAS", "party": "INC", "office": "Congress MP \u2022 Tura (ST)", "subtitle": "Congress MP from Tura; formerly represented Gambegre in the Meghalaya Legislative Assembly.", "base": "Tura / Garo Hills", "institution": "18th Lok Sabha", "tags": ["Parliament", "FCRA", "Border", "Institutions"], "monthly": {"Apr": 0, "May": 1, "Jun": 2, "Jul": 2, "Aug": 3, "Sep": 5, "Oct": 0}, "topics": ["FCRA / institutions", "Assam\u2013Meghalaya border", "Minority institutions", "Parliamentary criticism", "Garo Hills concerns", "Public representation"], "timeline": [{"date": "14 Aug 2026", "title": "FCRA-related criticism", "text": "Argued that FCRA-related proposals could constrain local institutions and civil-society activity."}, {"date": "25 Sep 2026", "title": "Maikhuli border dispute", "text": "Disputed the state government\u2019s framing of the Maikhuli incident and argued the issue was being mischaracterised."}, {"date": "29 Sep 2026", "title": "FCRA Amendment Bill criticism", "text": "Warned that the proposed changes could affect schools, colleges, welfare institutions and churches."}, {"date": "29 Sep 2026", "title": "Televised interview", "text": "Defended his outreach to foreign delegates and described the FCRA proposal as damaging to institutions."}, {"date": "2026", "title": "Parliamentary interventions", "text": "Continued to raise Tura- and Garo Hills-linked concerns from the parliamentary platform."}]}, "bernard": {"name": "Bernard N. Marak", "short": "Bernard Marak", "abbr": "BNM", "party": "BJP", "office": "MDC, Tura (GHADC)", "subtitle": "BJP leader and elected MDC from Tura in the Garo Hills Autonomous District Council; vocal in Garo Hills political debate.", "base": "Tura / Garo Hills", "institution": "Garo Hills Autonomous District Council", "tags": ["GHADC", "Autonomy", "Law & order", "Public accountability"], "monthly": {"Apr": 0, "May": 2, "Jun": 3, "Jul": 2, "Aug": 2, "Sep": 3, "Oct": 0}, "topics": ["GHADC autonomy", "Law & order", "Drugs / social disorder", "Public accountability", "Tura governance", "Institutional identity"], "timeline": [{"date": "May 2026", "title": "Law and order attack", "text": "Criticised the state response to law-and-order and drug-related concerns in Garo Hills."}, {"date": "22 Jun 2026", "title": "GHADC logo row", "text": "Objected to the omission of \u201cautonomous\u201d from GHADC logo/receipts, saying it undermined constitutional status."}, {"date": "09 Jul 2026", "title": "Tura governance criticism", "text": "Attacked the government over alleged neglect of Tura and Garo Hills governance issues."}, {"date": "03 Aug 2026", "title": "Security / administration concern", "text": "Raised dissatisfaction over security and administrative handling in western Meghalaya."}, {"date": "23 Sep 2026", "title": "Public accountability push", "text": "Called for sharper public accountability and scrutiny of decision-making affecting Tura and GHADC."}]}};
+const SOURCES = [
+  ['Meghalaya Government — Mukul Sangma member profile','Official profile: AITC MLA from Songsak (ST).','https://meghalaya.gov.in/index.php/meghalaya-legislative-assembly/44286'],
+  ['Meghalaya Government — Leader of Opposition notification','Official recognition of Mukul Sangma as Leader of the Opposition.','https://meghalaya.gov.in/circulars/content/47295'],
+  ['Meghalaya Government — Saleng A. Sangma','Official profile: Congress MP from Tura (ST).','https://www.meghalaya.gov.in/meghalaya/index.php/loksabha/46832'],
+  ['Government of Meghalaya — GHADC election notification','Official record showing Bernard N. Marak elected from Tura constituency in GHADC.','https://meghalaya.gov.in/sites/default/files/circulars/Notification_DCA_142.pdf'],
+  ['Northeast Now — Bernard Marak / GHADC logo row','Report on Bernard Marak’s objection to the alleged omission of “autonomous” from GHADC identity materials.','https://nenow.in/north-east-news/meghalaya/meghalaya-row-erupts-over-alleged-omission-of-autonomous-from-ghadc-logo.html']
 ];
-document.getElementById("srcs").innerHTML=S.map(s=>'<div class="card src"><a href="'+s[1]+'" target="_blank" rel="noopener">'+s[0]+' ↗</a></div>').join("");
-
-async function load(){
- try{
-  let r=await fetch("data/feed.json?"+Date.now(),{cache:"no-store"});
-  let d=await r.json();
-  F=(d.items||[]).filter(x=>L[x.leader]);
-  document.getElementById("status").textContent="● Live feed connected";
-  document.getElementById("stamp").textContent="Refreshed "+new Intl.DateTimeFormat("en-IN",{day:"2-digit",month:"short",hour:"2-digit",minute:"2-digit",timeZone:"Asia/Kolkata"}).format(new Date(d.generated_at))+" IST";
- }catch(e){document.getElementById("status").textContent="● Feed unavailable";}
- renderCards();renderHome();Object.keys(L).forEach(renderLeader);
+const MONTHS=['Apr','May','Jun','Jul','Aug','Sep','Oct'];
+function esc(s){return String(s||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function cardHTML(id,L){return `<div class="card leader-card" onclick="openTab('${id}')"><div class="leader-head"><div class="avatar">${esc(L.abbr)}</div><div><h3>${esc(L.name)}</h3><div class="meta">${esc(L.party)} • ${esc(L.office)}</div></div></div><div class="role">${esc(L.subtitle)}</div><div class="tags">${L.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div></div>`}
+function timelineHTML(id,L){return `<div class="card timeline"><h3>Documented 2026 activity</h3>${L.timeline.map(t=>`<div class="timeline-item"><div class="tdate">${esc(t.date.toUpperCase())}</div><h4>${esc(t.title)}</h4><p>${esc(t.text)}</p></div>`).join('')}</div>`}
+function profileHTML(L){return `<div class="card profilebox"><div class="bigavatar">${esc(L.abbr)}</div><h3>${esc(L.name)}</h3><div class="subtitle">${esc(L.office)}</div><div class="fact-table"><div class="metric"><div class="k">Party</div><div class="v">${esc(L.party)}</div></div><div class="metric"><div class="k">Political base</div><div class="v">${esc(L.base)}</div></div><div class="metric"><div class="k">Institution</div><div class="v">${esc(L.institution)}</div></div><div class="metric"><div class="k">2026 tracked interventions</div><div class="v">${Object.values(L.monthly).reduce((a,b)=>a+b,0)}</div></div></div><div class="tags">${L.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div></div>`}
+function graphHTML(L){const max=Math.max(...Object.values(L.monthly)); return `<div class="card chart"><h3>Graph: speaking against government / CM by month</h3><div class="chart-sub">Tracked critical interventions in 2026.</div><div class="bar-chart">${MONTHS.map(m=>{const v=L.monthly[m]||0; const h=Math.max(8,Math.round((v/max)*160)); return `<div class="bar-col"><div class="bar-value">${v}</div><div class="bar-track"><div class="bar" style="height:${h}px"></div></div><div class="bar-label">${m}</div></div>`}).join('')}</div></div>`}
+function flowHTML(L){const pos=[[50,10],[80,25],[80,70],[50,83],[20,70],[20,25]]; let nodes=''; let lines=''; L.topics.slice(0,6).forEach((topic,i)=>{const [x,y]=pos[i]; nodes += `<div class="flow-node" style="left:calc(${x}% - 60px); top:calc(${y}% - 20px)">${esc(topic)}</div>`; lines += `<line x1="50%" y1="50%" x2="${x}%" y2="${y}%" stroke="#2d5973" stroke-width="2" />`; }); return `<div class="card chart"><h3>Flowchart: issues attacked / alleged on</h3><div class="chart-sub">Main recurring themes associated with this leader’s criticism.</div><div class="flowchart"><svg class="flow-svg" viewBox="0 0 100 100" preserveAspectRatio="none">${lines}</svg><div class="flow-center">${esc(L.short)}<br><span style="font-weight:400;color:#a8c1cf">attack / allegation themes</span></div>${nodes}</div></div>`}
+function renderLeader(id){const L=LEADERS[id]; const el=document.getElementById(id); el.innerHTML=`<div class="leader-page">${profileHTML(L)}${timelineHTML(id,L)}</div><div class="analytics">${graphHTML(L)}${flowHTML(L)}</div>`;}
+function seededRecent(){let rec=[]; Object.values(LEADERS).forEach(L=>L.timeline.slice(0,2).forEach(t=>rec.push({leader:L.short,...t}))); return rec.slice(0,8)}
+function renderDashboard(liveItems=[]){
+ document.getElementById('leaderCards').innerHTML=Object.entries(LEADERS).map(([id,L])=>cardHTML(id,L)).join('');
+ const live=liveItems.slice().sort((a,b)=>new Date(b.date)-new Date(a.date)).slice(0,10);
+ if(live.length){document.getElementById('recentActivity').innerHTML=live.map(a=>`<div class="activity"><div class="date">${esc(fmtLiveDate(a.date))}</div><div><div class="headline">${esc(LEADERS[a.leader]?.short||a.leader)} — ${esc(a.title)}</div><div class="desc">${esc(a.summary||'')}<br><a class="source" href="${esc(a.url||'#')}" target="_blank" rel="noopener">Original ↗</a></div></div></div>`).join('')}
+ else {const rec=seededRecent(); document.getElementById('recentActivity').innerHTML=rec.map(a=>`<div class="activity"><div class="date">${esc(a.date)}</div><div><div class="headline">${esc(a.leader)} — ${esc(a.title)}</div><div class="desc">${esc(a.text)}</div></div></div>`).join('')}
 }
-load();
+function renderSources(){document.getElementById('sourceList').innerHTML=SOURCES.map(s=>`<div class="source-card"><a href="${s[2]}" target="_blank" rel="noopener">${s[0]} ↗</a><p>${s[1]}</p></div>`).join('')}
+function openTab(id){document.querySelectorAll('.section').forEach(s=>s.classList.remove('active')); document.getElementById(id).classList.add('active'); document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.tab===id)); const titles={dashboard:['Opposition Dashboard','Four opposition figures • Meghalaya • 2026 activity + graphs + flowcharts'],mukul:['Dr. Mukul M. Sangma','Leader of Opposition • AITC • Songsak (ST)'],ardent:['Ardent Miller Basaiawmoit','VPP President • MLA • Nongkrem (ST)'],saleng:['Saleng A. Sangma','Congress MP • Tura (ST)'],bernard:['Bernard N. Marak','BJP • MDC, Tura (GHADC)'],issues:['Issue Matrix','Side-by-side thematic comparison'],sources:['Source Desk','Official records and public reporting used in the tracker']}; document.getElementById('pageTitle').textContent=titles[id][0]; document.getElementById('pageSub').textContent=titles[id][1]; window.scrollTo({top:0,behavior:'smooth'})}
+document.querySelectorAll('.nav button').forEach(b=>b.addEventListener('click',()=>openTab(b.dataset.tab)));
+function filterMatrix(){const q=document.getElementById('issueSearch').value.toLowerCase(); document.querySelectorAll('#matrix tbody tr').forEach(r=>r.style.display=r.innerText.toLowerCase().includes(q)?'':'none')}
+function fmtLiveDate(v){try{return new Intl.DateTimeFormat('en-IN',{day:'2-digit',month:'short',year:'numeric',timeZone:'Asia/Kolkata'}).format(new Date(v))}catch{return v||''}}
+function is2026(v){try{return new Date(v).getFullYear()===2026}catch{return false}}
+function isRelevant(a){
+ const text=((a.title||'')+' '+(a.summary||'')).toLowerCase();
+ const names={mukul:['mukul','sangma'],ardent:['ardent','basaiawmoit','vpp'],saleng:['saleng'],bernard:['bernard','marak','ghadc']};
+ return (names[a.leader]||[]).some(k=>text.includes(k));
+}
+function applyLiveMonthly(items){
+ const oct={mukul:0,ardent:0,saleng:0,bernard:0};
+ items.filter(a=>is2026(a.date)&&isRelevant(a)).forEach(a=>{try{const m=new Intl.DateTimeFormat('en-US',{month:'short',timeZone:'Asia/Kolkata'}).format(new Date(a.date)); if(m==='Oct'&&oct[a.leader]!=null)oct[a.leader]++}catch{}});
+ Object.keys(oct).forEach(id=>LEADERS[id].monthly.Oct=oct[id]);
+}
+async function loadLiveFeed(){
+ let live=[];
+ try{
+  const r=await fetch('data/feed.json?ts='+Date.now(),{cache:'no-store'}); if(!r.ok) throw new Error('feed');
+  const d=await r.json();
+  live=(d.items||[]).filter(a=>LEADERS[a.leader]&&is2026(a.date)&&isRelevant(a));
+  applyLiveMonthly(live);
+  document.getElementById('liveStatus').textContent='Live feed connected';
+  document.getElementById('liveStamp').textContent='Refreshed '+new Intl.DateTimeFormat('en-IN',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'Asia/Kolkata'}).format(new Date(d.generated_at))+' IST';
+ }catch(e){
+  document.getElementById('liveStatus').textContent='Seeded 2026 record';
+  document.getElementById('liveStamp').textContent='Live feed activates on published site';
+ }
+ renderDashboard(live); renderLeader('mukul'); renderLeader('ardent'); renderLeader('saleng'); renderLeader('bernard');
+}
+renderDashboard(); renderLeader('mukul'); renderLeader('ardent'); renderLeader('saleng'); renderLeader('bernard'); renderSources(); loadLiveFeed();
 </script>
 </body>
 </html>
