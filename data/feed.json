@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-10-09T01:45:15.547506+00:00",
+  "generated_at": "2026-10-10T01:44:02.203115+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "246a8263124c64f17cd8",
+      "leader": "ardent",
+      "date": "2026-10-09T19:54:37+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP, CoMSO fault govt for inaction against AG - The Shillong Times",
+      "summary": "VPP, CoMSO fault govt for inaction against AG The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2JiU2F2YUpNV05rVzNyY0ZKQV9peG5qbHdrY0Qta2FjT1MwS2xFOTRTX2lhbXoyMVhwRUxzUm95Q1dxeGlQeElOLVpUOTFHaDctTGJHNHZDTmRVWkp2YkV6MXFBMV8wZG85MTAyZFJPeVRoS1VwWDdfcExqTGZqYjl0NTItLVQyU1BMczJB?oc=5",
+      "primary": false
+    },
+    {
+      "id": "0dd2b073c5433d9f31f3",
+      "leader": "saleng",
+      "date": "2026-10-09T19:51:38+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "FCRA row: James urges JPC to visit city, meet stakeholders - The Shillong Times",
+      "summary": "FCRA row: James urges JPC to visit city, meet stakeholders The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXV4ejNGT2g0V0o4SlZ3X3ZGR2xmanNzYlktTkp0MnZtQlF4c2xYZmxoa0ljc0VKdjBMYzNWRUUwakNRdE9SWEVDMVJMTkhqSDEzQW84eDRRWGJjMnNTMzZ2bVdmUnZxOGNlbWYtdE1BSFhzbm5mX1RjNVhfbEJZYXpYUFJ4RlZyUGxjQmd1QkFHd3h5Z2ZBWlZsdXk2Zw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "fb9028acd7c668ff5a4e",
+      "leader": "mukul",
+      "date": "2026-10-09T06:19:23+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Editor - The Shillong Times",
+      "summary": "Editor The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9obWxvS25TSE9RVkQ2ck9DQnlzbWljY0JoeGM0N2NCMTJZYkNlRDJPZVhDcnNCVFhqOHI1TDlOVTc1Q0swMzM4WGF1Rm5uX19yVUQ1bEhLVUM2Y09oRkQ1QUhMVHZncHhxT1RF?oc=5",
+      "primary": false
+    },
+    {
+      "id": "4af2f7d968a43c24c61c",
+      "leader": "mukul",
+      "date": "2026-10-09T02:35:44+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Mukul decries poaching of TMC parliamentarians - Highland Post",
+      "summary": "Mukul decries poaching of TMC parliamentarians Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lcm10bS04alJVdGd4UmpkOFdTRHVtT2MxY2JkVjl0OFBuZkprS2JxT2J0S3oweGNlZXRaZTNPVTU2OU1DRlVXb3QwVmZHdmZCVnhxbXdFeXNTd2xMUGFsaDFBc1ZEcTBJRmF3M2JUYWRZNWI5QUpRcHE1Ylg?oc=5",
+      "primary": false
+    },
     {
       "id": "400adeae3321c2e634cd",
       "leader": "mukul",
@@ -168,6 +228,21 @@
       "primary": false
     },
     {
+      "id": "aaa32a85cb15319c1364",
+      "leader": "mukul",
+      "date": "2026-10-08T20:01:52+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Frustration led to UDP MLAs joining BJP: Mukul - Meghalaya Monitor",
+      "summary": "Frustration led to UDP MLAs joining BJP: Mukul Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV3NmS2o3ZjZKbjVRWDFIZ0hwblVqbEVhTThGNFB4SFVrV0UtYzd5UERDd09vSVRtVk8wQ0ppeGczWWtPakZyZE9DVWFrRWFDMFAyTFBzQlhDZGhrblQ3X1JseE9uWDlzams2akV0Vmticl9SMm9md2Y4MkF0OTJtbw?oc=5",
+      "primary": false
+    },
+    {
       "id": "98a6b3269660ae4ff5a7",
       "leader": "mukul",
       "date": "2026-10-08T15:07:13+00:00",
@@ -315,6 +390,21 @@
       "source_domain": "hubnetwork.in",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0tsY3hkVk02dDBFem5kYmZLRFNkaDlWMzA0V003dGlpcjV4MWFPNjNQaUV4NjFYUmthSEstVXZZNEUzMzJfUks1dTg1bWtOTkNpTFNJZWd3dTVRM2dUaDNYNzJGMkF6LUZJbVNLaDJmWXhFeHNlaU1GSlNnaVB3bDl1QjloZzZqVC1TbjdLaDI0Q1RzXzIxVEF5M3VWU3l1LUd5cGlPVUhFYkU?oc=5",
+      "primary": false
+    },
+    {
+      "id": "78719ed5d7720bbccc16",
+      "leader": "saleng",
+      "date": "2026-10-06T03:43:29+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Pu·ongiparangko salna lak 20 tangkako on·a ine Dy CM-ko Cong matnanga - The Shillong Times",
+      "summary": "Pu·ongiparangko salna lak 20 tangkako on·a ine Dy CM-ko Cong matnanga The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmNvR0NZb0RUd2Yzc3QyU2x1WkhYVG9FRTVTdlBISGhiUkk1RUJGTmUyamFnSzVXb1hYSTM0ZlM5dkpCdUg5R0JpeVJMVUcwLUFDYW0zVWd2bTBaWWx6T2p2Y2ZDaWtOa3ZfaVpiVU5rbER3eDQtN0Y4NjFyTm5tRE1YQjRWYnBwa3BZd3RRdzAwMVhocnhDRTZTUDRUX2pmSTU3RzEwN3JzRGszZTR0dkZCM0o4eUZTU3dleg?oc=5",
       "primary": false
     },
     {
@@ -840,21 +930,6 @@
       "primary": false
     },
     {
-      "id": "9daa43442a89cc5a80aa",
-      "leader": "mukul",
-      "date": "2026-09-24T11:36:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Press Releases - Meghalaya Government Portal",
-      "summary": "Press Releases Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
-      "primary": true
-    },
-    {
       "id": "seed-2",
       "leader": "ardent",
       "date": "2026-09-23T09:00:00+05:30",
@@ -987,6 +1062,21 @@
       "primary": false
     },
     {
+      "id": "b06c1856c7e0cfd37e1a",
+      "leader": "mukul",
+      "date": "2026-09-10T15:38:14+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Notifications - Meghalaya Government Portal",
+      "summary": "Notifications Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkVGSmZPOUJidGNFRC0xS0x4WVJOM3ZtaklONUhaZ0VwWHh3R0FrZTZRcEJoSEhhNnVLTkFuNHl2RC1wNTNsMzVsd2d0Rjk4OXMxbHJKYXc2OUJxQzNoWkFqVDdaSWFMZnZUdGZZQ1lQSEY5aTd0ZjlndXU3SU8xTnFCdlNvUTZs?oc=5",
+      "primary": true
+    },
+    {
       "id": "abb97d8db91830c69c05",
       "leader": "mukul",
       "date": "2026-09-10T15:16:46+00:00",
@@ -1105,6 +1195,21 @@
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbm5KV0ZCZmk5Tnl3Tm40UFFMZjkydjRmRXhMNGVKT292MXFuREtNT3VibUYxY3l1LXgwQ25XWmVsTTd4cTR4SnJBM3hhNlhKWFUzRW1hOUFZNlpZa3R5MVFsNXJBMU85TmZBb3Q1ZEk3bFpQc0hmWnBaRmFsTmR0SHAwZHpGU01HUkJtMV95aHIwRkNYZ0lsU0JnOGQxN0E2R0hhLVN5ZHR5dkRtR3V4dERXaUR2SF9ObS1TNmx5NWpIWmp1RWFOckNvWm0?oc=5",
       "primary": false
+    },
+    {
+      "id": "9daa43442a89cc5a80aa",
+      "leader": "mukul",
+      "date": "2026-08-28T08:19:57+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Press Releases - Meghalaya Government Portal",
+      "summary": "Press Releases Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
+      "primary": true
     },
     {
       "id": "6e136974b3526b49dfba",
@@ -1567,6 +1672,21 @@
       "primary": false
     },
     {
+      "id": "40ff48549c8a6cf31da8",
+      "leader": "ardent",
+      "date": "2026-08-06T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Thousands join VPP protest march to Meghalaya Secretariat, demand govt accountability - India Today NE",
+      "summary": "Thousands join VPP protest march to Meghalaya Secretariat, demand govt accountability India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUHVvYmIyUVZqZzZWVGtuNzJZNUxkYk5UU3VTd296ekt1VnpHWS1GdEdKLWxoS2dnMjAwY1lzRFlrXzBrdWlERmxHRGhzd2t6QmxrblQ3eTBHVEdrRnA5Y1F3ZE9IVnVTWl9MaUtHWkRnYUw5S2d4cTlDdEVzdU8zWnNqajZ1bmdoNGVUeUltN0lRMjRmdmVuekVIV0Y4Ny1MZVp6UC1vTEpfcUZYUXJpOHl5cjJRZUVTZDVQSXJDQklRRVpnRVdUZG5yWUpZM0NFdDBZQTJZR3p2WXZ6UmZsa9IB5gFBVV95cUxQQlFpa3U5YkNUMHJwTWY3dVQ1UzlMYkZUekEzTFp1N3ZCX25SUzc3UjdlVzRfbWdNbFliR2RRV09OVmlWUVVVZFQ2RVlrWHljUVhEZUxHTzQyVWluWHZzMDE4OFhGeDJBb0hsX1JQOU1GdVVJU1BrZjQwYWNZZnZVX1h1ekVSM0pnclB1c1ZDSFhycXVKVG1PY0Q2SW05THNsVmRTMUlwMG50TzVuUHo3bmRHV0VGVXlwaUYwNHhhWHE1WFRQdTExVlZidmljVlFvb0RHdWJsZVQ4WFYxM3pOa192bllSUQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "641d8dbcfdb53621ac23",
       "leader": "ardent",
       "date": "2026-08-02T07:00:00+00:00",
@@ -1672,6 +1792,21 @@
       "primary": false
     },
     {
+      "id": "c415f524c5125da67e7f",
+      "leader": "bernard",
+      "date": "2026-07-19T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "GHADC reforms have weakened council autonomy: Bernard - Highland Post",
+      "summary": "GHADC reforms have weakened council autonomy: Bernard Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZQQmNNWkdlVVhIZDh2Rnhnc25KYTJibDlaNHhmYmhrV1gwYzZ3R2Q2eUFlb2EwRWlLdDgwak45SENrVjltUkZlZGNsdDBIcDRCbmxOd0V4LTc5ZmZCVTkySlljd1RZQXliYVh6SXRBSEkyb1F3Yl8yTVMteVp4bEtwWTI?oc=5",
+      "primary": false
+    },
+    {
       "id": "cf3c029945173b3b3518",
       "leader": "bernard",
       "date": "2026-07-13T07:00:00+00:00",
@@ -1729,6 +1864,36 @@
       "source_domain": "highlandpost.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWpjYmh4c3ZVUjEyUzRERV9aM1RvZG9YSlBCRUctZ2ZJRmdyemEwcmVPcHdnZHNtM0NyR29yOFZES0E1R2RqVmJfUEJqU1FVN0x6UkZJOWNmamJ5RFl4VFRiS1VkX2FmeW9TTlZFdUpRaHVWdHdiMVE1alZTSk5kWjA0RjVtUDZEM182c2Q3MUc4Z2oxNWFraTM3WQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "9e6542ca4280ed7d81c3",
+      "leader": "ardent",
+      "date": "2026-05-11T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Advisor to Sohra traditional heads slams VPP leader - Meghalaya Monitor",
+      "summary": "Advisor to Sohra traditional heads slams VPP leader Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0VrM3pYUzRiWmxNa09iejlaRnlfOGhIdFhsNEJIbWt0QnFYWXB1UnJmWkt6d0hqZXplMnZ1MzQwSHRrOC1sZ0NtQmVNVWFVc0k2NENUN2p3c0o0Z3hpRUJ0dlJLUTNZaXE2WmoyMDhCZTdza0ZQZXQwczdISFRVbFNUb1dkbnIt?oc=5",
+      "primary": false
+    },
+    {
+      "id": "6fdb98452f125caf9200",
+      "leader": "mukul",
+      "date": "2026-04-22T07:22:43+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "News - Page 6722 of 6858 - EastMojo",
+      "summary": "News - Page 6722 of 6858 EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxb2MtYUtKaU5YTFZmdHdsbnJtY1Mya2VONWVzcXhGdi1odG9JU2xmZkJ1bGdHOWt5SzA4eTdKandBZHhvbXJjU3dmMXc?oc=5",
       "primary": false
     },
     {
@@ -1822,6 +1987,21 @@
       "primary": false
     },
     {
+      "id": "2e0c16c2d3e7da3e8112",
+      "leader": "mukul",
+      "date": "2026-03-07T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "From ‘Chief Minister by chance’ to Meghalaya’s longest-serving CM — Conrad Kongkal Sangma - Hub News",
+      "summary": "From ‘Chief Minister by chance’ to Meghalaya’s longest-serving CM — Conrad Kongkal Sangma Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS084Q1lCaGdvUXdJSk1sZnIwTlZHSzJoaVB3M1hFNEFoLWtkRmpWbGFoV21ETjF5Nlp4TXQ0T2tKdVlGVmJieUI0bGI2ZlBQY2dzMzgwWlNGa3NfN2M2UHVWVGw5VFpxM1dfMENLalduMlF4ZVNERi1iYWUxUUt5dno5WUdmaHVCZFJyN1BPYU5VeVNKd0FCOXlnODFfdnRqWmJBajdqaER0UQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "b92a3e78f6901e924a22",
       "leader": "mukul",
       "date": "2026-03-07T07:54:58+00:00",
@@ -1835,21 +2015,6 @@
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RLWtzZV9kaEJMTjlZZjJVYzBXU1VLUUo2RXIyTUVDUHFLUWdzSUQ0Ul8tc05ETXhoaXUwSk13RFJTS2dRWjFNLVhNMEw0bEs4NWh3MmlMZEUwT2xRdTFrUlB2Ny16RVVvLTBSaWxmNGEwVlk?oc=5",
       "primary": true
-    },
-    {
-      "id": "2e0c16c2d3e7da3e8112",
-      "leader": "mukul",
-      "date": "2026-03-07T02:33:25+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "From ‘Chief Minister by chance’ to Meghalaya’s longest-serving CM — Conrad Kongkal Sangma - Hub News",
-      "summary": "From ‘Chief Minister by chance’ to Meghalaya’s longest-serving CM — Conrad Kongkal Sangma Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS084Q1lCaGdvUXdJSk1sZnIwTlZHSzJoaVB3M1hFNEFoLWtkRmpWbGFoV21ETjF5Nlp4TXQ0T2tKdVlGVmJieUI0bGI2ZlBQY2dzMzgwWlNGa3NfN2M2UHVWVGw5VFpxM1dfMENLalduMlF4ZVNERi1iYWUxUUt5dno5WUdmaHVCZFJyN1BPYU5VeVNKd0FCOXlnODFfdnRqWmJBajdqaER0UQ?oc=5",
-      "primary": false
     },
     {
       "id": "f61dd1b37ffc2f529e55",
@@ -1894,6 +2059,21 @@
       "source_domain": "meghalayamonitor.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2hkNDQ5d0dUMEFXR1JJNjMyTkZCNHlpQUJSZTZhMDNhcWtCYUhwVV9mOEthNGh2dnUxZUZlR2RfNHFwR0pjeHRYaU5OMExrXzFUUkp2ajNLWFdQTGgzaVl6X2tlVmsyN3JXU1RSY2Qyam5lcjh5TXMzMURSMjk5RFhnMjI1bG1OVnc?oc=5",
+      "primary": false
+    },
+    {
+      "id": "d897ce3023f3d1040412",
+      "leader": "ardent",
+      "date": "2026-02-27T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "JNC condemns Ardent’s Khasi-Jaintia speech in House - Meghalaya Monitor",
+      "summary": "JNC condemns Ardent’s Khasi-Jaintia speech in House Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2tRRVk4MGotRFI2WktlcjQ2LTF0dDhwRFczdFY2M1llb2xtQUtldS00Wk5jY0taNGlGMUtOb1E4YnBRdzFVbWxia0FkRWRfb3owLXRZVGdQdDRxb2MtYVFwdXhGeENWZ0lHWE1HX2JhRUVvemdjcXhHbUs5X1o2NmFRVzgtRkU?oc=5",
       "primary": false
     },
     {
@@ -2272,6 +2452,21 @@
       "primary": false
     },
     {
+      "id": "9f61e60ba54e4401626a",
+      "leader": "saleng",
+      "date": "2025-05-05T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya CM unveils solar-powered digital classrooms at Tura girls’ school - India Today NE",
+      "summary": "Meghalaya CM unveils solar-powered digital classrooms at Tura girls’ school India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcC1zMHVNS0dicm9QaW9BU25xb1MyV3hqZXBVdS03S3RJLUFYYlBFeDFYX1A5SENKeUhKY2o5R0Rzb3JVR05sZmFia1FoNFpxUjZaZEZEeHRXT2FCY2dXclZpWTVzUXhTMHF2MFgxUVdkeDVST0dPOXNZcEExaHpLdExHTmkydm56TWNJdUw2UWw4VEQ1anpZaFZTNld0Y2V0ZDhHbmMwemNOWm5DZm1JRUpiVjNva0VxY3lxZVJ5RkxEcGlDNWVUelY0VkNMY3lBNkln0gHYAUFVX3lxTFB5VXVMMUZGUDVDMzFsQUgwZTdEX1o3dFZGZHE5dWloV0k5WDdSVURubDRRT2ZQNjNUSEVrLVVuRlJvNElHUzRLOHpzX2JpT3ZPbksxR2JiRGlCWDlsNVRzM1NzWTNxUjZ4S1VCS0dvSS14Y0ZESXBNYms5S1Z2dnBqTV9GNlN2YmFLS21JVEczWkxrdXJ0QTV1QlB1bXhoU1V1cFFvQmNpWEd3UUNsek4tRGxSRmQ0aDFEMWk5Tk5sOFk4aWM3Qk54dng1dUp5SVNoVWxnTHRfRg?oc=5",
+      "primary": false
+    },
+    {
       "id": "b588bd4863494f884197",
       "leader": "saleng",
       "date": "2025-04-18T07:00:00+00:00",
@@ -2374,6 +2569,21 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnZBdW5na0ZBbVF4aFFOZmFfUElSbURBbHZ3QURnSW1nUmxrUURvQjRjdlBiUjdCS2RadHNDdS1qQml0UC1RSXdRNjMweXQybF9yVDJnd3BxZXdGMk9Ycm5OSVd2QndUclhZME0yVEtCdVRZVG41ZVVoeURfSGNlSnBtNlRENkNuM2tHMTVqTWlhZWZuUi1GQjIzSy0xRm1pYnZXQXdwbEwtT0RTTzVRN0FhOA?oc=5",
+      "primary": false
+    },
+    {
+      "id": "aa42623514bc572412e7",
+      "leader": "mukul",
+      "date": "2025-04-08T01:30:07+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Prestone Tynsong - EastMojo",
+      "summary": "Prestone Tynsong EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1SnZ6TXdiYjJkd1dlRmN5SmNKWURvYmFxalZRdDBmQlQ2R21pTm96UDRyaXFkOEpQLXc4MzJ2M3pOcElsTDVFQmNVMWQzVDRuMXBOcg?oc=5",
       "primary": false
     },
     {
@@ -2977,6 +3187,21 @@
       "primary": false
     },
     {
+      "id": "64a4f6fcba1b71158f5c",
+      "leader": "saleng",
+      "date": "2024-06-26T23:01:48+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Shri. Saleng A. Sangma - Meghalaya Government Portal",
+      "summary": "Shri. Saleng A. Sangma Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QaEJFOUxqUUY2S3JYYUlMLWZ5Umt6ZFdhYUR4SUZQWVl3RFg5cml4NWl1SHdSaDVNQlZfWTE5TWh3aWsxTGFOTGw4VQ?oc=5",
+      "primary": true
+    },
+    {
       "id": "2d6c27d5124d45a82b2b",
       "leader": "saleng",
       "date": "2024-06-25T07:00:00+00:00",
@@ -3349,6 +3574,21 @@
       "source_domain": "indianexpress.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkVRV0JXZl9HTUxISjBuNmFfVlRvdDdBQzk2aF9Qdlc1U0p0dkhLNnZkVm1Cb3JxSkpiN2JIcmJlbmtWbUdsWTZTQTdmRVRhVmc1OENhQXN0V3hZbDU0aURBeTMwM0JXX3ByY01zbC15cnN1RkNqOGhBT3Z1MjVKMVhjRHoyT0E3SFR0ejZjVmNLUExRQ2dWMtIBnwFBVV95cUxQcGNJamNXM2hMY2xXdlFSYTl3OUl6ci1HRG5FeG9ITjVfOFpXaUw5d1hGSDRVRW9saDJzOGtKVHQ0Z0RidnYzLUc2WGNrb1pmS1FUbjV5VTBFdWdMcXdoZGd0YkhteXBuWHpOYnhvbG5WT25ONkcyRWwtd0lsRER1LWI3eTFiOXQ1cUw5dEFvRkJ1eDl3bFV0c0NRWmtDSEU?oc=5",
+      "primary": false
+    },
+    {
+      "id": "4aaa4035cf80ea4ef240",
+      "leader": "saleng",
+      "date": "2024-06-04T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Record victory for VPP; Saleng gets second highest margin after Conrad - Meghalaya Monitor",
+      "summary": "Record victory for VPP; Saleng gets second highest margin after Conrad Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3JiblZ1LTZWNDVSRzR6SWVKSm1SVHlTQm5ydDlGV2VRVjNfQUtmNUFGSUxyRjNObGlWS3NTZ0lYZFNRbHhhM20yR1RxTnBLeXVQM0g4WEEtSGNWZW5wUjBQNUZCWmJkbTV2aU1FV3Foa1otb2JJU2VRYTBvbUlTVG5OLVF3dGRRLWpuVF8xUjBHMzlWelNmbDQ3dVNOU2x6?oc=5",
       "primary": false
     },
     {
@@ -4057,6 +4297,21 @@
       "primary": false
     },
     {
+      "id": "1432adce1b489664f7d1",
+      "leader": "bernard",
+      "date": "2023-06-23T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Portion of PA Sangma stadium collapses - The Shillong Times",
+      "summary": "Portion of PA Sangma stadium collapses The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU5ObXdXX2hEZGpSY3dXNTlvd0taNXVWSXVlT2tDLTdCcXdhb0hCMHg2cDVFdktBMU14LXBwTUpkSkZDdGxmbjF2NFAyVFFIS2VGSXZyVlViQ3hSNVJzNllNbENnRHpzMEVPMFd2aUlVa29rS3RlNUdvVy12U3hDUGlqbEJ0Zw?oc=5",
+      "primary": false
+    },
+    {
       "id": "2949d38c0ee81c999a2b",
       "leader": "bernard",
       "date": "2023-06-22T07:00:00+00:00",
@@ -4144,6 +4399,21 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGtlRE1PYWxuQjR4emxGTkctMTY0a2xORDlEYVZFSkUtbEVFNllNZ2xRdU1iTFBmWHY2WHlYVFRkSDlGQU9qWVVZSTNTQUhKd3lwSGExUmhSRl9lS2gxR0cyNW5lbURvM2hnWGwwTnY0OXhzMnJ2U0d0RU5PUXo2VzVZZ3psUDRTMFl3MTZQWEJxOFBJN1VCb2pKWU5BQm1ockxFXzhlQ0F1U3ptTU5FcmxJRDdMZHgtcl92a1ZxWFc3VE1VRmNhQjJCR3pWNUZ6WC1z0gHYAUFVX3lxTE9BYXRyZHpPWGdXMDRvMlc0SjU0WVl3TkFSRjlhbThRQ2xKYmx1WDdWbGlvYTdnMDBzRmI3NVVvMFgwd182LWpKaUZKeEl3cmFLX0lPT0Q1WUxDNVNYWC16bU45V2dZdVZyX3Zld05aeUJ5bmdDWmRabUNpWXVyZnZJMTJPeW9wMlZRWG5DMHJBOFlQMlRqb044cmFGYVVDRFMyYTVyeERGRzdoNGJTYkNHYlFxQWh3Ukt5c2lVSHZXUExmdURYWkp3MnBldm9qS0lwUjJPaklBbw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "0807c118418a81bcfa60",
+      "leader": "ardent",
+      "date": "2023-06-01T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "GHADC MDC slams Ardent for trying to sow discord between Garo and Khasi-Jaintia communities - Hub News",
+      "summary": "GHADC MDC slams Ardent for trying to sow discord between Garo and Khasi-Jaintia communities Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWQ4V2hRNUNoWGowVndMNWp1RmhMcWg0bzFUd2s2UHlUQ0I1cW5vN2gyandhUWF0eTcyR2o3aG12Z091QzM5bXVjN0IyeU1yb1M0UERhaXlGeXVWV3JabEVjM1BGV2RKXzVSUmxtS0pLQUhKUkVES1loX2xfcnhNM2dwSndPR0h4blZJWnA5VmlHdTkxdURZa3M2RVlpdkVjLU9nMFd2c2x5UUstQVZqVDRuUXY?oc=5",
       "primary": false
     },
     {
@@ -5077,6 +5347,21 @@
       "primary": false
     },
     {
+      "id": "2d732aac2f52fffde64f",
+      "leader": "mukul",
+      "date": "2022-10-13T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "New train service to link Assam, Meghalaya, Nagaland - EastMojo",
+      "summary": "New train service to link Assam, Meghalaya, Nagaland EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnhQcGRkeU9BY2RfLWpsV2NibDdTSFhSTkJ4NWNEREtlejhkZ29NY2FEU3pRVFVPcFp1V25zY3hCVkJOaVVFRUFVWFdZMUdRQUJORzhnVmZwbjY0OTlUbkF4RWh3VDMwemNEbDlJd2ZrbFdFZkZHQmQwOHoxcEZHeERIZ2xPdlhiWFh4ZHZhclBrTlh4NFZrTUNsX2dsdmM?oc=5",
+      "primary": false
+    },
+    {
       "id": "034f0308bb34e5911b97",
       "leader": "bernard",
       "date": "2022-10-02T07:00:00+00:00",
@@ -5497,6 +5782,21 @@
       "primary": false
     },
     {
+      "id": "e4ffe9c032eb07449ce3",
+      "leader": "mukul",
+      "date": "2022-07-03T05:57:56+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya News, Latest Meghalaya News Headlines, North East Meghalaya Breaking News - India Today NE",
+      "summary": "Meghalaya News, Latest Meghalaya News Headlines, North East Meghalaya Breaking News India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYnRoUWlsR3pGQ2VrbE53VEhjVXI5UjhVb0NxNHkyU1NiYzNzWXZ2OVFlbGV2Y1kzQW1OeXhkbVJpd2VuVWI3YUhjMkJQdw?oc=5",
+      "primary": false
+    },
+    {
       "id": "0455c3b7b1d910d98ecf",
       "leader": "bernard",
       "date": "2022-06-30T07:00:00+00:00",
@@ -5674,6 +5974,21 @@
       "source_domain": "meghalayamonitor.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iczVQME43Y21xeDRfSDJhMzJZNnNkUEh4bTYxOUZYaVd4cFVoVzIydjExaTZ3RWhwVWVVMDhkVlNmU0pJeUR4MEdBa3VSVXBwSmJIZmNZaHNpNTdpei16eUsxblhXRWZ4YXUzdXNvS0l4eVRoU0E?oc=5",
+      "primary": false
+    },
+    {
+      "id": "b4685614df855da8b89e",
+      "leader": "saleng",
+      "date": "2022-03-31T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Umpling Bridge opens to traffic after 3 years - Hub News",
+      "summary": "Umpling Bridge opens to traffic after 3 years Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOFgtNGw5dWNUWkN6M1dyTTZzOHFXTWxqa2c1RUJKWlpCT1AteVdSWHRxdkpHYTRPeVcwVktsTk1qSkx0czRTUlZjSTBqRjRkenNhZEV1c1gtUHlRaC1pdklGd3U0bk5KdzVmWHpyc1BFNDkwMFB3?oc=5",
       "primary": false
     },
     {
@@ -6502,6 +6817,21 @@
       "primary": true
     },
     {
+      "id": "f2f9a79ecbfb5ec7c0b0",
+      "leader": "mukul",
+      "date": "2020-08-19T06:33:20+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Mukul Sangma - The Shillong Times",
+      "summary": "Mukul Sangma The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEM2o4cGsxeEZrQm0wWmZiOGt4bHRkRkxNQ25KQ3VYZUhSUTJBTk1nWFJiV3VrV1FzLTRpd2pzUkVLU1lVbGFDd0NEUnBYOV80Ml8zaQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "32aba1f1a1fff097d633",
       "leader": "mukul",
       "date": "2020-02-25T08:00:00+00:00",
@@ -6559,6 +6889,21 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaExLb25KQVJzb2VrOXV4bllwLVJsblpSM0dvY3V3UmdqanJTXzMtdnhxdHU0UFVLbnVTdnFCSThvYXZ0dmwzUC1NWHFONTcwTXJfeTY0RllYR1drYUtKYVRkUHJtZE5hV3FXYk5CbzMzdUhzT0VPUWhZS1hVUmZuTUp4Y1VNcGYwMkROQmZVZG0tMk50WW5jVGd4am5QeW91Tmc?oc=5",
+      "primary": false
+    },
+    {
+      "id": "6dc84e89326d0ab51059",
+      "leader": "bernard",
+      "date": "2019-05-12T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "The man & his dogs - The Shillong Times",
+      "summary": "The man & his dogs The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pLVZ3QnR0MlJyREtkVGJvNEVBRlNyTGVnR0Q4bllNdS1lNTBoMWJFNjdaQ3VjTjV4a1R0Qng0bndoSFY2b29KMWxaUXV0Q1dVZ3FEUmVYa0c0c3dRQ2IwQ0hYMDBRTk9W?oc=5",
       "primary": false
     },
     {
@@ -7027,6 +7372,21 @@
       "primary": false
     },
     {
+      "id": "1f97a042a856b1500114",
+      "leader": "mukul",
+      "date": "2016-09-16T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Untitled - Meghalaya Government Portal",
+      "summary": "Untitled Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSlBPWWJOTkVTU0Q2OFZPWS1LOWJDMHIyY08tekh3di1uMmVwb2xXakFfSnlXeXJFbEhZTlFCd09aenBuWXpVajNiQmF6VGxncFQ5cFdRcmFMYzM2MF9wdDRJSVNENm1HbndrWjl4R0J1MlZXMGV3VXppZGdIUWlvSEJiTQ?oc=5",
+      "primary": true
+    },
+    {
       "id": "afc0c76b5d2b44277c25",
       "leader": "mukul",
       "date": "2013-10-03T07:00:00+00:00",
@@ -7087,6 +7447,21 @@
       "primary": true
     },
     {
+      "id": "662fed16e4f75eab7321",
+      "leader": "bernard",
+      "date": "2013-07-08T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "MEGHALAYA PUBLIC SERVICE COMMISSION MEGHALAY A, SHILLONG NO. M PSC/D-6/3/2008-2009/36 Dated Shillong, 10-Jul-2013 NOTICE REJECTION LIST - Meghalaya Public Service Commission",
+      "summary": "MEGHALAYA PUBLIC SERVICE COMMISSION MEGHALAY A, SHILLONG NO. M PSC/D-6/3/2008-2009/36 Dated Shillong, 10-Jul-2013 NOTICE REJECTION LIST Meghalaya Public Service Commission",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Public Service Commission",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50Y09OLWlxWDd2c19na2txN2tGajAteEliazhkUXlfVlZ0STlxUDNmaWU4dmd0aGJHRFFWaVMwVUcwSXFsbURaMWhVWGJuOWZqc3FuZURIVXhONGR1LUpETTlkb0taVE11?oc=5",
+      "primary": true
+    },
+    {
       "id": "5b688a5a3394be6baca8",
       "leader": "bernard",
       "date": "2013-06-20T07:00:00+00:00",
@@ -7114,66 +7489,6 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56VWlaTGVadmZjazFiZmkxQmZzMHFtRHViSkU3clQzMUx5a2tibHFXQ2lxSzdUbTVqeVJhbzBnQkhGNUltdFdPcDdtRGVjRnZ6UEJmSTgtU1hDaEFkTmlLRzZwZWpQNDQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "fa672dbad383af1c5ed9",
-      "leader": "ardent",
-      "date": "2012-11-16T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Ardent may face disciplinary action - The Shillong Times",
-      "summary": "Ardent may face disciplinary action The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUlIY1Q4OFh0NUg3Ml96MEMwcXc2NXRJRWpDSEtkT25DRVZWd096UFA4cXJ5aTg4RW8xRlEzRjQtVjBEWkVSaWJKWjd6VWp3RVBFYnBLY3NfSXZqd3BWTDlOTGx3ZW9CRnF2emdOZDhmekFkYXFLT2FTbFVIZV93ZUhn?oc=5",
-      "primary": false
-    },
-    {
-      "id": "dcd02532a2d2e32c7420",
-      "leader": "mukul",
-      "date": "2012-02-21T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "MEGHALAYA STATE AQUACULTURE MISSION - Meghalaya Government Portal",
-      "summary": "MEGHALAYA STATE AQUACULTURE MISSION Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcXpMTmFLeVhoaE81M1ZxLWV0cmxUNEJtRy13Nmh2LWdVR19pd0V2ZlM5LVN6SnNvLUwtMHRfWnhSaUdTa3FaSGNUb3l3UExlcDFzSThzcHh5VTFzdkROS1FOTlNzODFtSWNvbGJiWlRjOWg3UndCbERrbmRCa1Z3Smo2VGUtUQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "828f7e55c8ab7812e96d",
-      "leader": "mukul",
-      "date": "2011-06-02T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Untitled - Digital Sansad",
-      "summary": "Untitled Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczhsN3hjTHliYnZabG4xcGZieUNINUoxWFNYYW02OWFvUk8ta3BrdlFYenNMdFh2MTRhREdSRzNxNnNWR3psUlFOa2x6TlMxQzNxTXY5U0h0ek5FTHEzZGxXY2JlT1JqRVJyV1dzanBCOWllZ0NNcEhTbS0taVVGOXZWN1ZMZGZxMFVuSU45VGg3WDdJMFA5Sld5eGJsYUVR?oc=5",
-      "primary": true
-    },
-    {
-      "id": "d966898f97caa270d2be",
-      "leader": "mukul",
-      "date": "2004-11-25T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "GOVERNMENT OF MEGHALAYA PLANNING DEPARTMENT *** ORDERS BY THE GOVERNOR N O T I F I C A T I O N Dated Shillong, the 25 Nov., 2004 - Meghalaya Government Portal",
-      "summary": "GOVERNMENT OF MEGHALAYA PLANNING DEPARTMENT *** ORDERS BY THE GOVERNOR N O T I F I C A T I O N Dated Shillong, the 25 Nov., 2004 Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3h3Q20tYTB6NDNQNXI3ZGRPVk1KQ0tvOS1ZMjJwbzhhVlMyellDMFAwX2RQVW0wdXU2SHlmazhMdFVqcXhHd3huR0otTEdvV2EzcEI5enBJcXdCNS1PTGF5OTZHa3RlbVZsMmNIWjlUalN0RmNTNFJIMjZ4YndWRXBFUHU0V0xZcFA0?oc=5",
       "primary": true
     }
   ]
