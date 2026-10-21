@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-10-20T06:19:56.636756+00:00",
+  "generated_at": "2026-10-21T06:19:42.363455+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "d630981f343fb22e68ac",
+      "leader": "mukul",
+      "date": "2026-10-20T06:08:57+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NE NOW NEWS, Author at NorthEast Now - Page 5875 of 5936 - NE NOW",
+      "summary": "NE NOW NEWS, Author at NorthEast Now - Page 5875 of 5936 NE NOW",
+      "source": "Northeast Now",
+      "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAySjllVXZfX0Y4eUFIM0JCR0taVVBYU3RiSDhNaWppYUplS1BqbHZLUTF3MXpCbjlUc3J2WnJxcGdzYWNCU0FjLVg1VTJGYm8?oc=5",
+      "primary": false
+    },
     {
       "id": "ca08d15863f5dbdda22b",
       "leader": "mukul",
@@ -46,6 +61,21 @@
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1VCVTdab3YxMzdCa1IxOHFvTFpBSmU2cFRjRmRoNGJXWFltRnljaXBLdmZQeGhueHp0MDJ1ekFpM05vTkJ5NTBGVmRYOTlYWVltNDRYdUhmOVB5eTBaLVJVd1ZrQ1RaTjBnNEtwUE5haXpFYVdXRklEdWtqdFdRUkZWbjdnSFBwR2ZWYmJSbw?oc=5",
       "primary": false
+    },
+    {
+      "id": "9daa43442a89cc5a80aa",
+      "leader": "mukul",
+      "date": "2026-10-19T11:56:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Press Releases - Meghalaya Government Portal",
+      "summary": "Press Releases Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
+      "primary": true
     },
     {
       "id": "214f59e31d6af80aa80a",
@@ -153,6 +183,21 @@
       "primary": false
     },
     {
+      "id": "11bda18a3d876f0fb44c",
+      "leader": "mukul",
+      "date": "2026-10-17T17:57:45+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 36465 - The Shillong Times",
+      "summary": "Established 1945 | Page 36465 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XU2lFQXQyeS1kMEpMT3JEWnBZRDlsV1ZHUzBuLWRVdUZsbjdnTEdzbkc2eUdBZ2dSVVdjdEhLSC00MDNmcUdEXzJxeEg2eFo0Z1hkT0tYNXdwVmEyUlVURjVhSmpHUVEtOWc?oc=5",
+      "primary": false
+    },
+    {
       "id": "1edb0fefa0b35a974a11",
       "leader": "mukul",
       "date": "2026-10-17T08:14:03+00:00",
@@ -180,6 +225,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16YWhfX0N6OXI0Zm80RVFwLWJjelpzUF8ybm9tUHNSbG9fS0lUb0dIcGtDeFcwY1JUVlZRSnBBT0FFMEEwNXFQYnA2TTNOZjRzUV9zMllYN055aFB5aFVmb2hhdmlTV2ZtN3VLS1A0WURlUQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "30075b3b0980e9a82d03",
+      "leader": "mukul",
+      "date": "2026-10-17T07:14:49+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 35908 - The Shillong Times",
+      "summary": "Established 1945 | Page 35908 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVTFEaWRsaEJsemlxdW94bkc5Wm0zbFB0SW5mTGRtQ3U1UWp3cl9YRGsyRWtHdi01eDhhZ0Q3bjhONmZwYXlaaTBuOTFibHJpOVBQLWI0b0tpc09VTFBEOGFkMTcyX0tPNE9zT21lQVpGQQ?oc=5",
       "primary": false
     },
     {
@@ -360,6 +420,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZzFFdDc4NDJxYjZpWlQ5RTBFdVVxaUpfajRsMjQ0YTgxLUxyQ0ZpTmYtMUx4QkFTeDBaVkk0bzBYejdRSTZldWJnTEhBU0NXN29XTzhoVWQ0UHVuc2xnb1M5Y1dYUjhqTTJyX2t0SkZFZw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "c42441a566c31d864ae6",
+      "leader": "mukul",
+      "date": "2026-10-14T17:23:53+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 36360 - The Shillong Times",
+      "summary": "Established 1945 | Page 36360 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzZTFZWjlVVEVoX2dFdGc2aXVVLVZSd1lpYjd4Y3lTeldqX3FtSVo0T0VpYS0zYlExZ3FNUE8zVW13REVabHpfRVgtamZZalV4cWRtNGlGTWlmdW90OWxzU29hV2pvOE9vbnc?oc=5",
       "primary": false
     },
     {
@@ -1683,6 +1758,21 @@
       "primary": false
     },
     {
+      "id": "950b10971576010e10a5",
+      "leader": "saleng",
+      "date": "2026-10-06T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "South West Garo Hills a·jao District Development Coordination & Monitoring Committee (DISHA)-ni tom·aniko ong·atanio, Tura-ni MP Saleng A Sangma, DISHA-ni membor-rang aro dingtang dingtang department-ni officer-rang bak ra·enga. - The Shillong Times",
+      "summary": "South West Garo Hills a·jao District Development Coordination & Monitoring Committee (DISHA)-ni tom·aniko ong·atanio, Tura-ni MP Saleng A Sangma, DISHA-ni membor-rang aro dingtang dingtang department-ni officer-rang bak ra·enga. The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOdjBtZUE2Mnl2SEJaOVhhcnU5R0ZHXzVWcjhUUVZGU2IxYWdPd0RFcWIxNGNzWGE5MEJCM2NwR2txM3ExMVV0b3NCWVF5MEsxekJKcElrMGpOMEF0UDF2NC1NTjhaV3hNMUppV2l2NkZTb3FUWUpXZlR1QzUwV2loVktyRHBNVHRSSHpDZHM0WkxHUWdmUDBIVUlZN1hkUU9BZWRjTkNOU2hRLXlHdXFiVDhXbDU0UE9lR0hlUlBMLWJ5bXl2aEpleEhWYnhpNGk3VkxSaUhQcnlzemlrTkRJZEtSR1BGbXZtbElQcThfa2xNYUdoZzcxM0tVdENKWnlHa0NoUjMwdkZHZ2JMSjlsMndsZ20takNEdzNjcXcyeGdhLWxBNnVrTUdzeGZ2S2ZsRVFGNWJpMGhBTHA0SjlzOFEyQXZKNW9lMjlrVS1oeExkNjBhZXc?oc=5",
+      "primary": false
+    },
+    {
       "id": "78719ed5d7720bbccc16",
       "leader": "saleng",
       "date": "2026-10-06T03:43:29+00:00",
@@ -1695,21 +1785,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmNvR0NZb0RUd2Yzc3QyU2x1WkhYVG9FRTVTdlBISGhiUkk1RUJGTmUyamFnSzVXb1hYSTM0ZlM5dkpCdUg5R0JpeVJMVUcwLUFDYW0zVWd2bTBaWWx6T2p2Y2ZDaWtOa3ZfaVpiVU5rbER3eDQtN0Y4NjFyTm5tRE1YQjRWYnBwa3BZd3RRdzAwMVhocnhDRTZTUDRUX2pmSTU3RzEwN3JzRGszZTR0dkZCM0o4eUZTU3dleg?oc=5",
-      "primary": false
-    },
-    {
-      "id": "950b10971576010e10a5",
-      "leader": "saleng",
-      "date": "2026-10-06T03:09:22+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "South West Garo Hills a·jao District Development Coordination & Monitoring Committee (DISHA)-ni tom·aniko ong·atanio, Tura-ni MP Saleng A Sangma, DISHA-ni membor-rang aro dingtang dingtang department-ni officer-rang bak ra·enga. - The Shillong Times",
-      "summary": "South West Garo Hills a·jao District Development Coordination & Monitoring Committee (DISHA)-ni tom·aniko ong·atanio, Tura-ni MP Saleng A Sangma, DISHA-ni membor-rang aro dingtang dingtang department-ni officer-rang bak ra·enga. The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOdjBtZUE2Mnl2SEJaOVhhcnU5R0ZHXzVWcjhUUVZGU2IxYWdPd0RFcWIxNGNzWGE5MEJCM2NwR2txM3ExMVV0b3NCWVF5MEsxekJKcElrMGpOMEF0UDF2NC1NTjhaV3hNMUppV2l2NkZTb3FUWUpXZlR1QzUwV2loVktyRHBNVHRSSHpDZHM0WkxHUWdmUDBIVUlZN1hkUU9BZWRjTkNOU2hRLXlHdXFiVDhXbDU0UE9lR0hlUlBMLWJ5bXl2aEpleEhWYnhpNGk3VkxSaUhQcnlzemlrTkRJZEtSR1BGbXZtbElQcThfa2xNYUdoZzcxM0tVdENKWnlHa0NoUjMwdkZHZ2JMSjlsMndsZ20takNEdzNjcXcyeGdhLWxBNnVrTUdzeGZ2S2ZsRVFGNWJpMGhBTHA0SjlzOFEyQXZKNW9lMjlrVS1oeExkNjBhZXc?oc=5",
       "primary": false
     },
     {
@@ -1968,6 +2043,21 @@
       "primary": false
     },
     {
+      "id": "34e7b523dc3274287ad5",
+      "leader": "ardent",
+      "date": "2026-10-05T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP chief raps govt over child’s death linked to poor roads - The Shillong Times",
+      "summary": "VPP chief raps govt over child’s death linked to poor roads The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2F2b2JMVFRzZkhaSTZ4VVRCQ3NpQzZMRF9nYkJ6NVlkcWtzNkxRaWFfd0xuSXlZUTA0MFZEb3dZZGFqa0FHdmV0dXNkQlpSMFFvMkNXT2xTWFJmQndFR1ZLSHJLRDZ5MmQ4dF9Yalg5UVE0T25DQjlodFNrcC1UYWRvNm5Penk5emFVT0lmZ29OOVlpQ2lIeGNkTEhUX244?oc=5",
+      "primary": false
+    },
+    {
       "id": "407a7478c353796148de",
       "leader": "mukul",
       "date": "2026-10-05T01:32:15+00:00",
@@ -1980,21 +2070,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2pkYVUtZ1lSRE5VdlRuRWVRSHBHS09xb2t2b3B0TWw0cWJfSENTLTlfYWhsTkItaFZpMmZYUE1lZlFja2dhNVJpUmh5TC14ZHN2dEV6U3p6OGtKQUZCc3ZTc2NIZEF3Q3BQTlFzSTNIVjFUVXl3N1Z4NVNWZTJhSFQxR3R1bEY3TjR0dkdXY21Ydml5d0Q5cFVpUVZGZUloQ3UyeXk3LXpkYWxod1E?oc=5",
-      "primary": false
-    },
-    {
-      "id": "34e7b523dc3274287ad5",
-      "leader": "ardent",
-      "date": "2026-10-05T01:29:03+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "VPP chief raps govt over child’s death linked to poor roads - The Shillong Times",
-      "summary": "VPP chief raps govt over child’s death linked to poor roads The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2F2b2JMVFRzZkhaSTZ4VVRCQ3NpQzZMRF9nYkJ6NVlkcWtzNkxRaWFfd0xuSXlZUTA0MFZEb3dZZGFqa0FHdmV0dXNkQlpSMFFvMkNXT2xTWFJmQndFR1ZLSHJLRDZ5MmQ4dF9Yalg5UVE0T25DQjlodFNrcC1UYWRvNm5Penk5emFVT0lmZ29OOVlpQ2lIeGNkTEhUX244?oc=5",
       "primary": false
     },
     {
@@ -2307,6 +2382,21 @@
       "primary": false
     },
     {
+      "id": "6b6c13fd6061832d0c81",
+      "leader": "ardent",
+      "date": "2026-09-20T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "MDA Govt creating groupism among officers: VPP - Highland Post",
+      "summary": "MDA Govt creating groupism among officers: VPP Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0R1BmT1AzWVRSaE9RUWtSSlNJVnoxYlNEX2Y4cVVwaUh2eEVkX0VaazZfRks5UGg1aW1YSGxKbkNXcU9RNTNWNUJWU2toa2RLWnNNdm93cEl2YXdvc085YVBwNnBvZHBtdU4tVVV5NlM5QWU2WkE3LVhQNA?oc=5",
+      "primary": false
+    },
+    {
       "id": "3cc71de2cd9cf1ff7c89",
       "leader": "saleng",
       "date": "2026-09-18T05:51:58+00:00",
@@ -2517,6 +2607,36 @@
       "primary": false
     },
     {
+      "id": "a7b16a29e7e2dc494545",
+      "leader": "mukul",
+      "date": "2026-09-03T02:36:56+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Govt must hear lawyers’ grievances against Advocate General: LoP - Highland Post",
+      "summary": "Govt must hear lawyers’ grievances against Advocate General: LoP Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmZEb3pCVFljNDR6UE93M1FnbVZ5NGNEcW1jUmJCb2xIcFU3bUpyTVVLYmVOc3JRaW9vT1pRQ29EZTg5ZkR3QThJN3Vfam0yS1ctR1FkVDFPbGZxakl6ZWhhQW4zcUdMYjRrYUtWa1NCYkoyOTg3QjFKSjlGOU9ac0VMY1NJVTVBUnZoRks2Mm0tZw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "658ce4795065847ec15a",
+      "leader": "ardent",
+      "date": "2026-08-31T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP chief slams Conrad’s reply on recruitment reforms - The Shillong Times",
+      "summary": "VPP chief slams Conrad’s reply on recruitment reforms The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDFDVUxnSV9fSFNKZzhGVl9iT2hFU2RyVjF1MnY0anJCWWVPZFhjZHNRUEVub0N6Nkx2eEdIZFA0NWlNVHV1Sm95dmc3Um9RUlhUc3J1aGdJOWVLZ29wZmxiVTJac3VqbldFMHMxUzVnbkZxcFZwNmVMQWc2SHNFWFpSWTNicWJOeTVjaHVoYi1zY2dwVEp1Qw?oc=5",
+      "primary": false
+    },
+    {
       "id": "b56484a6fcf2451358d6",
       "leader": "mukul",
       "date": "2026-08-31T04:07:16+00:00",
@@ -2529,21 +2649,6 @@
       "source_domain": "hubnetwork.in",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGMzMXA3V0hzTlhKdmJwcnhHN180QU1fcm9VSFlabkVHMTlBNXMtaVRHUTd3RXpLUlo0Y1EwVjl3ZHNDN29Kb1R0N01JQmhiblE0OEFZTk5BLUhwaEo3Yy03VkpCU0NJSUhIRnFFckhNU1pBUjllZWxxSHBIQm9ubm1wcEJCMVdlYzhMbFZHTnBmUGdIOXlOWExQZ2VYZw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "658ce4795065847ec15a",
-      "leader": "ardent",
-      "date": "2026-08-31T00:05:36+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "VPP chief slams Conrad’s reply on recruitment reforms - The Shillong Times",
-      "summary": "VPP chief slams Conrad’s reply on recruitment reforms The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDFDVUxnSV9fSFNKZzhGVl9iT2hFU2RyVjF1MnY0anJCWWVPZFhjZHNRUEVub0N6Nkx2eEdIZFA0NWlNVHV1Sm95dmc3Um9RUlhUc3J1aGdJOWVLZ29wZmxiVTJac3VqbldFMHMxUzVnbkZxcFZwNmVMQWc2SHNFWFpSWTNicWJOeTVjaHVoYi1zY2dwVEp1Qw?oc=5",
       "primary": false
     },
     {
@@ -2605,21 +2710,6 @@
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbm5KV0ZCZmk5Tnl3Tm40UFFMZjkydjRmRXhMNGVKT292MXFuREtNT3VibUYxY3l1LXgwQ25XWmVsTTd4cTR4SnJBM3hhNlhKWFUzRW1hOUFZNlpZa3R5MVFsNXJBMU85TmZBb3Q1ZEk3bFpQc0hmWnBaRmFsTmR0SHAwZHpGU01HUkJtMV95aHIwRkNYZ0lsU0JnOGQxN0E2R0hhLVN5ZHR5dkRtR3V4dERXaUR2SF9ObS1TNmx5NWpIWmp1RWFOckNvWm0?oc=5",
       "primary": false
-    },
-    {
-      "id": "9daa43442a89cc5a80aa",
-      "leader": "mukul",
-      "date": "2026-08-28T08:19:57+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Press Releases - Meghalaya Government Portal",
-      "summary": "Press Releases Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
-      "primary": true
     },
     {
       "id": "6e136974b3526b49dfba",
@@ -3021,6 +3111,21 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3dhZF8yeEcxNlJGRzgwZlQ3Q3IzTFRGS09TNjNQYnpXVThaZkE3d2FIS3Rwd3gyUEZBaks4UkZLZFRUd3R0LTYxX01mM0F5TTJPakc0SDFtMzFDamt4dk10UFA1NWJISU9ia2RuV0dzWjN6bV9CMlVUdjlYbGM5U0FHd0R2SU9rNzg4WklRZXFDSGdVZm9mQ29sSUh4UFAtWTVUcmgtVnlTcFN1akJCWThCTERlQnZ6cE5RUHdoRnZEbmZ3ZnpQZi0xcFM0V2ItVUFKendn0gHbAUFVX3lxTE1qaEgwWDVyM1VJb0FwLTd0TlZ0QU5jWWVha0NJLVA3Sm1BT0pJc2ptYVQ1WTk5Zmx0dTFHVTd1ZG9uMXB3SlZNczVxMk1ILXM1RzEtd1FhdTNPbTBNNzhfdDAwWGt4NEhOU0E3SnNlWGQ4c3BYQ0R6ZzZLeFFURHYxUk55TWR0Z1VMd2tyMUNWbFpLT0tLLUVMLXlnOUxVR0hzazZNQUxtSXJZVVZ4NG9uaGp6XzhRdFdQa3J4Ny1WeUk0YmUzZmxTdmRWQ0xTVGhtdW9pdmJVeVhwdw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "50ec5ef09eca1d41e24d",
+      "leader": "mukul",
+      "date": "2026-08-25T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya: 666 Anganwadi Centres still run from rented, temporary buildings - EastMojo",
+      "summary": "Meghalaya: 666 Anganwadi Centres still run from rented, temporary buildings EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVYtRXdzNktmdXhJSFdrUGhnTE9WN1lDdktEZHJRRmFJVXVQU0M1a2FqTWlGTVpwSGVFUnRHY1lKaEMwS3BiZ2hsUkFPX2NRcFpnRUpHRklmSUpZOEJ6N0JQTGVSY01MWTlSSUl1dzdWTTgwalZ3UzBKU1JyR24ydE13dkF2UGVOT3FlQU5kSWI0OWhEOHBDYVJnbldnWlhHZmF1VGlZVVhfWEw1cUFRUWoyMjU3UW8?oc=5",
       "primary": false
     },
     {
@@ -4084,6 +4189,21 @@
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVFFLQnB0SDlqd1FVRGNEc3I5MUJibzJmYkZIelBnLU5UazJQbTV2UUt4SEtiM0RDRExZU3dZeUZxSVJLMFUxOXVQeHVGZGVzZ2ptSFhCTHViWkxnZjY4dUtwSFd2UE5JZkZ2b3l4dE1TV1EzdWs0dFkwVXBTa2N3SzNDM1lBeGNJTjRQX3dpdmlNRVFPNFlwMm9iTXJDbDN2ODVoZVhmbHhQcW9Eb3RORVhmR2ZUUWJoc2dzX21kazLSAcABQVVfeXFMTUdMRW51TXpTTFNONkpnZEUyUGQwd1pQcjU1bGJmMkpiXzFGeVdrejlKT1BDcUhFbWRqZlppTGRyRGozTXJicFVjMHVHcEVNUS1NdVlTNVNlbk5TbVRtTEtNSWQ0YXpkcnVnNHo0eWhLSU9qc1FFNmhHUFVRWjRrS1R0Rjg0VGI0ZGJTZDRJTGtqMks2c3dseHMwZmI0X1lQbUVmc18zdGF0eW5hZXFLMHZ3Z2JoZ1prZGNRUHd4WEJs?oc=5",
+      "primary": false
+    },
+    {
+      "id": "757ad9c2430033c3bc9c",
+      "leader": "ardent",
+      "date": "2025-09-10T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "‘Govt should not intrude on district councils’ autonomy’ - Highland Post",
+      "summary": "‘Govt should not intrude on district councils’ autonomy’ Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWJ3TXFULVVEUVJzN0pDRlozRkMwTDVESUNldzVoNGdaNlREbldsMVdfY2JPTklHYTA3bzVORzNHNUswZE40Ykl1RXk0Mi0wVkZuSEozUnhfTVBWVVE4TVFEWHFkeWVUWmMxYjA0VTlEU1dRTHU0V0paVEZTamx1THFhQV8tdw?oc=5",
       "primary": false
     },
     {
@@ -5197,6 +5317,21 @@
       "primary": false
     },
     {
+      "id": "c550bb9091993a272bf4",
+      "leader": "saleng",
+      "date": "2024-09-27T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Saleng urges Centre to consult NE MPs on Sixth Schedule changes - The Shillong Times",
+      "summary": "Saleng urges Centre to consult NE MPs on Sixth Schedule changes The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkFGYWNUbTc1LURDNTZncm9NaVE2RUtUR2Qxc1JBeUFETGJzZnBhOS1leW5SVWtqa2VkUWFBZXhINFBzTDhibXlndS02elc2N3lzTXN1YmQ3MXBLTDZyb3VUZTA2cFNsbUcwb3NyNTg4RWpGeURhSzlMc2UtcTE4em9EU2djNi1LSU5aTVpuQ0J5dUhBOGVVaEUzWWxaVUhibnNSZXVCYw?oc=5",
+      "primary": false
+    },
+    {
       "id": "d572db12863dd363d5f6",
       "leader": "bernard",
       "date": "2024-09-20T07:00:00+00:00",
@@ -5854,6 +5989,21 @@
       "source_domain": "meghalayamonitor.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2lXX2h0LWhHT0RXSFlmZTgxeTFmUGxoU1dHSi1FejVXNTBFaGVPZTZ6eVB4ZEEzUENMQjFrVi1kZGtuQ1B6S2JIS2dpZkJYTzZsN1FfRTF1QVhKM2N1NzdKb21menNEM2Rwdkhtdnd0TGVrdk0ybWVQOVJmLTlPQzV0bWxDeDJDVVJRVmVhUQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "b14871c1e309254dd4e7",
+      "leader": "ardent",
+      "date": "2024-06-08T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Ardent blasts Assam CM for blaming ‘particular religion’ - Highland Post",
+      "summary": "Ardent blasts Assam CM for blaming ‘particular religion’ Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVRmUkR1NmVXeEVyaXI4WC1MbnFXZkFtTGFPN0lLQ3E3Skt1eEVjVy1ndUhvdDFhbXc5dlpNN0tjQmJ1WHlYdHJpRWV5cE1ZQmo3aFltUTEzVldNeHZVYzhWUkZuU0ZrcnJtVzlIRnJUQkJXODBlcXZ0QTExMkNwOUxSRWo1d00?oc=5",
       "primary": false
     },
     {
@@ -7339,156 +7489,6 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWW1DY3NmM293TkhRTE9aRlhOVWN5Qk1LZjJfUThpOW9JZ2J2ckM4U3lQZ2JINGVDX29UQjZHVjFkUFR0aTVWMk5DUU4tZHhqbG1UdTgtbW9KbDJoTUduNzFzbmJ4NWdBRWZtUWxRNzI4WTMyNzMySVJxYnl1YTgyeG9jcnFVNGNhc25XZk5TeWloQnNQV3RLSWdUaU45aFVCWWZWd1NwS2c0YmpJRnM1YTRXZUc0VmY5c01xc3Jydk5IeEswa0taN1hYT21uWkdqajE3alZDMHpKbUpfbHBsNDVVMVFqNEVycnM0VDRiV1Q5aUFyaFltSjRNaUFkSjh30gGGAkFVX3lxTE1iUUdhaUZRWUh5ZXU1NDRGcUZRbDUyZ2VabmlsTjlVZGp0RHc5aUFvVE1WY1duX0JQQ3V0ZkxDc05uMHVRck4wOHRJNUFoZjROTVkxWkR3QklVbXdHaGJ2bXpQY0U0R0VkclVPYkEwOVZYdnk1NmJ0cDMxdlZ5NnRibDN4TlI5SFBDUXp1MU16RjZYdGNPaE9pNWFNOGhEc3JkTExPUng0QXB2TWlGMWZXS21tRjZjV0dlNHM0cFNkZXpZd2NGZWZSSm9vZlpjQ3JvZkY3UXhtaHE0djJYTm8xVk1wY2NrQlBkc3lObDJKQzBzWmdsSUhUbHZZaUMxekVCdmtsZGc?oc=5",
-      "primary": false
-    },
-    {
-      "id": "c0075588c92a7ad6b253",
-      "leader": "ardent",
-      "date": "2023-05-19T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Voice of the People Party walk-out from all-party meeting over roster system, announces hunger strike - India Today NE",
-      "summary": "Meghalaya: Voice of the People Party walk-out from all-party meeting over roster system, announces hunger strike India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSGpyb1dSbUlyZ3BteHltZ3A5czVJbzRZV0JtaUVzdmRoMmp1TkxKMTJBaTloSEFVQlBXbS1qdzNaRXpoVjFlSTEzUHljMmRDb3VSem1OU1R5Yy1aay00aFk2Rm9JT0Nsb1VOZFBKMzAya1VnMzkzMHB0MkNqNzZMZjBtZXBhMFZoT2I2SmJfVUp0MW1jZERRcTFub0pRQmxsXzVVc19IMVEyQ2VVVEhQcFRnazJwWHotcVRSS25LUEtSa1dUY1J0ZEFKamZ0dG85MHlFWndEakpRLW9jQzVCbV9waG1LU2h1NHg1akFueHZyblpZelZaRDdqLV9WOENqcWfSAYcCQVVfeXFMTzFBbkk5ZXNGS2FSRHltQWhmZ3dGdVc1cEpHY01WRmFHLVJUQmlmdl9ycnBfbHJHWlBWa0lxaEdhcDBDUFdxZjRTMHJrc2g2b0hNTVpEQXVrZU1BZjctVXRHZGxaMDk5YWxoRlc0Y054SGpqMVk3aXEyU2lxSktqMm1yOE1hSjFXUlpiRGhnOFVhTkVGS3otYjlwdlg3Y3NmNng3ZjVXMF9ESm11YTlEVUcwdks5eHhwRU1ud29TcVBUaTlNNUYxR296VTRNdWQ4N001VmZvSEJxa0RJN21hc2VFdnJLSjVyUlF2RnJ6TnZfQnpYN1RpNTJLRTRuMDZEd2NILVQtZUE?oc=5",
-      "primary": false
-    },
-    {
-      "id": "3abda9e5c71293fd4576",
-      "leader": "ardent",
-      "date": "2023-05-17T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Voice of the People Party stage protest against state reservation policy - India Today NE",
-      "summary": "Meghalaya: Voice of the People Party stage protest against state reservation policy India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWEJRcDFERFM4bjdvQ0ZSV2tZNFhVM2lWNTg3V09fX0JISzVxVWtKeTNQRm11WkxKcE9tUENZRWlCQU5IbzgyOE4yQ3U2RVhjaUx6dWtma0pZS0JhM3UwSGFUSlJyWWNBSndOOFZZTUJMM0cyVEdFRzA0M3I4NVFYOW1DWklQeUN5MWp4VTU4UnZNYS1WaUU3ajRRZjBDeVZwc0VLMDJEVjBCRndEejBTWTduY3Zmd0hKWWdmeEFteXNQUDZ2VjVlelR5ZUxPczhSbVFpZEtnd1lCdWxi0gHiAUFVX3lxTE1BOTI2VDNyOU9WNDh3MjFMVkl6XzJ2dUVpM0pvRjVUbmxNbGYtOE1wY3FGVmhvdDRUdk5UQkNnRUNBS215RzIzazZUR1BfcUdWTzJRTG1haGhRTnp0cUt4MnJTQjVSal9PRldRQ1hUNTFsTjhTNWRpUGt5ZjMydGFmYXItaHFBWWpUYWtMUnJ3TzFqRy1INUtqbHlpb3NOUDNiRndXVTlISWlqTFBrOE9FYjYtTUdGZ3JiVjNuRTdPbGYyVVllbVkxOF84TnRDcUxET191WFhka1hpb3dUTzZvV1E?oc=5",
-      "primary": false
-    },
-    {
-      "id": "67fa82c43909b1ac57b0",
-      "leader": "ardent",
-      "date": "2023-05-16T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "‘Remarks on father’s surname an attempt to seek mileage’ - The Shillong Times",
-      "summary": "‘Remarks on father’s surname an attempt to seek mileage’ The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1pIRTBqZ2lSNExKbS1nQm43dFRPUW5keW9hZWJhUzFfeTNIcjJYeGo0cDlCbW9EQWxMRUxfcWo0NW1jZExhalVpdl9paklMQnBSaEVvWTRyTUVqRkZJdkpRd3hmVkQ0YWR2SV93aDAtWWtHdVl0ZGdUcUQtTW1sZEoyeVVfUWU4YlhlLWhndzQ2VjM3Zi1Mei1n?oc=5",
-      "primary": false
-    },
-    {
-      "id": "31fd5d76a77e5ee972fa",
-      "leader": "mukul",
-      "date": "2023-05-11T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Mukul Sangma refutes claims of joining BJP - India Today NE",
-      "summary": "Meghalaya: Mukul Sangma refutes claims of joining BJP India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzdYUnRwTFpkR1d5LWplZ0l4YkdVaUlkNVZyeDRVSkRSM3NRaXBsYnNwd0pIUnRVY202X3J0blFuVGQ4a3Zyd1hRMjlIYS1ib1JuUE1mQVk2czg1MDhKRnZ4UjAzQXhlMFByU1FnT0NaUHcxRkRBUFNYWElxRDZ2Q3YyV1VoY2UwempIcUE0TU9GT0xHTTdBSWdUN1owLW9rNGRIYVhSOERiTjVBY1BfdEt5dEnSAboBQVVfeXFMTm1uaUtXME9pRjkwSjB1X25WU0ltSzVpY3VGcU9zNm1ncTNaWTEzOUlUc0xWVmNDb2JPdHl5V3k4WGRINmo3R0lxYnFxVmMyTW0xZ3M1RjE1MUdyVEpPb3FyWWJDQ2w3dHFSajNaUEpFOG4tZnRfTmstNEtNYXBDT3dKSmwyaXB2MTJnQ0NjU00yeER6YjZtZ1dheUJ1SHFQS2U3MGlzU2o5Y2VyVnFjZnVRc3Jlc09VUDhR?oc=5",
-      "primary": false
-    },
-    {
-      "id": "0f3e59bb71c5acf307d5",
-      "leader": "mukul",
-      "date": "2023-05-11T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "TMC leader questions cancellation of power projects leading to crisis - Meghalaya Monitor",
-      "summary": "TMC leader questions cancellation of power projects leading to crisis Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclhZTVZvdlFHWERlVmpDQU4tOVpLTGt0bVZNcHhadGI4NWVjSlZmRHJhOGdGdWNadzR5YnUyTnR1R2N5WHFmNXZHT2tNX3ZUdWlTUjRSdFVJWVdOU3lYdWswVEdYb015dmpNWHBJd1lBWFpEZTdOWkxZV29idU0zYTc3eXVJZS1OVG56bVRpMjB6Q0lFUUdnYkh4V1JFOWtU?oc=5",
-      "primary": false
-    },
-    {
-      "id": "8ce28406a6b02b606843",
-      "leader": "bernard",
-      "date": "2023-04-23T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "ACHIK holds awareness event for winter capital - Meghalaya Monitor",
-      "summary": "ACHIK holds awareness event for winter capital Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGEzNWRJVHlwV1lNSm9ORVY2Uk1oQzMzVnlCUk9EajBHSndnZzlEQ1BHX3dFQ0RVdXhHaHpjbEVjYTFMd0JNTDdyM2VwUjZ4WVdjVnNsMzh3MVhxS0o3WHVENkhwOW1ScS1raHU3eDdCOGZjWVdUNWxVejJmMWZkVU1B?oc=5",
-      "primary": false
-    },
-    {
-      "id": "b2906b3de6aadf5cba19",
-      "leader": "saleng",
-      "date": "2023-04-12T08:32:58+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Digital Sansad - Digital Sansad",
-      "summary": "Digital Sansad Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3MTFCMGJWdHFVeVBQSThSdlE4b1pKaFY0NVc0X25EOGNRSTgyOWpraTFrNVZaR05WOEN1VXk1RkhaQQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "4ba740f250c10c797997",
-      "leader": "ardent",
-      "date": "2023-03-28T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Rs 350 crore invested on MCCL since 2006 - NE NOW",
-      "summary": "Meghalaya: Rs 350 crore invested on MCCL since 2006 NE NOW",
-      "source": "Northeast Now",
-      "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTy1LckcxMFJsdHRYNVUyVHVHWENYSE9Ya2swRjZkb0JteGZ2NlJXeFA0aWdhdmZacVQteDdMV3RZNG1VMkUzTENFSW5RMkNITlBqSkZvY29LZDlWXy1OaVNSeEdualdZLU51bE5iTGZubm04TXNVaU90U25iQ1VBLVctSGtDRUpUSC1XVkk0cDdOYzdQSXhMQ1ZTU1BNQkU?oc=5",
-      "primary": false
-    },
-    {
-      "id": "02eb5320f990244341ec",
-      "leader": "ardent",
-      "date": "2023-03-27T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya has 103 VIPs under different security categories - NE NOW",
-      "summary": "Meghalaya has 103 VIPs under different security categories NE NOW",
-      "source": "Northeast Now",
-      "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUlJvVkp3bjFFWUg3V25wQWFnWnBJVFhteldlTS1maHpmSkZsT0tmQ01oOTk3RU9kbEhPcHFNZlV0cEtSUUtzSDBNZWRNcXVTUWJhbENwX1ROV1VmX0N0WDg1WkxrQkxBd2VPX1EyWXQ5ZmFOMHFNbzRmZ3Zra0NfLTRhWndKMl9RTjM2alFkdw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d275dfbc8172d414b613",
-      "leader": "saleng",
-      "date": "2023-03-24T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "C & RD Minister Saleng Sangma.(Photo by Sanjib Bhattacharjee). - The Shillong Times",
-      "summary": "C & RD Minister Saleng Sangma.(Photo by Sanjib Bhattacharjee). The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWmdyVVlldVlFbkNQeGZEWXJ6bWV3RHU3YU80LXB5YzVRMlNXV3ZMbkkwMjVremhEOS1WdWEyNzJpS2l4a2toOUpMOEVKS2JVNUY1T2lSM0tNbWE0ZEF0cFFTSXhOVWVRYjhSdDE2azVNdEgtX0VTMHRjbXAyMzZ2RGZJTzV0aEZCTnRCVEozQVlWQy1MeVpPTGVmRm1iQWl2SGJCQmZSODVtUXFzV3ZraHdMSFhHelpVZncySWtKSDBmZG5qM1Z1WHB2ZF9Id0QycGVrMk51MkRYVmI5dDZ1TmlPQXQzZkdLZjlrc1o3Z1lGWTJJMmFqYmtUakVFVjg?oc=5",
       "primary": false
     }
   ]
