@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-10-21T06:19:42.363455+00:00",
+  "generated_at": "2026-10-22T06:23:28.721401+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "6b2d387247e660a52f89",
+      "leader": "mukul",
+      "date": "2026-10-21T17:11:26+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 35814 - The Shillong Times",
+      "summary": "Established 1945 | Page 35814 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdjdka2F6MEk1V1BtZVpKMkVVMkYtaENONkpEdC1XM01rckdLejl5ZGRhUHY2YTRqeDFQQkJiY0FxaGpvX2F5Vk0wNEFFZ1NlWmp0UWV3b2NITl9NOGlkYVZJSHhIU0U?oc=5",
+      "primary": false
+    },
     {
       "id": "d630981f343fb22e68ac",
       "leader": "mukul",
@@ -75,6 +90,36 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
+      "primary": true
+    },
+    {
+      "id": "bbe5d99ff8c4a83453c4",
+      "leader": "ardent",
+      "date": "2026-10-19T11:56:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya - Meghalaya Government Portal",
+      "summary": "Meghalaya Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwaE5hQUhpRTdueFJMOWw1NUlnc2FZbG5NNjY3a2doQzZjcUJBV2NUWnRhZmxRbVprRkJib0tTWHdDWk9Sc1NpeVFDbFZKZFItaFoycU84NHU2LVgxU0VWNVBNcld6ZjhYQzVxSVZJVUZfakU?oc=5",
+      "primary": true
+    },
+    {
+      "id": "7c21a1a00f93213d8a53",
+      "leader": "mukul",
+      "date": "2026-10-19T11:56:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya - Meghalaya Government Portal",
+      "summary": "Meghalaya Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wcW5TblBEOVB0NjdCbWFadzYtTi1jRzJXTk9LRklnOURCVnhYM2NFN0QyRVF5ZnRaZ2dZcS10YW5LR2xScmFyQ2Yxa1pMbEJxT3Frbkt6N0Y5a0N0UGNISDdaLXI3T0d4TU43bUJ3?oc=5",
       "primary": true
     },
     {
@@ -303,6 +348,21 @@
       "primary": false
     },
     {
+      "id": "0e8aacce760ef98bcabf",
+      "leader": "saleng",
+      "date": "2026-10-16T18:06:37+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NE NOW NEWS, Author at NorthEast Now - Page 5784 of 5938 - NE NOW",
+      "summary": "NE NOW NEWS, Author at NorthEast Now - Page 5784 of 5938 NE NOW",
+      "source": "Northeast Now",
+      "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tbzZiSlpYWGg5NldWQXh1MWpTSjc1VUtKUzkyd1pDdGZKN0N2b0FCd0syaFVla2lxWUF6ZXVTZDF0UzRnT04zcHBISDF3SFk?oc=5",
+      "primary": false
+    },
+    {
       "id": "8b96015cb69eef5d6dd9",
       "leader": "saleng",
       "date": "2026-10-16T12:24:00+00:00",
@@ -315,21 +375,6 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96MUExTFJCY2JscjcwVWNGUlMtNTk5cGVsVHF3b0p2RVpyUWdwZTJPTzBsZVp6RjNtNlBjMWo1ZThEVmlPXzQ2cHdCOWpKV3psd3c?oc=5",
-      "primary": true
-    },
-    {
-      "id": "bd9c7d1cbb2196a65851",
-      "leader": "ardent",
-      "date": "2026-10-16T12:24:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members of Meghalaya Legislative Assembly - Meghalaya Government Portal",
-      "summary": "Members of Meghalaya Legislative Assembly Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LWmJqdWtEamdYY3p3dXJ6Nk50NVFPVlNMbUlBZGFjUFRnb0dsSVZCM0ZHX2lVS2JFN0hMM3NxNEFmY0hSM2h1dldENVBzbHcyVFFDQ2dtbjM?oc=5",
       "primary": true
     },
     {
@@ -2592,6 +2637,21 @@
       "primary": false
     },
     {
+      "id": "e33aa133312810b9f691",
+      "leader": "ardent",
+      "date": "2026-09-10T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP ups ante on govt over pay framework - The Shillong Times",
+      "summary": "VPP ups ante on govt over pay framework The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaUx3Qnk1dkVQdmVjWEJhVEw0UVdiOWlpUzFjN2hJRTNkMWV0Wlp0b0tvY1VTdGRBdmhVdlA0YV9fRndHbHlCb0kwZjVsOUp0b2RueHdSYl9uVUx2eURMN05DanhFaXFTUVlueHhxemR3cjBuU1ZZYTZkbWlnMTFpWEY3RXZRYmc?oc=5",
+      "primary": false
+    },
+    {
       "id": "028cc56a6e20c1637c21",
       "leader": "mukul",
       "date": "2026-09-03T07:00:00+00:00",
@@ -2769,6 +2829,21 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQalo4Q0w1Tmhta3RNWTBqeFJySU1PcS1qV2xNSS0yVmI0NFAwZzBfWTFtdDVvUm91ZG9nMDNHZ2tPMHlzZmRaZ0E0YmQ5dFFzOWdCZk9ycHpYVmdRM0dHNzJ4Zmtfb09sek42ejRsTTZ3X1pLVVRjLV9yY0xleHhWMzNTMVI2UUxUb2F2ZHZLS1ZSMnA5QW5zdjJxNTJDVWZtX200b1pHWTYxcVJNdm1CV2lRV2p6aG5wUVd6SU9tNWFQMXV2b2xGb1BLdXVGbmFZWEFJR0ZhUEdDd9IB3wFBVV95cUxPU20xd0dKNnc4V2V5SXVOdWJsOTBLMjUwTTE3eVVwTmdUY3NBeUprX1llTHluY0s0SEUxQnB6S3hxZFA0aVo4ZkdHaE4zYWhIYnhPWjZRdlFCekZYOTZ5SUNQNDIzX3BFcFRSdlB2MVdmM25NMWg0RjdOR3hhZXU2T3NERXdObGwzb25BWlFRVnZWYjQxcUhwVUpKR0xsLTZORnF3LVh2X3JjbjZsel9jQ3FvRDQ0OVBLZnF6YkRMRU9tcXByczVUNlZxWVZyZHkxYlkyajRCYXBZSFZXbVE0?oc=5",
+      "primary": false
+    },
+    {
+      "id": "426695c248c094cabb3e",
+      "leader": "mukul",
+      "date": "2026-08-28T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "From Israel pager attack to banking frauds: Meghalaya House debates cyber threats - Hub News",
+      "summary": "From Israel pager attack to banking frauds: Meghalaya House debates cyber threats Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDQtTFpMR1Vxd2lDTnRVRFgtaWVkbURMZjl3MFlFYk45VHpJVk5MMWQwM1l1ajNGeDlxQWNuOWVCWlhFX3RIZ0ctQmpiOUxMeUxPc0YwZE9rYkV3cnpXdWE3bndkRWdXa2k0d19UQ29iNUZOM1B4V0RzY2NnVFkyUGVHOGdaX2Z0bFFRbUFXSDJ3UUVVMHBCLWF2QzJIdk9HV3cxcWlB?oc=5",
       "primary": false
     },
     {
@@ -3697,6 +3772,21 @@
       "primary": false
     },
     {
+      "id": "108ab1aaf563caa0ce40",
+      "leader": "saleng",
+      "date": "2026-03-13T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya CM holds meet to rebuild trust in Garo Hills; MP meets governor after violence - India Today NE",
+      "summary": "Meghalaya CM holds meet to rebuild trust in Garo Hills; MP meets governor after violence India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeTlNTVhHcnVCdlJ3NEhwX1ozdDZPalRPejBCMmhPdE9tcWYyYVFBdDRSelFHNG9YTDlSeWEyR0dpaTJlMFlFbWNIWE5xQWpnTWt3Z1dVcTh1M0k5cXJJV2djNEVPSVpnRkpfUWtNaXZPMFVjM1VpQTFqbmg0ZGxjZkFYZ3ZYalF0RHBoeG9MWHZiM3p2VzJHc2poLXpmZjU5YWxuVHFjajdpTkVnZEJDUktIT1V1ZjVHYy15LXF4MU9qVVhfMkxZVWtYdXFwSEZhcHlzSU5ENVk5UmlGOXZmcHNHbVXSAeoBQVVfeXFMT1lkd191bjlLUlo2TkVaUWcwd3JFQzBINzBDTTNRREhOanBwLTBrMnM3YVc0X0NBR21EdjNPeFZDWS1oM2lUX2l5YmtvTzUyMXppQkx6OEs1STBRTktXZnFzSmZiblNVNVZIcVJRZGk1WGdFX21vSzB1WkY0b0UzVEtWT1hFcjJ1RVBTWGhnUzRyVmg1RW1heEdPRzFRNkR0Zk9raE1rczdfUHlFbmpoejFkbHJEeFhnVmk5cnhMMm56aWdJTUotc1I1M3FkQXI3MmNBTGZTZVhzaUV6UXJ6aEFoUTROdGpac2J3?oc=5",
+      "primary": false
+    },
+    {
       "id": "35ddf92f35c7c73da17b",
       "leader": "bernard",
       "date": "2026-03-10T07:00:00+00:00",
@@ -3937,6 +4027,21 @@
       "primary": false
     },
     {
+      "id": "1d42ece74e1c28c28b8f",
+      "leader": "ardent",
+      "date": "2026-02-17T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya spends Rs 4.35 crore annually on consultants; quarry queries unanswered - India Today NE",
+      "summary": "Meghalaya spends Rs 4.35 crore annually on consultants; quarry queries unanswered India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPazdfdU13MDQ1cF9OS0ktdjF2YmxUaVBlcExZWkl0cVBHWHp4eW9VYXZWZDRfZEhiOHp5VVE0S3NXbUtrQlJNb1JhZEoxbFZKTExHTFhELXFXcUpQQ0preDdKTEZWUUQ1LW1uZF9lQkRvVFFWQVRsMTdJb1lVSDk3cV9qb1R3cGtaWGh6VlZOV01LeTBacmZVWGlsU2lUandVSV9acDY5d2RrLW9aRHVKWTZBRFpYdXZIdzRoRzFwV0lRMTRUNDZZNTl5MXd0Q0JzSXVOdFBwSTRUd9IB3wFBVV95cUxQOVA0YzRtUHRDeGpZYVptUVRqbHBvV1VxZHZqZjdhSnUxOVR2eGUxYXlZa3hWT1dMVDdWNEdJeFU0UHVIbUQteGtDM2JiZU5IOEFzQ2VuV2kxdUlMb0JMUzFMc1dHOE5DcDNiRTVEMGhoRFJBM0psX2tsWTUwa2h5c3NSX1VNaTFoQm1kaGxETUZnNExHbHB5ZGRRR2V6R0w3RmZXYTF2UW9JbVg1c2lBTEZvWmROUi10TDFZbDhPaFZnM0h6WUVnbl9NTy1sdWFPclJwSEJPUjZEaU5pYk1N?oc=5",
+      "primary": false
+    },
+    {
       "id": "93d93f0d291194d3d7d2",
       "leader": "saleng",
       "date": "2026-02-07T18:34:34+00:00",
@@ -3997,6 +4102,21 @@
       "primary": false
     },
     {
+      "id": "0afa20fe442c512d0997",
+      "leader": "saleng",
+      "date": "2026-01-16T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Content creation: Saleng questions CM Connect prog - The Shillong Times",
+      "summary": "Content creation: Saleng questions CM Connect prog The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUg3SDhncW1LYnRvcHRRSkY3bl9fTzBUdE9MT1lGYmowTDhpdlBXRUdmZWdEYzQwMmkzVWRtaExpY0N3STh5UUpGMUdPTDlTaUthNlpFU2NIZDVSaXRzYXczcWhpYWstTnFSNFl4clg3ektUemI0NVNfdGZMTUpNQmZKYVgxSV9jYW9oUFpuMXhBWWFx?oc=5",
+      "primary": false
+    },
+    {
       "id": "50eca017bb7e81a0efb5",
       "leader": "ardent",
       "date": "2025-12-22T08:00:00+00:00",
@@ -4024,6 +4144,21 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSTkzU2VGa2hhU190cTA5d0lJeW05NWpINlJwT21OS1RFa282VXZ6U3ZyaXpZR3F2WVk4bHNpUExvSGJNWHpuTXNFNUVJWmxwX3VWYmRVRGtPSVlCT3pEUllUVlZldi1zRjgzdVBjRFhHa3o0dTRuZjV5UFVydmFac094eEZvejRhTGd5X1RPdE14QnVHWmNpWFliNjBuR0QzVVkzLW9fTmU1VFc3ZnpQZ29TdkhLMzhPc28zTDhxSEEtYUhGOXfSAcsBQVVfeXFMUHZOQ1FXUHhnZTQyQV9lRzI5SHItV1hpOUNZV2RYSWotcUJPVXJBSGpkSERVSHNpNE00a0Y0NFRiTVhzNUREaV80QnpqeEZnajRQcGEybDVSTmo2OUFCVjN3b1hJZGg0dlE4ZGk2R2NrcGhuT3docDlyVUZwYjZrNmNzbWVPSU9Tc0p3YTRCYmstWjNNNU9pT3V6d0FsQnJRcmg0cGRCT3NvYjFieTdHaU5rNEVYdTF5TW9vOHZwUl9VUmZCczIzM1JtOWs?oc=5",
+      "primary": false
+    },
+    {
+      "id": "3f9942659a800ee16d2b",
+      "leader": "mukul",
+      "date": "2025-12-08T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Mukul’s ‘loose’ statement reflects poorly on him: Badwar - Highland Post",
+      "summary": "Mukul’s ‘loose’ statement reflects poorly on him: Badwar Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMk9IYWdveFpZRzNxUlNRRElzTlhhTGRIR3dCR3hFZTA1UC1Rel9BMHp2dUdLS0hkcDcyamd0alI0R0pXWDltTkRNeHhhU3lvYVNTUVBVOUhSaGRLTUNONUdjMmZ4bjhpQnM1a3Aya2d4YmF1b3RQTWRsTEl1MkpweHNaN28?oc=5",
       "primary": false
     },
     {
@@ -4702,6 +4837,21 @@
       "primary": false
     },
     {
+      "id": "3d3b852a0dc4dca05dc3",
+      "leader": "mukul",
+      "date": "2025-04-05T16:02:22+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Sniawbhalang Dhar - EastMojo",
+      "summary": "Sniawbhalang Dhar EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQnNRNnpYeXY2WW91c1ZPeU9hZk5mNVNfdV9FMXozcGMtZlVMaFhfelhjcVJ5QmJmbGc0Yk9NcTdmQ3AxdzZ0WmlnWnlicktfUktNNk53?oc=5",
+      "primary": false
+    },
+    {
       "id": "e0df32dc8a337b88d008",
       "leader": "saleng",
       "date": "2025-04-04T07:00:00+00:00",
@@ -5344,6 +5494,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0NnU1lScXNzbGd6eFFzVzU5cVYycVNjWDlreGYtWTRmRmR0eHV5RElQVFFUWGxWTGtkeVotLVBwa2RWTktaaXJrMkFfRk14ZGlHMEtqM1pYR1phbVNoVjc2bDcyWGk4Z1BySzllRVR3WW9wR0VuOWE2cUppaXA2bkhZUUVhWHc5RlRkZTU3emMtYTdWQk5CSFR3?oc=5",
+      "primary": false
+    },
+    {
+      "id": "3d9e2c8c784989212da6",
+      "leader": "bernard",
+      "date": "2024-09-11T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NPP diverted over Rs 100 crore under ANVC pact: Bernard - Meghalaya Monitor",
+      "summary": "NPP diverted over Rs 100 crore under ANVC pact: Bernard Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDgxUkFXY0kyRHkxVlVTUFhzZXJ0Z1U1ZHMyMTBqei0zbXlmbFVJdWdpT1BFUlFIRTRvSkRoTWpHdGo3R2ZQLVE0bU02NDhlbDNJeEpYVk5wOTZfdU03cjhEcG9VTzdlb1dxY0ZqRWljX09wX2g1QnNaUVNVUV8weW9zenZUMFpJdzZvQg?oc=5",
       "primary": false
     },
     {
@@ -7027,6 +7192,21 @@
       "primary": false
     },
     {
+      "id": "97102cd905469e892f67",
+      "leader": "mukul",
+      "date": "2023-09-22T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Legal notice to ex-Meghalaya CM Mukul Sangma by Mizoram businessman over ‘drug kingpin’ remark - NE NOW",
+      "summary": "Legal notice to ex-Meghalaya CM Mukul Sangma by Mizoram businessman over ‘drug kingpin’ remark NE NOW",
+      "source": "Northeast Now",
+      "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaG15c2hNRTRTaG1sWDAwUF9Zd3I1LUZrQU53eE1qVVFoSER1bWNBYUdMTlVWaVJkN0VHNEV5bFNJMlNsUEcxM1RhR1ZRRnVLZFoybDZZY25tdzQ2a3Z2VS1vX1Nyb3RoUUM3QTVuQm1DVVRackNRbTVoTlhTaURXYzBHeWNWSnRRU0tBOFllMUpicE9zZ3dibzhEcXNyc2FjNEswaHR3NTlBSlVjMFdrMW9heEYyQWFBVHRpMWctQWg?oc=5",
+      "primary": false
+    },
+    {
       "id": "224fd2b2b6900cb30151",
       "leader": "ardent",
       "date": "2023-09-21T07:00:00+00:00",
@@ -7144,21 +7324,6 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iT0VKcWVWN0dpb2FjUmh2cEJWLVFTOUFlQ1hrRkVWWTZuTk5NM25MYVFWSW10S1FHOVNhUG9SQlNvbndhZDJxWWltLTN6U3A1SG9YVzFzOEdWMHFqR2R3TDlCaXdIMFhsaTBfd003VVV1dUdLbDNB?oc=5",
-      "primary": true
-    },
-    {
-      "id": "bbe5d99ff8c4a83453c4",
-      "leader": "ardent",
-      "date": "2023-08-24T12:09:22+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya - Meghalaya Government Portal",
-      "summary": "Meghalaya Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwaE5hQUhpRTdueFJMOWw1NUlnc2FZbG5NNjY3a2doQzZjcUJBV2NUWnRhZmxRbVprRkJib0tTWHdDWk9Sc1NpeVFDbFZKZFItaFoycU84NHU2LVgxU0VWNVBNcld6ZjhYQzVxSVZJVUZfakU?oc=5",
       "primary": true
     },
     {
@@ -7324,171 +7489,6 @@
       "source_domain": "hubnetwork.in",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6SG9Oa2M1b3JfemRnUXJ6RXNYTnNWdkJvR3AtNWVaMXczNnUtdmV1TUladmxURzJaTlYwTzVYRVkxRWMtU0pjN1ZvaFNPQkZTWVRCZmlOeEJfcXN2dDE1N1ZxOTlIM29mU0VsMjhrTW05bm5qbkVieklvWQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "5d0d07a144c07ba78ae0",
-      "leader": "saleng",
-      "date": "2023-06-08T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Former NCP state President Saleng A. Sangma appointed as opposition chief whip in Meghalaya Assembly - India Today NE",
-      "summary": "Former NCP state President Saleng A. Sangma appointed as opposition chief whip in Meghalaya Assembly India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMUQwaFdXNlRMam9xbldENVBmVHdUTWxnSEpWSURndkdmb1NHTDlhTHc1aml1eDBVdlBCUHAwbXJ2VndHam4zMlk3MEV4N25aU0RCcUUxN0FVdXBYTlE1TkpHR0NFb3I0NjBtN2FhMVh4U2ZmYXV4a3ctZEhTVWo5dVkwZmg2a0k5VlI2SHFpb3JKY3RxYjhxZW5fdmptczA4UG5xbVljSUhQWC1zQk05NDdrTHlMMGxEa0M2UGJ6Z1BodGc4dHBlcHRyVHNld2E0Rk4tV3hOU0lIMnVrN1dhRWVuZ3FUZUtLaTNfZFlDNEJFV3PSAfgBQVVfeXFMUDZ4cC1wQmtYaTZRVzJDdmsyYWNMc0xPRjFaYTdDamV4OGVTWmMzUnAtd2ZVNmtVRlBCdFdiM3RabDBpZ2taZmNlQjFlQjZ4d2JQbEZIb0tucndieDd1N0p6N2dTOGgtRHI1SFM5ZjA3Q1ZLcWdDaWJlc0pyamdiUWJzdFh6MnhBNUZNWkZTaURRZ3ZSamhhcGd1eS01cnJnSkJERW80SWNkTmhZV2Ntd1JwNTFkb1o4aHFkdGhVbWw5VDdFV3h6V0V0OEFDZkIydkxWcEFmdVhKZEVPUlFQZjBSNnA3UXJSWklaQkZWVmFWblUydUVZaDk?oc=5",
-      "primary": false
-    },
-    {
-      "id": "ae3608590ece46f4b0a0",
-      "leader": "ardent",
-      "date": "2023-06-01T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Ardent Basaiawmoit suspends indefinite hunger strike after 10 days - Hub News",
-      "summary": "Ardent Basaiawmoit suspends indefinite hunger strike after 10 days Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzZ6S3dLTVhCS3RPbXJXckk3cFVHeUpsekMtNHZsemFHdHBrZ1hyQ1ZIRjYyWV9aWWdDWlkwUUhoYmpJQV9GWjRZQUF3Vm9WYWY4dlBMZmlYZUFzalpOVi1kTXM3VHoxcEppUjFkcHJFM1FNRklEYy1QWXFzWlZpUEI4UzNCSzlkLXlmLTNKLTN0N2c?oc=5",
-      "primary": false
-    },
-    {
-      "id": "f1d58003f298cd59b8b9",
-      "leader": "ardent",
-      "date": "2023-06-01T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Voice of People Party chief calls off hunger strike after 10 days - India Today NE",
-      "summary": "Meghalaya: Voice of People Party chief calls off hunger strike after 10 days India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGtlRE1PYWxuQjR4emxGTkctMTY0a2xORDlEYVZFSkUtbEVFNllNZ2xRdU1iTFBmWHY2WHlYVFRkSDlGQU9qWVVZSTNTQUhKd3lwSGExUmhSRl9lS2gxR0cyNW5lbURvM2hnWGwwTnY0OXhzMnJ2U0d0RU5PUXo2VzVZZ3psUDRTMFl3MTZQWEJxOFBJN1VCb2pKWU5BQm1ockxFXzhlQ0F1U3ptTU5FcmxJRDdMZHgtcl92a1ZxWFc3VE1VRmNhQjJCR3pWNUZ6WC1z0gHYAUFVX3lxTE9BYXRyZHpPWGdXMDRvMlc0SjU0WVl3TkFSRjlhbThRQ2xKYmx1WDdWbGlvYTdnMDBzRmI3NVVvMFgwd182LWpKaUZKeEl3cmFLX0lPT0Q1WUxDNVNYWC16bU45V2dZdVZyX3Zld05aeUJ5bmdDWmRabUNpWXVyZnZJMTJPeW9wMlZRWG5DMHJBOFlQMlRqb044cmFGYVVDRFMyYTVyeERGRzdoNGJTYkNHYlFxQWh3Ukt5c2lVSHZXUExmdURYWkp3MnBldm9qS0lwUjJPaklBbw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "0807c118418a81bcfa60",
-      "leader": "ardent",
-      "date": "2023-06-01T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "GHADC MDC slams Ardent for trying to sow discord between Garo and Khasi-Jaintia communities - Hub News",
-      "summary": "GHADC MDC slams Ardent for trying to sow discord between Garo and Khasi-Jaintia communities Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWQ4V2hRNUNoWGowVndMNWp1RmhMcWg0bzFUd2s2UHlUQ0I1cW5vN2gyandhUWF0eTcyR2o3aG12Z091QzM5bXVjN0IyeU1yb1M0UERhaXlGeXVWV3JabEVjM1BGV2RKXzVSUmxtS0pLQUhKUkVES1loX2xfcnhNM2dwSndPR0h4blZJWnA5VmlHdTkxdURZa3M2RVlpdkVjLU9nMFd2c2x5UUstQVZqVDRuUXY?oc=5",
-      "primary": false
-    },
-    {
-      "id": "33e1d02669a61f837860",
-      "leader": "ardent",
-      "date": "2023-05-31T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "VPP accepts to be part of committee on roster and reservation policy but Ardent to continue fast - Hub News",
-      "summary": "VPP accepts to be part of committee on roster and reservation policy but Ardent to continue fast Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzdja0h0UG1oY3FUMG5CYmJVYTMxejU5Mm9wNUZGVERWeTRWVzN1QUI4cXRKaHdrcWNBbVFiSTNLeTlKMW9SLUpIN0hFaDRZQldUa1E1dXQtOV9FZGVUQ1RVSWF2ekkwNFBiVWVGbTBGZmhnaTdseTJhaVlJVGc0N3pTakU4UTdZZzJjU2QxTWsteVlQeUV1UGRSWjNjb3VYdGk3cFdPbUlIdG5JbHl3T2k4X01rN2MtZTlj?oc=5",
-      "primary": false
-    },
-    {
-      "id": "654cda25a539dc20670f",
-      "leader": "saleng",
-      "date": "2023-05-31T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "ACHIK slams Saleng’s quota merger suggestion - Highland Post",
-      "summary": "ACHIK slams Saleng’s quota merger suggestion Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FT09UUHVtakdWZkdyMXRlR1Zid0daNGNleXlaa1BKZ1JlTnh4QWFic0FRZ3JKLU1ldWt1dUJWR0xyVTVXdExhYnBjeDNlVjQtc0pISDRUc185YXhSSDlYcWg5Q09vOFlPWUprb01jSXZlSDBPOG93OQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "b6f848eaa4810e79b056",
-      "leader": "ardent",
-      "date": "2023-05-30T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya government to re-constitute committee to discuss implementation of Reservation Roster System - India Today NE",
-      "summary": "Meghalaya government to re-constitute committee to discuss implementation of Reservation Roster System India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOUNKRHItRzJSa1pLWUM5X1NaeUdGZV84S0VydFpjSWVxcF9GSGhJSEdQRXBRekN5TGpWZmhlN1UzcEZkbVl6a1dmeUdfdHRUQV9uQmIxMmIyVGg3amVzSHowb1dMRWxic3RGTVdEQ2M3YkxpbUdoNFg5ZHlfRTYxUDN5TktmcmRhdmtydVlnVlVOQlZwTW1nT2NPYjNJNDlVRlpyVC14R3M0ZUxINk1GRDZDOXoyRXBBcjhVMlY2THVPZ3MwTERpV203ZDktb2owd3JmVmRhVmhENHQ5WVZmTFZ2RkNYcEhnb1lBQUJ5VE0wSXI4a2M40gH8AUFVX3lxTE9xX0pYNjlRNWQxMG9PYzRETDZYYWR0ck5OUDRMYW5rUEl0RGZkMzBZZEZJeDFjczVjUEJveThDYUVqcU8yamRmc3dXVUdGc3Z1Q2NDQVE3RUYwVjBqR3R2a0t5bGRKNlYtTHB2TGFKRERUSTdWMnVBMTJvVFNOSENKa0RDMEFxQklxUmxfd19NNk5VdWZ5M1F1OF9kTTJNekhrQ19OcnZiNEt3LWtfdHFsLXVhRU9nR2ttZVlmOF9WQjF6OU0yUW14dFhBc0hIZE5lbkZlNWh2amVTa0xDS293c3k4TG1Xam9ESjNyNXBoOGM5OTM1S0x0Znk0Uw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "4692dc95132be8665a31",
-      "leader": "ardent",
-      "date": "2023-05-29T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "VPP Chief Ardent Basaiawmoit refuses to be part of Committee on Reservation Roster - Hub News",
-      "summary": "VPP Chief Ardent Basaiawmoit refuses to be part of Committee on Reservation Roster Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObERNei16RnJSVUhuZjl3UnN2SFo1SVNnZUZOZVdkd2ozZWNYZWFtZEdyV0NZVGItT1BudVhncGJmb0xRcDVWYWxZamstU0l3Y3dtNnhGM2JrYXJTa2gtdWRHVTNfUTB1Y3VaZXRaRXZ5U29MT1E1QU5nZnJia3lNS0JvbWtxU2xkUW1OX0luejJxT3NzME9xTGhKbVo2cjduVlMwZTJkN2U?oc=5",
-      "primary": false
-    },
-    {
-      "id": "479850c6fae1c9bad164",
-      "leader": "ardent",
-      "date": "2023-05-24T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "NPP slams VPP as Ardent, others begin indefinite hunger strike - The Shillong Times",
-      "summary": "NPP slams VPP as Ardent, others begin indefinite hunger strike The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck95Rkl5TkFJZDJldUsyQ0NCUjhYUElXUXMzM1ZRUVd4NHMybTNoMGNFOVZNRDZRVDQ1VFQ2QS1SY2RzOEZ2MlFySzU1VXFVN25pQlF5RS13TklVQmFOSjktdFRIVGo0WktPTjJZWHhlU19BT0E4ekRzRUZBdnpfQjdiMDBWV2VhQkJrUnpLWU0tWXg2MUhFMnJaWmMtd2RKLUhINw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "74d3a0fcfbcbd9f48dd3",
-      "leader": "ardent",
-      "date": "2023-05-24T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Ardent slams regional parties on reservation policy issue - Meghalaya Monitor",
-      "summary": "Ardent slams regional parties on reservation policy issue Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzdqLTdJVEMxczNqdFNGeWZuUlJfLXI0dTJxVDZDQmJVMkxFTXZGS3IxeVM4akFJRElyNUNLYWFhWi1fV1pRbFdZSEtqNG9XNE92SXZ5WXhVYkFYUUd4RmJjRXltcVJ0aWJReHVNUzgxcWMtTWU0WW1KZTlBM1pWVG9UZ0pGNUl3RHVXT0k0emE?oc=5",
-      "primary": false
-    },
-    {
-      "id": "10caef225294694cbcd8",
-      "leader": "ardent",
-      "date": "2023-05-23T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: VPP chief launches indefinite strike in front of Secretariat in demand to review reservation policy - India Today NE",
-      "summary": "Meghalaya: VPP chief launches indefinite strike in front of Secretariat in demand to review reservation policy India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWW1DY3NmM293TkhRTE9aRlhOVWN5Qk1LZjJfUThpOW9JZ2J2ckM4U3lQZ2JINGVDX29UQjZHVjFkUFR0aTVWMk5DUU4tZHhqbG1UdTgtbW9KbDJoTUduNzFzbmJ4NWdBRWZtUWxRNzI4WTMyNzMySVJxYnl1YTgyeG9jcnFVNGNhc25XZk5TeWloQnNQV3RLSWdUaU45aFVCWWZWd1NwS2c0YmpJRnM1YTRXZUc0VmY5c01xc3Jydk5IeEswa0taN1hYT21uWkdqajE3alZDMHpKbUpfbHBsNDVVMVFqNEVycnM0VDRiV1Q5aUFyaFltSjRNaUFkSjh30gGGAkFVX3lxTE1iUUdhaUZRWUh5ZXU1NDRGcUZRbDUyZ2VabmlsTjlVZGp0RHc5aUFvVE1WY1duX0JQQ3V0ZkxDc05uMHVRck4wOHRJNUFoZjROTVkxWkR3QklVbXdHaGJ2bXpQY0U0R0VkclVPYkEwOVZYdnk1NmJ0cDMxdlZ5NnRibDN4TlI5SFBDUXp1MU16RjZYdGNPaE9pNWFNOGhEc3JkTExPUng0QXB2TWlGMWZXS21tRjZjV0dlNHM0cFNkZXpZd2NGZWZSSm9vZlpjQ3JvZkY3UXhtaHE0djJYTm8xVk1wY2NrQlBkc3lObDJKQzBzWmdsSUhUbHZZaUMxekVCdmtsZGc?oc=5",
       "primary": false
     }
   ]
