@@ -1,7 +1,52 @@
 {
-  "generated_at": "2026-10-23T06:17:15.440089+00:00",
+  "generated_at": "2026-10-24T06:12:30.771921+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "079d9f0d972bf6083e0f",
+      "leader": "mukul",
+      "date": "2026-10-23T19:27:11+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Selection panel formed for State Chief Information Commissioner - The Shillong Times",
+      "summary": "Selection panel formed for State Chief Information Commissioner The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODctVWVjcThmMzgxRExZU3RWYUxucFNfcnFzMHF2UEpVS1FoWS1fWXFTcEJhSUkyN1FvdTV2QUgzY3E3X3ZqM2NnZlFFa1RuSjJSYWM0MTlDNGNLSFJFeGN1WnpCVFVUWTB6aG94TU55VFhOSWZhUE1LREI4Q2t0bUd3LWRwRW1BRTFlOE1HelJubF9VN2lfRC1MSDhIMTNKSTFVSHFkZw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "d2abd8666a881c93868c",
+      "leader": "ardent",
+      "date": "2026-10-23T19:14:20+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP backs deficit teachers’ demands - The Shillong Times",
+      "summary": "VPP backs deficit teachers’ demands The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjFRZUdKQUJOM2lOVWZZRmlybHYxekZBeWUyU05oYzRPNkktTnROVEVMazZDNFFWak53alNXXy1wWmRBRjZIRWY1T2R5Y1RwNGJ4OUx0a1ROb1BzckdRVldzbFdyZ293YlBnNE9EUXhfRUYwYmZYbWVqbkVsNU43bQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "f5c89017d081789f8675",
+      "leader": "saleng",
+      "date": "2026-10-23T15:21:29+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya Congress seeks 80:20 female-male ratio in NEIGRIHMS nursing recruitment - EastMojo",
+      "summary": "Meghalaya Congress seeks 80:20 female-male ratio in NEIGRIHMS nursing recruitment EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWY1czUyelZYUUdNRFhjMlFiZ0h2MU1ZX1Z6Z2FfRVhHTnpaUDdIZjJMRGR6QnRiUHN1bER4eVZFT1h1MzJ1QkhaR3ByNVl0ZERnOW4tN2h5MGw5YXdRRmVULTJrdnlpUU1rOHNDZFRmQ3JGWTJJM1VLMFc1OU5CVU1IUGtxemVUV1BGUmI5MGEtaHVFLXpaMlVnbTFyekdiMTJsOEtMeDZocnF3T0xYYjlaNG05ZGtyUmwyakV4bVo?oc=5",
+      "primary": false
+    },
     {
       "id": "fa85191673d87d6bd8b6",
       "leader": "mukul",
@@ -15,6 +60,36 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwUmxEejdlSURxdVEzZlZ3SThwQUU0UDJjMjVOX0Nwa0h0OFRCd1AxV2lUeGJLSThRNC1laDlSWlBsd2xmc0hQNF9TZFFQVm5JMVRjMHhRbUxGRmszZE9yTlItc1VIZHBaYmlHTGk0U2hYZGpNMWVnMDI4UU1kNDA?oc=5",
+      "primary": false
+    },
+    {
+      "id": "7fad32e2e9f73a178e9d",
+      "leader": "mukul",
+      "date": "2026-10-23T00:35:34+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "From Our Correspondent - The Shillong Times",
+      "summary": "From Our Correspondent The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QUXRVd0RScm8wejNoSGZmZEZ5dDA2QzZZT3F2UUp3M0pocDZCOEo3VWVnZFVxNGtjV0t6UGlRYWhnZzZoWGRSaTRaUHFfUXZIVVNvWG8wTHlUall1WkhwWEdGU0c3aVZmNHpfUHBPZWR4X1FCVGJyVQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "aaa32a85cb15319c1364",
+      "leader": "mukul",
+      "date": "2026-10-22T22:37:04+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Frustration led to UDP MLAs joining BJP: Mukul - Meghalaya Monitor",
+      "summary": "Frustration led to UDP MLAs joining BJP: Mukul Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV3NmS2o3ZjZKbjVRWDFIZ0hwblVqbEVhTThGNFB4SFVrV0UtYzd5UERDd09vSVRtVk8wQ0ppeGczWWtPakZyZE9DVWFrRWFDMFAyTFBzQlhDZGhrblQ3X1JseE9uWDlzams2akV0Vmticl9SMm9md2Y4MkF0OTJtbw?oc=5",
       "primary": false
     },
     {
@@ -150,21 +225,6 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QaEJFOUxqUUY2S3JYYUlMLWZ5Umt6ZFdhYUR4SUZQWVl3RFg5cml4NWl1SHdSaDVNQlZfWTE5TWh3aWsxTGFOTGw4VQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "33d2f944a97c983c0363",
-      "leader": "ardent",
-      "date": "2026-10-19T11:56:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members of Meghalaya Legislative Assembly - Meghalaya Government Portal",
-      "summary": "Members of Meghalaya Legislative Assembly Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GOG9oNFhuLWVoRDg0WWM0YjdMYmM4d2lqM3QxNko3YWZSNEZSaUlPdGJ2Y0ptMUdnalMyNU81RlZzcGNUVzQzb1NVZmZUR0dibzhz?oc=5",
       "primary": true
     },
     {
@@ -1653,21 +1713,6 @@
       "primary": false
     },
     {
-      "id": "aaa32a85cb15319c1364",
-      "leader": "mukul",
-      "date": "2026-10-08T20:01:34+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Frustration led to UDP MLAs joining BJP: Mukul - Meghalaya Monitor",
-      "summary": "Frustration led to UDP MLAs joining BJP: Mukul Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV3NmS2o3ZjZKbjVRWDFIZ0hwblVqbEVhTThGNFB4SFVrV0UtYzd5UERDd09vSVRtVk8wQ0ppeGczWWtPakZyZE9DVWFrRWFDMFAyTFBzQlhDZGhrblQ3X1JseE9uWDlzams2akV0Vmticl9SMm9md2Y4MkF0OTJtbw?oc=5",
-      "primary": false
-    },
-    {
       "id": "b8b8567e0f1562291eb8",
       "leader": "mukul",
       "date": "2026-10-08T19:57:36+00:00",
@@ -1680,21 +1725,6 @@
       "source_domain": "meghalayamonitor.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdG5vVzRVdXVXRnNJS3AzaTAzMm1rRlpPYjdCZUt6b2x2eWtiSFlmbkpac09fQm93MUhMeWd1ZmllR3dVanNNYVVCOS1jb3d1RFRqcGhEV2NhLTVnN01aRjZKV0xsU3ZLQkVNTnYwemoyVjlyQm1KdnRGNWNMSTV6WUtGOA?oc=5",
-      "primary": false
-    },
-    {
-      "id": "98a6b3269660ae4ff5a7",
-      "leader": "mukul",
-      "date": "2026-10-08T15:02:46+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul Sangma rules out switch to BJP, asserts TMC remains unbreakable in Meghalaya - Hub News",
-      "summary": "Mukul Sangma rules out switch to BJP, asserts TMC remains unbreakable in Meghalaya Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmRqMDVIYzZBNF9UR19jRzNjTEpEXzZ3TndRbEZhVGhWc1F0Y09iam5WaXlBVElyd0hNX0N0NDRaNl9xb3FvdVpLR3pqazBIeEQ0M1F6amoxWjB4MGl6MnNiTUp3b18taUNzTGEwMHpqdEctOUJOOFNJcGoyX25QeVJfZHBvMHNXb3JTRXdmMThXSnl1dERVUzQ0MktrcXlOaktXSVB0QQ?oc=5",
       "primary": false
     },
     {
@@ -1725,6 +1755,21 @@
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTHc2MUVrdmVLN0VjZUFQNTN0d0NjVmN0NDRYRlg2OGJjdlkweXAxZUg3MVM3UDd2Y0hRLVhzUGZpWHVNRzlZUEw5WFVUN2JNeU1PbTRIblVNVW5qX3hpNE53ZFljOExiN3lVazdYdi1yOE5HVzd3THlBU1U5VmhESGgySl9KSjZtbnhLNmxmTVZ4b0ExV3VReHp1dHpmM0lfOU0yZ2ZLbFNJZUgySkl4eEpibG5TeF9mRjAzNU45Z0Vjb3ltVkF2eERvZ9IBywFBVV95cUxOdWdtUHVQY1lldDBlYXF3Z3d1T3dnUlRoSDBTTDNYbFo2NFJSc3FyRmNROXhmeG16LVlfbXFQMGp4dVNxYk40bFJsSHBEVlozaFFfdjEyblpJS3VVbllNOFpxYU5vd0ZrZ09NVU1NZDM2U29yeHB0TWlrM3hWUUcya2ZqWUx6UXpET3N1SXJ2RUJtYkZKalJFTkNoTUQyR1NmWVhKTW5LeVZ5TVBsSDJPamptRUdZZjVtNTU1MGItNnpwZV9jQ212NEg5MA?oc=5",
+      "primary": false
+    },
+    {
+      "id": "98a6b3269660ae4ff5a7",
+      "leader": "mukul",
+      "date": "2026-10-08T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Mukul Sangma rules out switch to BJP, asserts TMC remains unbreakable in Meghalaya - Hub News",
+      "summary": "Mukul Sangma rules out switch to BJP, asserts TMC remains unbreakable in Meghalaya Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmRqMDVIYzZBNF9UR19jRzNjTEpEXzZ3TndRbEZhVGhWc1F0Y09iam5WaXlBVElyd0hNX0N0NDRaNl9xb3FvdVpLR3pqazBIeEQ0M1F6amoxWjB4MGl6MnNiTUp3b18taUNzTGEwMHpqdEctOUJOOFNJcGoyX25QeVJfZHBvMHNXb3JTRXdmMThXSnl1dERVUzQ0MktrcXlOaktXSVB0QQ?oc=5",
       "primary": false
     },
     {
@@ -2358,6 +2403,21 @@
       "primary": false
     },
     {
+      "id": "d39733a9d1b20dc88097",
+      "leader": "saleng",
+      "date": "2026-09-29T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "FCRA-ni bidingo ku·pattianirangko ma·mong sorkari chu·sokatjanaba gnang: Saleng - The Shillong Times",
+      "summary": "FCRA-ni bidingo ku·pattianirangko ma·mong sorkari chu·sokatjanaba gnang: Saleng The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUlfSWNQRUlNRnRaNmJWWXhGY1dVVTl4UklGMS0wQU9TTXJyQnkwQTRXbTFydmJIVHZIUzk1WUN5VkU0WHhlY3ZkU3RxaUdGM3lIMEpaanRrWHcxOE1TZlpic0NBRU9VOTUtOUExZ3pMbjU4M2hPbnpDMFJDbmdTdWp2RGp4RE9xQU9kMmc0YzVDRmNxV1VwdVBhZlhBUi1WVndKS3JGUVFGUzd3MmE3MFV3MEpURmZEWjNCbnpXR0RrSmV3Z2dhLWNCYmRvRWs?oc=5",
+      "primary": false
+    },
+    {
       "id": "d1d104b27ded6a2c5804",
       "leader": "saleng",
       "date": "2026-09-28T07:00:00+00:00",
@@ -2924,7 +2984,7 @@
     {
       "id": "bfc69dc14375200ba30b",
       "leader": "ardent",
-      "date": "2026-08-27T07:07:28+00:00",
+      "date": "2026-08-27T07:00:00+00:00",
       "type": "news",
       "category": "News",
       "title": "Meghalaya aims to become largest organic coverage state, wants to phase out chemical fertilizers: CM - Hub News",
@@ -5184,7 +5244,7 @@
     {
       "id": "bfa1f96033571d9a4d1a",
       "leader": "bernard",
-      "date": "2024-11-27T11:02:44+00:00",
+      "date": "2024-11-27T08:00:00+00:00",
       "type": "news",
       "category": "News",
       "title": "Dr Mehtab Chandee, Gambegre-ni gital MLA ong·e ku·mikcheta - Hub News",
@@ -7372,6 +7432,36 @@
       "primary": false
     },
     {
+      "id": "fa671d13a332cc9c1b34",
+      "leader": "mukul",
+      "date": "2023-09-20T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya legislators welcome Women’s Reservation Bill - Highland Post",
+      "summary": "Meghalaya legislators welcome Women’s Reservation Bill Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWdKbVV5ZUtGTE5jcFBmWVRMZkRxczhXOWczWW5Vb1gyU3ZUTlU3WHFBY2ZqekJtUmQwZ3R4SVUwSjJuc0tZYTNELUhWTlZrY0RvaldvWXppNEtmTmp3NTltNXlnNmFiTHBsXzFMNEdUQXdwOWRmZ2V2bzJYYlBDWjZUdExMZw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "c8a34d52d99d2d4042a1",
+      "leader": "mukul",
+      "date": "2023-09-19T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya: TMC leader Mukul Sangma alleges CM Conrad of associating with drug kingpin from Manipur - India Today NE",
+      "summary": "Meghalaya: TMC leader Mukul Sangma alleges CM Conrad of associating with drug kingpin from Manipur India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN3VTbC1zbVkxemFUeG9xQmw5WFRRSHdoR1BWV25EUm9ibmhiVkVnSlc1aWU0RmV3Nkd4UzZNZWhoWTFpdl9rQTRXVmEyT3NKYlpCUlotRm1UM21vTlBEYldzc2F3dlRkN0RmcE1ENUFJT3Y3LUpfSV9mVTJENWFleUllcWRuWFhNMUM2cWc1NXo5SFlXZnY3aEliQ1VONzREV1R0R1J6ZDJVTnhkdEhXRlFyb3Y2YXd6WXpjSlJ4T1V6ZTl0LXVkTHFxM1poaXJ3U2NrRWNDRmlzaXVPc2xpYi1nVVhMWDJHNHBSRERCc2LSAfYBQVVfeXFMTk12aHhmOGZjMkZVdHo2M1FBUVZ4TjdPSXZyQURfcW5mbEd2QzVhbUVCTjRQQURRYUt2UFRZd09wcXo3QjVEMm1xN0EzbVI4Rng4bklvaTA1UHhMUHBZYWt3TzR6ZEJCeXlMdDBGSVdGZjVQT184MmhxcjdQQ3RVc1dfWS02Ukw2R2ZCeGtQcVhjellUeFlRcVNmUWxvNzJjOUx5bU5BVWV1YkI2QjUybThHRFp4U0NzNEhIZ0ZkaDhES2tqcmR0akdnR0hNSjNyRnpjZUp3V0NVM29RUnZwYmNUSUJ3OXJYeGdfNGxjNUd6N0pVX0FR?oc=5",
+      "primary": false
+    },
+    {
       "id": "7e6a61ee0d293ebe92da",
       "leader": "mukul",
       "date": "2023-09-15T07:00:00+00:00",
@@ -7400,96 +7490,6 @@
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qdU03YmVYUWd6RmtmcDdpSHRWOEQzZkloTlVHc0ZWZHpMYU1qVWVOQTcyMGc0M0E4a0w5Y3ZJNXJlblpqbF9EN3dxQUNvTElETWwxczFBR2JCZDNJVFFMbkZn?oc=5",
       "primary": true
-    },
-    {
-      "id": "c21d295d5c60634d0d32",
-      "leader": "bernard",
-      "date": "2023-09-01T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "MEGHALAYA LOLAYUKTA GOVERNMENT OF MEGHALAYA No.MEGHLok.17/Rcr/2021-22/108 Dated:1st -Sep-2023 NOTICE Reference:No.MEGHLOK.17 - Meghalaya Lokayukta",
-      "summary": "MEGHALAYA LOLAYUKTA GOVERNMENT OF MEGHALAYA No.MEGHLok.17/Rcr/2021-22/108 Dated:1st -Sep-2023 NOTICE Reference:No.MEGHLOK.17 Meghalaya Lokayukta",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Lokayukta",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iT0VKcWVWN0dpb2FjUmh2cEJWLVFTOUFlQ1hrRkVWWTZuTk5NM25MYVFWSW10S1FHOVNhUG9SQlNvbndhZDJxWWltLTN6U3A1SG9YVzFzOEdWMHFqR2R3TDlCaXdIMFhsaTBfd003VVV1dUdLbDNB?oc=5",
-      "primary": true
-    },
-    {
-      "id": "286f7153372c85307d49",
-      "leader": "saleng",
-      "date": "2023-08-10T22:41:54+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Digital Sansad - Digital Sansad",
-      "summary": "Digital Sansad Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oeG1JMG9sRzBLYjdaZVpMNkphOW5ZODlXN2hLY09Pb1lTQ1Z3MFUtTTN3U2p5R25JZzVKNHRSeU1QeXJWUEM2R0hxQQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "9a1d70a17f0c9ff8bcd0",
-      "leader": "bernard",
-      "date": "2023-07-27T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Tura violence politically motivated: Meghalaya deputy CM Prestone Tynsong - NE NOW",
-      "summary": "Tura violence politically motivated: Meghalaya deputy CM Prestone Tynsong NE NOW",
-      "source": "Northeast Now",
-      "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUi1FM3J4YndQRTNZLUlDZFlORU9OMVRhZ1hLY0o5U1lNM3hYVDFBQzZLVXczSzhEWTkxSjhuSkc4aloxMXVtYXZNcGdJd1ZkQjNMOHdKRU9tM3Uxdk02aVJRSElrNHFPeDdjMjBmNmEtTmhVeVY5cXQzZm5iN2FZYldwYkdhc1hWOW8tWE5xTzJnZlh3YzBYTzc0WS1kazJPYm4wRElGZEh1MkxKYm9hcC1GREpISzExTzhUWA?oc=5",
-      "primary": false
-    },
-    {
-      "id": "5ca8273ca1adfe5acc45",
-      "leader": "bernard",
-      "date": "2023-07-27T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya BJP vice-president Bernard Marak named in FIR on Tura violence - NE NOW",
-      "summary": "Meghalaya BJP vice-president Bernard Marak named in FIR on Tura violence NE NOW",
-      "source": "Northeast Now",
-      "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUtDUlVxWVJWVzRrbUh6MWFMRGhwY0NkQ0FOSDBEY3pRMXh2a19fX1FvOWdUT21MVGthQ0xpanhneFpTU2lQRkNFbDJ2X1hNWC1UZF9WZHoyRkpGY1RIMkxtTUtOQno4MUFfWl9xMWxKRlZhZ2tTaWpyR0k5YmxscVV3bS1CblU2S2VlcXZWOF9FQ1hXMnJTRlVMeS00d0FsclFKMHZTVXpoRDZEMkotdnJ6Q3Y?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d2fa8e56b03ee7dc8fe6",
-      "leader": "mukul",
-      "date": "2023-07-26T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Police under Bishnoi’s leadership endangered life of CM: TMC - Meghalaya Monitor",
-      "summary": "Police under Bishnoi’s leadership endangered life of CM: TMC Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM2lQS2h5cGJNWE1KWkQ5bFhETEEtYjdUQ3ZyaWNGcmFtbnU0c3NmQmwxcW92dTRKSDhVLUVjV0RuY0ktSF9FY25tU1UxVDZ4LVRoYkc4MFFZZzFETm9lUGMwbkpqUFM3X2t0bkt6WTZ1RTFZZmNWNGp0b1hMQ1ppb0sxSjItY3N6N0s1SVNEMnVUUQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "235f02a94ebe2a343530",
-      "leader": "bernard",
-      "date": "2023-07-26T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Assam: BJP chief Bhabesh Kalita’s personal secretary summoned in ‘supari’ syndicate case - NE NOW",
-      "summary": "Assam: BJP chief Bhabesh Kalita’s personal secretary summoned in ‘supari’ syndicate case NE NOW",
-      "source": "Northeast Now",
-      "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPclJIUjNPWi1rTDlwRTZkeTdjaEhyTkdEWDQ0WjQyZUpoa3dsSUQ0NnJ1YjA0b2hJbWxKRHZiUk84T2Q2VjFLZnJwckIxc191eXFKQ1dnaklHR3dMdW1mYjdVZjg2V19oVURqRzJDakFnQTRxdmpJSTBNSjAtaVdIakpYNmx1WkxiRTkweTNacnB2ZnRsTWw4cjNMUW0wMmFaZlNiVUtCVQ?oc=5",
-      "primary": false
     }
   ]
 }
