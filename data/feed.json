@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:12:30.771921+00:00",
+  "generated_at": "2026-10-25T06:32:35.939486+00:00",
   "status": "updated",
   "items": [
     {
@@ -180,21 +180,6 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "bbe5d99ff8c4a83453c4",
-      "leader": "ardent",
-      "date": "2026-10-19T11:56:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya - Meghalaya Government Portal",
-      "summary": "Meghalaya Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwaE5hQUhpRTdueFJMOWw1NUlnc2FZbG5NNjY3a2doQzZjcUJBV2NUWnRhZmxRbVprRkJib0tTWHdDWk9Sc1NpeVFDbFZKZFItaFoycU84NHU2LVgxU0VWNVBNcld6ZjhYQzVxSVZJVUZfakU?oc=5",
       "primary": true
     },
     {
@@ -515,7 +500,7 @@
     {
       "id": "4a1cd328b34901de80ac",
       "leader": "bernard",
-      "date": "2026-10-16T00:34:10+00:00",
+      "date": "2026-10-16T07:00:00+00:00",
       "type": "news",
       "category": "News",
       "title": "Bernard alleges scholarship payment anomalies - The Shillong Times",
@@ -690,6 +675,36 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPem5jbzlMbVY5TlQwSEdvMHo4VGxPMmJqR1Jhdk1fN2hxYlNCdHgwWXU2R1VqXzlEMVlzTkxNX0o2bnBXeTl1Z3R2NC1RZnB5RGtNUW5PYkZ3Z3E5WWlQY0EtVnM0YmE2Y2RUWVU4TDN1RGpsMXVHWjdTN0ZXemdONUhsYlU3d0NSaGUxNFFrQ0M0U1ppc0pzc2d6N1ZhU2cwMFR1QU1PS1RGdw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "38604d3c2de04c8bad3b",
+      "leader": "ardent",
+      "date": "2026-10-13T15:38:44+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Assembly can’t suspend MLA, it’s party’s call: Speaker on VPP allegation - Hub News",
+      "summary": "Assembly can’t suspend MLA, it’s party’s call: Speaker on VPP allegation Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEdaYUU0U1dLYVQ2a0ptaUV2dUV4Qng0VXNBeUFxeVpSXzF3NnVLam5qY1RucFcxenNHVzB2VWFkZXljb1lSRnI2dnhIanF5M08wUzFYdGFFMGJSSkwxSVo0ak50RVVYc194RXZmenhtZ3pXeWJzOGR2VXhFdGRFWEY1cVJ1dGxWVXBVSlhadkozSW1u?oc=5",
+      "primary": false
+    },
+    {
+      "id": "3f60d6c9291eb9e3fdf9",
+      "leader": "saleng",
+      "date": "2026-10-13T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Youth Congress moves WGH SP over ‘doctored’ video of Saleng - The Shillong Times",
+      "summary": "Youth Congress moves WGH SP over ‘doctored’ video of Saleng The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2xZTzBpeVpjeUVVS0E5bWY2Vmx2am9TeVplSENGcFZmc3NiU2I0S1piT1dsU0k2cG8zeGo3VFJsOFEwbUJUOWxKczZ5dG91ZlVzZHZfclNQWUEyTzdBYTA3MnVBR1BUMkFUaVBuM2REQ0VXNnNtMjZZVU5uOHZUMkxpUzdjc29tbEM4WDVwdUVXaVUzMmQ4VGRyY0NZeE0?oc=5",
       "primary": false
     },
     {
@@ -960,21 +975,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1hoRmNDdHk0THd2b1lqNUVOaF9mVDA0TWVhcVljM0lkZzVpSDdXcDFyanFUM1AzZHdUYzVUS3N0dXhQMWZ6dU1fVVB2RHF5Z2pTcTRRNFZGbnlCVFREOHFKTGszN0hld0N0NnVVc3htWnBReDlHNEV6c0RHZVNwTjlZN3otNW9rUHJxdmpaR21UNzlSdVVhejEwZ1RCOC00ZHlZ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "3f60d6c9291eb9e3fdf9",
-      "leader": "saleng",
-      "date": "2026-10-12T23:54:26+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Youth Congress moves WGH SP over ‘doctored’ video of Saleng - The Shillong Times",
-      "summary": "Youth Congress moves WGH SP over ‘doctored’ video of Saleng The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2xZTzBpeVpjeUVVS0E5bWY2Vmx2am9TeVplSENGcFZmc3NiU2I0S1piT1dsU0k2cG8zeGo3VFJsOFEwbUJUOWxKczZ5dG91ZlVzZHZfclNQWUEyTzdBYTA3MnVBR1BUMkFUaVBuM2REQ0VXNnNtMjZZVU5uOHZUMkxpUzdjc29tbEM4WDVwdUVXaVUzMmQ4VGRyY0NZeE0?oc=5",
       "primary": false
     },
     {
@@ -2592,21 +2592,6 @@
       "primary": true
     },
     {
-      "id": "883d8470a9c0f3f623c1",
-      "leader": "ardent",
-      "date": "2026-09-17T16:47:18+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "VPP welcomes withdrawal of teachers’ recruitment notification - Meghalaya Monitor",
-      "summary": "VPP welcomes withdrawal of teachers’ recruitment notification Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXVsRVc0WURxUFVXb2xyYjgzajdwdWM3WTFtRk56Z1BWZF9WR0JmVzVPSnpoOXJYM25SdnRRYUhTdzdZb0VTS2c1ZVJmUWFiaGhhbk9MbkY1M1hENVlBNlFWeVowanY5RkdLZm1Vak5xamdYcHFHclJMNUNyU1pteU1TaEM5Tm5ObWY4UE1yREQ3bm9u?oc=5",
-      "primary": false
-    },
-    {
       "id": "bff6ed1fc16e4642c5fb",
       "leader": "saleng",
       "date": "2026-09-17T13:14:00+00:00",
@@ -2620,6 +2605,21 @@
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyY3B5dHlSam1BaVl1bjhUdjM4ZGV5cEpYZy1jcjhnaDdSb3U1aVNwOHBiMGpoR25jUUVxaHJjQTVYQ1psVy12YzNZUGJYaVltdFdxSGNjdw?oc=5",
       "primary": true
+    },
+    {
+      "id": "883d8470a9c0f3f623c1",
+      "leader": "ardent",
+      "date": "2026-09-17T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP welcomes withdrawal of teachers’ recruitment notification - Meghalaya Monitor",
+      "summary": "VPP welcomes withdrawal of teachers’ recruitment notification Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXVsRVc0WURxUFVXb2xyYjgzajdwdWM3WTFtRk56Z1BWZF9WR0JmVzVPSnpoOXJYM25SdnRRYUhTdzdZb0VTS2c1ZVJmUWFiaGhhbk9MbkY1M1hENVlBNlFWeVowanY5RkdLZm1Vak5xamdYcHFHclJMNUNyU1pteU1TaEM5Tm5ObWY4UE1yREQ3bm9u?oc=5",
+      "primary": false
     },
     {
       "id": "12e9e234b55c2e82780c",
@@ -4417,6 +4417,21 @@
       "primary": false
     },
     {
+      "id": "f1cee81eef9e3c17d2ef",
+      "leader": "bernard",
+      "date": "2025-10-14T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya BJP Vice President alleges illegal uranium extraction in Garo Hills - NE NOW",
+      "summary": "Meghalaya BJP Vice President alleges illegal uranium extraction in Garo Hills NE NOW",
+      "source": "Northeast Now",
+      "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9CMmxaalZKX1Zxay1ncnRXLVVzaFdQQjVicmdzbjl0d0hmT095ODh3Tk1ma2hqWlYwX3VsNU9pREJMQm5wN3ViQ3MyTFpIYXZxWUk2UVM1eVBpVS0za2tvYTBBWXVZMVZKMXM5clV2eVVBZTl1b19XZlRpbDU2bk1sWXFLbVhGY2QzN1pJUTYxaTZFcmwzZWxoMmYweTAwR2p1U3A0U3FTa1UxZUk3aDV2dmRWVUZ1VlNpWTBzb1N6dFXSAcMBQVVfeXFMTzByd2U4YmYwbVphNjByUUpHdXh5ZnRBTGVzUXlJc25qeDg2NzlhLVhNQlBWN3VoQ09fTkVzSE9YOWtENVljVmp4ZWxYRmZBZ01nZFNaQlRtUm8zYnRScTl1T1F1aHozbVFzNFdZd2FKU2Q4TjItd3NpWHZua0huT1dyNHN6TWpfajFfOENtVVJGRnQ2MWtlQnFDNmpPeHlTcThIWXZ4X2Jka1NFSi1nVFc1dGh2WUF2UUtPRnV4V184b09F?oc=5",
+      "primary": false
+    },
+    {
       "id": "69f5cb7497daf25f79a1",
       "leader": "saleng",
       "date": "2025-09-26T07:00:00+00:00",
@@ -5737,6 +5752,21 @@
       "primary": false
     },
     {
+      "id": "0b5d8b0f8061dfd6e299",
+      "leader": "mukul",
+      "date": "2024-08-17T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Former CM Salseng C Marak laid to rest with full state honours - Highland Post",
+      "summary": "Former CM Salseng C Marak laid to rest with full state honours Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMlEtUnpNUnBCRHlTX3pwY2pVTFlCRkJydVlrdmlhUzQ3NXlmTFplQzVjOVNxUkdhOXdHR2tiRFBFNlFQWDZDZVRiaXg5M3p4OXgyd0ZqbDN1NUIxTGJocmd4Unp4T19TbXB4QTV1VGdXUzdTS3JsZUJObkRqWDVUNTY1TVZ4cFgwVndaU1dWZkRpZw?oc=5",
+      "primary": false
+    },
+    {
       "id": "92096c7ae2d6c7f40726",
       "leader": "saleng",
       "date": "2024-08-14T07:00:00+00:00",
@@ -6307,6 +6337,21 @@
       "primary": false
     },
     {
+      "id": "8acbfa04dd82166190ef",
+      "leader": "saleng",
+      "date": "2024-06-10T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya: Tura Lok Sabha MP resigns as Gambegre MLA - India Today NE",
+      "summary": "Meghalaya: Tura Lok Sabha MP resigns as Gambegre MLA India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVklNMmtoR3NVVHBueXVPeWFCSnNJNHJkY1pBVW1SemstbTBXYkY4eEtWci03Z09KMlk2eTJMN0YzSy10OXBydHMtb3ZEYXdidmxpTFhVQXBWTzdrZ05yQ2NUb3VhM3FqMXlzVlAzdUNqZUs1R1VxUU5kVUVPWmphVFdfUnV2bldlMnRiTWR6UWZ3M1hnVXY2RVM4UXptTk9UT3B6TThFdEVSZ1dZWU5DbTVfUWPSAboBQVVfeXFMTjhPamFld1JPQ0oxV3lTMVhXVzFoYkgzUEFWWGVGMWMzeGVoUVkwNzJrN21FZ0FLbTFUZGlEeVFJb0hjcjV1bnZOREtIVEsxY0tZeUh4NC1kVU1UUGJVMlpoY1BVNzgzQ0pjNkQwZXQ5X1BaOFFPZXJ0bzNOUzdyX2R0SVotWnZWOWgwWTdZakRFR3Jobmt4V3NCbEJXb3I0TFd1VnNFNzBsRldEY0ItaXF5dy1IN3pJWmVn?oc=5",
+      "primary": false
+    },
+    {
       "id": "b14871c1e309254dd4e7",
       "leader": "ardent",
       "date": "2024-06-08T07:00:00+00:00",
@@ -6499,6 +6544,21 @@
       "source_domain": "highlandpost.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmNIR0ZXSGI4Z25nUVNSejRYNWotclNVSXN2LVEwLUFPWkw3QzFuM2NvUVAwemlVUGdONjBaczZyclNucS1YNEhUdDY3RGs0UjVuSVRSMUZDd2tNeXB5VDB3WjRycHB5am0wVzBlMDRlQU02eGFac2F4Sy1obkZtbWI5Z1UzcXRM?oc=5",
+      "primary": false
+    },
+    {
+      "id": "de7d6478eb28bd3760f8",
+      "leader": "bernard",
+      "date": "2024-05-08T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya CM clarifies state's role in ARSS infrastructure projects - India Today NE",
+      "summary": "Meghalaya CM clarifies state's role in ARSS infrastructure projects India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEdtdDlCcEhvOTBPTDRIbkNWc3lyYmphdnhoY1B4cEFSbkx1MHd1VkNSMVp0a3JTbm5FOFNZamh3TEkzS3RqS1ozNmlKOEhzZ3Blb1Bib1lKUXA1NjVicHhTZzUyQmhzbFN3TnJhNG9BUkRTejFMeVlrNk1LbEZ4bkpjV1EydTltbS1VUEN0OFdYVTA3c2pOU01JYS1OX18tV1pXTy1MSG1Fejk1X2F3a3I3OUhEVzJVQWplNHVNY21mSUFFOXBSatIBzgFBVV95cUxNaV9WRFlleE9uZWNZT2dZOHZDWkJVb3RUWkZFVXdPQ2JwQlE2YkxOZ0h6WjNRRERKUmY3RTA2bHdKRnZNUTFlU252SDhEeG5tY2tCYmR6SU1zTjhKT01xcmN0amNzMjNXLS0zcGg3NC1VREtxUXBuSzF6VEVETzNHNE82QjQ1b3FYQk1KZXZESUhfY09mYm9kSlNsSDdlOF9kZDlyaXNlQWpZTnJpVDVNLWtBRkFFQkhCVEVpX1RWVEFuRVpkSzJDeUdjaERtdw?oc=5",
       "primary": false
     },
     {
@@ -7357,6 +7417,21 @@
       "primary": false
     },
     {
+      "id": "9582c9f917a2516de8a4",
+      "leader": "mukul",
+      "date": "2023-09-22T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Drug kingpin remark: Mukul served with legal notice - Highland Post",
+      "summary": "Drug kingpin remark: Mukul served with legal notice Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZy1TMGprdk10ZnlSTVhLLXpOYnJSbFRMZG14Vmx1blAxMHhkODl0WkpwS0JoQi15bDhyaERsQ0tsbzhGcGVEaExGSDJTbWZMUVpmMGFSNFpNUlBldWM2bEh3WWNUbGFhWVFQaFl3QWhZbjZucDJHU2NIOWY1LUR1RV9n?oc=5",
+      "primary": false
+    },
+    {
       "id": "224fd2b2b6900cb30151",
       "leader": "ardent",
       "date": "2023-09-21T07:00:00+00:00",
@@ -7415,81 +7490,6 @@
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlVDVmRwSko4bGhpMnhMSnRzTG5uOHRwWHVlaVd3QVNFanF2QnRvZFc2Sm5RV0NpczY1eFJkTGRNTDhTclc3TG8yV05mX3dQMlN5WExYd2VSU2c1X25xWDZnRktEYjlubEhPeVNEUUFzeGM3UlAzMGRDTVBXaUxTV3pNTlNFaFJ3?oc=5",
       "primary": false
-    },
-    {
-      "id": "50fa36c585a463cbfaca",
-      "leader": "mukul",
-      "date": "2023-09-20T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Speaker expunges Mukul’s charges against Conrad on association with drug kingpin - Highland Post",
-      "summary": "Speaker expunges Mukul’s charges against Conrad on association with drug kingpin Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTThhZWhHdnV0amRQalh2RjY1Vmd3VkI5d1NPZEpLTENzY3h0MVB5WWZnQXhpdy1JMEgxQURaNnVZOFdNUzVrem5POVFpLWFNU1k4bzV2bzJEY19zdmwzZ2tyc2FvYTZ6c0o0UFJ2Y1lRNlZOMjEwb25SajAycEVURDZMVDlYYURMQnB3Nkd4V2xNZmQ5N2ZQal9FN0VrYS00d1BJakowa2g?oc=5",
-      "primary": false
-    },
-    {
-      "id": "fa671d13a332cc9c1b34",
-      "leader": "mukul",
-      "date": "2023-09-20T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya legislators welcome Women’s Reservation Bill - Highland Post",
-      "summary": "Meghalaya legislators welcome Women’s Reservation Bill Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWdKbVV5ZUtGTE5jcFBmWVRMZkRxczhXOWczWW5Vb1gyU3ZUTlU3WHFBY2ZqekJtUmQwZ3R4SVUwSjJuc0tZYTNELUhWTlZrY0RvaldvWXppNEtmTmp3NTltNXlnNmFiTHBsXzFMNEdUQXdwOWRmZ2V2bzJYYlBDWjZUdExMZw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "c8a34d52d99d2d4042a1",
-      "leader": "mukul",
-      "date": "2023-09-19T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: TMC leader Mukul Sangma alleges CM Conrad of associating with drug kingpin from Manipur - India Today NE",
-      "summary": "Meghalaya: TMC leader Mukul Sangma alleges CM Conrad of associating with drug kingpin from Manipur India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN3VTbC1zbVkxemFUeG9xQmw5WFRRSHdoR1BWV25EUm9ibmhiVkVnSlc1aWU0RmV3Nkd4UzZNZWhoWTFpdl9rQTRXVmEyT3NKYlpCUlotRm1UM21vTlBEYldzc2F3dlRkN0RmcE1ENUFJT3Y3LUpfSV9mVTJENWFleUllcWRuWFhNMUM2cWc1NXo5SFlXZnY3aEliQ1VONzREV1R0R1J6ZDJVTnhkdEhXRlFyb3Y2YXd6WXpjSlJ4T1V6ZTl0LXVkTHFxM1poaXJ3U2NrRWNDRmlzaXVPc2xpYi1nVVhMWDJHNHBSRERCc2LSAfYBQVVfeXFMTk12aHhmOGZjMkZVdHo2M1FBUVZ4TjdPSXZyQURfcW5mbEd2QzVhbUVCTjRQQURRYUt2UFRZd09wcXo3QjVEMm1xN0EzbVI4Rng4bklvaTA1UHhMUHBZYWt3TzR6ZEJCeXlMdDBGSVdGZjVQT184MmhxcjdQQ3RVc1dfWS02Ukw2R2ZCeGtQcVhjellUeFlRcVNmUWxvNzJjOUx5bU5BVWV1YkI2QjUybThHRFp4U0NzNEhIZ0ZkaDhES2tqcmR0akdnR0hNSjNyRnpjZUp3V0NVM29RUnZwYmNUSUJ3OXJYeGdfNGxjNUd6N0pVX0FR?oc=5",
-      "primary": false
-    },
-    {
-      "id": "7e6a61ee0d293ebe92da",
-      "leader": "mukul",
-      "date": "2023-09-15T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul yet to decide on political future - Meghalaya Monitor",
-      "summary": "Mukul yet to decide on political future Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxV2g0MkNmNWJrVnpuVjNXX1p3enpyNk9tekl4NGl2NTFzempjdVhKS3N5RkhPS3RrUkgxMkRuRVRRZHNUaW5xNG5iTU03bThWTkR1cUttLXM2UExaOW9tOUZHQTVJblg2YTkzQmF4Z3dQOW4tYTBOaA?oc=5",
-      "primary": false
-    },
-    {
-      "id": "dbd1e5ed7853601b2a46",
-      "leader": "mukul",
-      "date": "2023-09-14T09:11:57+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Cases Closed - Meghalaya Lokayukta",
-      "summary": "Cases Closed Meghalaya Lokayukta",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Lokayukta",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qdU03YmVYUWd6RmtmcDdpSHRWOEQzZkloTlVHc0ZWZHpMYU1qVWVOQTcyMGc0M0E4a0w5Y3ZJNXJlblpqbF9EN3dxQUNvTElETWwxczFBR2JCZDNJVFFMbkZn?oc=5",
-      "primary": true
     }
   ]
 }
