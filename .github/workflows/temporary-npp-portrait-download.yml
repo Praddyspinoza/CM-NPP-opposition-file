@@ -1,0 +1,63 @@
+name: Temporary NPP MLA portrait assets
+on:
+  push:
+    branches: [temporary-portrait-assets-oct28]
+  workflow_dispatch:
+jobs:
+  fetch-portraits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Fetch source photographs
+        shell: bash
+        run: |
+          python3 -m pip install --quiet requests pillow
+          python3 - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageOps
+          import requests,io,json,time
+          people=[
+          ("01_sniawbhalang_dhar",["https://ecabinet.meghalaya.gov.in/images/Sniawbhalang.jpg","https://meghalaya.gov.in/sites/default/files/MPs-and-MLAs/SNIAWBHALANG_DHAR_0.jpg"]),
+          ("02_wailadmiki_shylla",["https://meghalaya.gov.in/sites/default/files/MPs-and-MLAs/WAILADMIKI_SHYLLA_1.jpg","https://meghalayasacs.com/_next/static/media/wailad.f58eedbe.JPEG","https://meghalayasacs.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Fwailad.f58eedbe.JPEG&w=1920"]),
+          ("03_santa_mary_shylla",["https://meghalaya.gov.in/sites/default/files/MPs-and-MLAs/SANTA_MARY_SHYLLA_0.jpg","https://electionpandit.com/medias/candidate/10159_santa_mary_shylla.webp"]),
+          ("04_dr_mazel_ampareen_lyngdoh",["https://meghalaya.gov.in/sites/default/files/MPs-and-MLAs/DR_MAZEL_AMPAREEN_LYNGDOH_0.jpg","https://cf-img-a-in.tosshub.com/lingo/images/story/media_bank/202312/6569618436584-dr-mazel-ampareen-lyngdoh--the-national-peoples-party-npp-candidate-for-the-shillong-lok-sabha-se-0130592-16x9.jpg?size=948%3A533"]),
+          ("05_prestone_tynsong",["https://ecabinet.meghalaya.gov.in/images/Prestone.jpg","https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202212/prestone_1-sixteen_nine.jpg?size=948%3A533"]),
+          ("06_timothy_d_shira",["https://meghalaya.gov.in/sites/default/files/MPs-and-MLAs/TIMOTHY_D_SHIRA_1.jpg","https://northeastlive.s3.amazonaws.com/media/uploads/2023/02/Deputy-speaker-Timothy-D-Shira-1024x581.png"]),
+          ("07_marcuise_n_marak",["https://ecabinet.meghalaya.gov.in/images/Marcuise.jpg","https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202504/67efb877e2886-cabinet-minister-marcuise-n-marak-044610973-16x9.jpg?size=948%3A533"]),
+          ("08_abu_taher_mondal",["https://meghalaya.gov.in/sites/default/files/MPs-and-MLAs/ABU_TAHER_MONDAL_0.jpg","https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202309/your_paragraph_text_70-sixteen_nine.png?size=948%3A533"]),
+          ("09_thomas_a_sangma",["https://meghalaya.gov.in/sites/default/files/MPs-and-MLAs/THOMAS_A_SANGMA_0.jpg","https://im.rediff.com/news/2023/mar/09sangma-sangma.jpg?h=450&w=450"]),
+          ("10_dr_mehtab_chandee_agitok_sangma",["https://meghalaya.gov.in/sites/default/files/MPs-and-MLAs/MEHTAB_CHANDEE_AGITOK_SANGMA_MLA.jpg","https://media.newindianexpress.com/newindianexpress%2F2024-10-26%2F7k8ltpwn%2F46444351110966833118175142950025008166043271n.jpg?auto=format%2Ccompress&fit=crop&h=1200&rect=146%2C0%2C853%2C853&w=1200"]),
+          ]
+          p=Path("photos");p.mkdir(exist_ok=True)
+          records=[]
+          for slug,urls in people:
+              out=p/(slug+".jpg")
+              record=dict(slug=slug,success=False,errors=[])
+              for url in urls:
+                  try:
+                      r=requests.get(url,headers={"User-Agent":"Mozilla/5.0 (compatible; PDF layout assistant)","Accept":"image/avif,image/webp,image/png,image/jpeg,image/*;q=0.8,*/*;q=0.5"},timeout=22)
+                      r.raise_for_status()
+                      img=Image.open(io.BytesIO(r.content))
+                      img.load()
+                      if img.width < 100 or img.height < 100:
+                          raise ValueError("image too small")
+                      img=ImageOps.exif_transpose(img).convert("RGB")
+                      img.thumbnail((1100,1300))
+                      img.save(out,"JPEG",quality=87,optimize=True)
+                      record.update(success=True,url=url,original_dimensions=[img.width,img.height],size=out.stat().st_size)
+                      break
+                  except Exception as e:
+                      record["errors"].append(url[:75]+" | "+str(e)[:100])
+              records.append(record)
+              print(json.dumps(record),flush=True)
+          (p/"sources.json").write_text(json.dumps(records,indent=2))
+          print("Downloaded",sum(x["success"] for x in records),"/",len(records))
+          PY
+      - name: Upload original portrait photographs
+        uses: actions/upload-artifact@v4
+        with:
+          name: npp-mla-portraits-original
+          path: photos/
+          if-no-files-found: error
+          retention-days: 1
