@@ -1,31 +1,60 @@
 name: Daily 7AM IST update
 
+# GitHub schedule is best-effort. An independent Cloudflare Cron Worker invokes
+# workflow_dispatch in time for the morning refresh.
 on:
   schedule:
-    - cron: '30 1 * * *'
+    - cron: '13 23 * * *' # 04:43 IST on the following calendar day
+    - cron: '17 0 * * *'  # 05:47 IST
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: cm-opposition-refresh-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
+      - name: Record actual start time
+        run: |
+          python - <<'PY'
+          from datetime import datetime, timezone, timedelta
+          now = datetime.now(timezone.utc)
+          local = now.astimezone(timezone(timedelta(hours=5, minutes=30)))
+          print(f"Run started at {now.isoformat()} UTC / {local.isoformat()} IST")
+          if local.hour >= 7:
+              print('::warning::Refresh started after 07:00 IST; review external dispatcher')
+          PY
       - name: Run opposition tracker update
         run: python scripts/update.py
-
+      - name: Validate refreshed feed
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          with open('data/feed.json', encoding='utf-8') as f:
+              feed = json.load(f)
+          assert feed.get('status') == 'updated'
+          assert isinstance(feed.get('items'), list) and feed['items'], 'Feed unexpectedly empty'
+          t = datetime.fromisoformat(feed['generated_at'].replace('Z', '+00:00'))
+          assert t.tzinfo is not None and abs((datetime.now(timezone.utc) - t).total_seconds()) < 900
+          print(f"Validated {len(feed['items'])} records at {t.isoformat()}")
+          PY
       - name: Save refreshed feed
         run: |
           git config user.name "meghalaya-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/feed.json
-          git diff --cached --quiet || git commit -m "Daily 7AM tracker update"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh opposition source feed"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
