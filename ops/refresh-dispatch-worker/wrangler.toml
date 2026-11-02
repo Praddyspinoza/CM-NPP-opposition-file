@@ -1,0 +1,8 @@
+name = "meghalaya-opposition-refresh-dispatch"
+main = "index.mjs"
+compatibility_date = "2026-10-01"
+workers_dev = false
+
+# UTC: 05:15, 05:45, 06:15, 06:40 IST; India has no DST.
+[triggers]
+crons = ["45 23 * * *", "15 0 * * *", "45 0 * * *", "10 1 * * *"]
