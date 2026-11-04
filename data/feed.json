@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-03T06:55:28.975295+00:00",
+  "generated_at": "2026-11-04T02:59:47.979667+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "14e1a99ea3592f00f9ac",
+      "leader": "mukul",
+      "date": "2026-11-03T09:12:08+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NE NOW NEWS, Author at NorthEast Now - Page 5918 of 5965 - NENow.in",
+      "summary": "NE NOW NEWS, Author at NorthEast Now - Page 5918 of 5965 NENow.in",
+      "source": "Northeast Now",
+      "reported_source": "NENow.in",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EYnRZV1EzZ3RwOXVsY3k3SVRlZk1OWlRxNjNvQ1JLcEJRdFVDcGVaM25Cbkx0dDN0cnUzNExEQjlwQ1VaaVRFWENtckcxN1V1Mm45Z0h0cw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "f790de283de407fb2c21",
+      "leader": "mukul",
+      "date": "2026-11-03T02:40:41+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NE NOW NEWS, Author at NorthEast Now - Page 5932 of 5964 - NENow.in",
+      "summary": "NE NOW NEWS, Author at NorthEast Now - Page 5932 of 5964 NENow.in",
+      "source": "Northeast Now",
+      "reported_source": "NENow.in",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DaFpueU9PSU5ZX2JKX01YRnVYV2hJVkF0S2tMOFV3RWtUVnZoQjRpdkhCUFRoWlVWeU43NFZZVFJZLUNFM3FUaDdrLUlKTzRBMkxHUGIydw?oc=5",
+      "primary": false
+    },
     {
       "id": "73586e5bd423118a549c",
       "leader": "bernard",
@@ -78,6 +108,21 @@
       "primary": false
     },
     {
+      "id": "fd43d7d105d59b35901e",
+      "leader": "saleng",
+      "date": "2026-10-31T17:05:55+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Congress asks NEIGRIHMS to follow 80:20 female-male nurse ratio - Meghalaya Monitor",
+      "summary": "Congress asks NEIGRIHMS to follow 80:20 female-male nurse ratio Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGVFcm1jWGwwMW1vank3SEt3U2RtZzlKTHRsS1pPaTVqbm9ISDVKQTdDa3BUNFFHSzRvY1gtaFVMYmpGcWExZTdTczVLMjR0WGNJcS1pWlhTc1dkRUpYbkYtZUl1eENWeGZfRWdoamVwWkhHMTkwUmx6YzYzeE1YRjdjNE9xWVJuTFhSUWNRdVpNVmI5QkY0?oc=5",
+      "primary": false
+    },
+    {
       "id": "b17a9e0d3bb1e58ea972",
       "leader": "bernard",
       "date": "2026-10-31T15:56:54+00:00",
@@ -123,21 +168,6 @@
       "primary": false
     },
     {
-      "id": "bd9c7d1cbb2196a65851",
-      "leader": "ardent",
-      "date": "2026-10-30T12:19:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members of Meghalaya Legislative Assembly - Meghalaya Government Portal",
-      "summary": "Members of Meghalaya Legislative Assembly Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LWmJqdWtEamdYY3p3dXJ6Nk50NVFPVlNMbUlBZGFjUFRnb0dsSVZCM0ZHX2lVS2JFN0hMM3NxNEFmY0hSM2h1dldENVBzbHcyVFFDQ2dtbjM?oc=5",
-      "primary": true
-    },
-    {
       "id": "9daa43442a89cc5a80aa",
       "leader": "mukul",
       "date": "2026-10-30T12:19:00+00:00",
@@ -150,21 +180,6 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "b92a3e78f6901e924a22",
-      "leader": "mukul",
-      "date": "2026-10-30T12:19:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya - Meghalaya Government Portal",
-      "summary": "Meghalaya Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RLWtzZV9kaEJMTjlZZjJVYzBXU1VLUUo2RXIyTUVDUHFLUWdzSUQ0Ul8tc05ETXhoaXUwSk13RFJTS2dRWjFNLVhNMEw0bEs4NWh3MmlMZEUwT2xRdTFrUlB2Ny16RVVvLTBSaWxmNGEwVlk?oc=5",
       "primary": true
     },
     {
@@ -183,18 +198,18 @@
       "primary": true
     },
     {
-      "id": "bbe5d99ff8c4a83453c4",
-      "leader": "ardent",
+      "id": "154e27bfe685e6447b34",
+      "leader": "saleng",
       "date": "2026-10-30T12:19:00+00:00",
       "type": "news",
       "category": "News",
-      "title": "Meghalaya - Meghalaya Government Portal",
-      "summary": "Meghalaya Meghalaya Government Portal",
+      "title": "Members of Parliament - Meghalaya Government Portal",
+      "summary": "Members of Parliament Meghalaya Government Portal",
       "source": "Government of Meghalaya",
       "reported_source": "Meghalaya Government Portal",
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwaE5hQUhpRTdueFJMOWw1NUlnc2FZbG5NNjY3a2doQzZjcUJBV2NUWnRhZmxRbVprRkJib0tTWHdDWk9Sc1NpeVFDbFZKZFItaFoycU84NHU2LVgxU0VWNVBNcld6ZjhYQzVxSVZJVUZfakU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUSGlhY0Y1amV6UEpuSTQyX2VSeHVUMHBjMmp2MC10WURXV0RidDZLQjlxWnV4NkZjY1ZtcVk5NW0tMy1TbTVrZmJpZ0s5X1NlVUJubXVoN29mRjJwX2Z3?oc=5",
       "primary": true
     },
     {
@@ -285,6 +300,51 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wT2puM0lRdlRZVDVaYUtrdk5ZNzJ2aFY5MXFzM1JncWtZSVhHNEVtV3FtQUZWQ0NuQjU5a2JlbHpBSERtRlpWaERoa25Md1FMNEpCQi01WF9jTlhtcmpqb0xxMWVSOVNjYzMxQi0zYUY?oc=5",
+      "primary": false
+    },
+    {
+      "id": "e8c2a450e67f54e211ef",
+      "leader": "mukul",
+      "date": "2026-10-30T00:42:41+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "By Our Reporter - The Shillong Times",
+      "summary": "By Our Reporter The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBcVpfYnhiUzhYSTdkX2RxOWhLVUY2TGdZYTduSnVnb2xibjNKWmVvcDlpT3lYRFFPcW1OaEVFY1lsZGdzM0NKWHh2cjdDTmM2NUp1VF9haVl1dHZfNS1Dcm1XbXVXZ3RuV3IwTWNPMWM?oc=5",
+      "primary": false
+    },
+    {
+      "id": "1ef74736105b70821ff1",
+      "leader": "mukul",
+      "date": "2026-10-30T00:28:06+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "By Our Reporter - The Shillong Times",
+      "summary": "By Our Reporter The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtNkY1NWtiMndJRzdTNEMyRHRzdEpvcTFOLXJ3ODdxX1pNMHE1MW05MUVibDFPdDdvWEl1d01hVVY3VUFFckZmRmNuRWVPZ0RRUTRRTlJzZmJvX256d01yQmprVy1KUkdQZUczTXNwVGc?oc=5",
+      "primary": false
+    },
+    {
+      "id": "954e48bc2b35f0423f1b",
+      "leader": "mukul",
+      "date": "2026-10-29T03:23:19+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "East Garo Hillso a·bachengatgipa SALT project ko Williamnagar MLA, Marcuise Marak nirokea. - The Shillong Times",
+      "summary": "East Garo Hillso a·bachengatgipa SALT project ko Williamnagar MLA, Marcuise Marak nirokea. The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUzAwRmFua3dyZzhyYkNTV1V1bnU5UzVSa2xMVElWMUhmcmsxdVJsTF9YcGJ4U0xmN1JxQUxZa3liWDVZMHRlOWxXZWMwVWtFa1c3cHdScnFwWUlGMHBHNXlzQXV5cFowNE93VFFBRmJ3VGY1R1pGbUdlNG9FSmtOWngyZ3FNZHVQbnBncUt5Tmx1WC1Ba1pBNjNyUE1VdXZ2dHFMV1Y5OEtQV2ZjZktRM2hVZmRZZjUwQzZSczFTYzFkVk8wRTNZYzVpQjhjNHM?oc=5",
       "primary": false
     },
     {
@@ -1098,21 +1158,6 @@
       "primary": false
     },
     {
-      "id": "74475b633473533971ed",
-      "leader": "saleng",
-      "date": "2026-10-23T12:18:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members - Meghalaya Government Portal",
-      "summary": "Members Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZa21UZ0tKaVEtbUJEUXhhMnpxMnBGRVZnbnhYRlEyMWlUZGZhRldPdmZoaVg1M2hoNHB6anRqbjhtemlPaWRfZzZaV1Q1cURu?oc=5",
-      "primary": true
-    },
-    {
       "id": "d7c991873ede544a89a3",
       "leader": "mukul",
       "date": "2026-10-23T08:03:49+00:00",
@@ -1741,6 +1786,21 @@
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPem5jbzlMbVY5TlQwSEdvMHo4VGxPMmJqR1Jhdk1fN2hxYlNCdHgwWXU2R1VqXzlEMVlzTkxNX0o2bnBXeTl1Z3R2NC1RZnB5RGtNUW5PYkZ3Z3E5WWlQY0EtVnM0YmE2Y2RUWVU4TDN1RGpsMXVHWjdTN0ZXemdONUhsYlU3d0NSaGUxNFFrQ0M0U1ppc0pzc2d6N1ZhU2cwMFR1QU1PS1RGdw?oc=5",
       "primary": false
+    },
+    {
+      "id": "1c3c2bc26577132693da",
+      "leader": "mukul",
+      "date": "2026-10-13T18:07:45+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Notifications - Meghalaya Government Portal",
+      "summary": "Notifications Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QSFpiZkhMa1NxdDVWRV9XTXVFcnFHMmYybjIxSUJRR3RtNC1nNkNTM0FxSlduVEowTk4wTDFKdkFYY1R3WG9aay1BRkdoMmNGU001clZfeDdPQmFlUGlNWVozVEg1SG5leVZQZ3FuTHRBeHc?oc=5",
+      "primary": true
     },
     {
       "id": "38604d3c2de04c8bad3b",
@@ -2808,6 +2868,21 @@
       "primary": false
     },
     {
+      "id": "fc5cdc7467fc0e8a864d",
+      "leader": "mukul",
+      "date": "2026-10-08T15:27:01+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Victims of poaching, not messiahs of coal mining: Mukul slams 8 ex-UDP MLAs, BJP - Hub News",
+      "summary": "Victims of poaching, not messiahs of coal mining: Mukul slams 8 ex-UDP MLAs, BJP Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk9ybmFTVDVzV3ZuT1N4R1pXUEgwOVlMdEFzaTQyaUM2eTdOOEpsaDZMR28xU2hUTVJ0ckk2RkpuZEZEMmVuLWpGMEpyUmRpdEVVbU9ib1dRRHRueHZmN2otY1ZPSllHaW40Q1BkZXdDclY2UmNEekttQW1ZaUhsRTYzVktXZjFzNG53a3habGNabnNNV3dpNnQ1a2RPYVdsV0E?oc=5",
+      "primary": false
+    },
+    {
       "id": "5a904baf51a00b49ea5c",
       "leader": "bernard",
       "date": "2026-10-08T07:17:03+00:00",
@@ -2865,21 +2940,6 @@
       "source_domain": "hubnetwork.in",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUVIaFhyX0lCRTRfYmY3ckloVGN1d3NfUDlPQ2ttRkJhRHJ0eXZwb0F6Z2xySDFZMXhSUUhidkM1ekY4SWl2WU5zS1RXZmdaNnNfNWwtYjcxRm9BSzJLdG41Njl6N2gxUU4wT2hsUVBkY054TW9WeS1oWGtFSDJYa2htc3NOaUdVMTRicThR?oc=5",
-      "primary": false
-    },
-    {
-      "id": "fc5cdc7467fc0e8a864d",
-      "leader": "mukul",
-      "date": "2026-10-08T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Victims of poaching, not messiahs of coal mining: Mukul slams 8 ex-UDP MLAs, BJP - Hub News",
-      "summary": "Victims of poaching, not messiahs of coal mining: Mukul slams 8 ex-UDP MLAs, BJP Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk9ybmFTVDVzV3ZuT1N4R1pXUEgwOVlMdEFzaTQyaUM2eTdOOEpsaDZMR28xU2hUTVJ0ckk2RkpuZEZEMmVuLWpGMEpyUmRpdEVVbU9ib1dRRHRueHZmN2otY1ZPSllHaW40Q1BkZXdDclY2UmNEekttQW1ZaUhsRTYzVktXZjFzNG53a3habGNabnNNV3dpNnQ1a2RPYVdsV0E?oc=5",
       "primary": false
     },
     {
@@ -3702,21 +3762,6 @@
       "primary": false
     },
     {
-      "id": "3cc71de2cd9cf1ff7c89",
-      "leader": "saleng",
-      "date": "2026-09-18T05:51:58+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "LOK SABHA DEBATES - Digital Sansad",
-      "summary": "LOK SABHA DEBATES Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeGdUbkJhcHFOMlM0Vk5SNzVpY2hDRzJ4MUE1NTl6UkZXVVZJSGE4VGc3cFZoZkJDRllDTjkyT015U0JjZ0FiQml4ZnhnSzkzOE15YkxrSXhjR2FsUTF6YUF5c1A2bzJJb1o2eFBhNG1nQktYbDhyS3QxM0U1cWNzUEU2VnJlZF96Y0RwNg?oc=5",
-      "primary": true
-    },
-    {
       "id": "bff6ed1fc16e4642c5fb",
       "leader": "saleng",
       "date": "2026-09-17T13:14:00+00:00",
@@ -4134,6 +4179,21 @@
       "source_domain": "hubnetwork.in",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDQtTFpMR1Vxd2lDTnRVRFgtaWVkbURMZjl3MFlFYk45VHpJVk5MMWQwM1l1ajNGeDlxQWNuOWVCWlhFX3RIZ0ctQmpiOUxMeUxPc0YwZE9rYkV3cnpXdWE3bndkRWdXa2k0d19UQ29iNUZOM1B4V0RzY2NnVFkyUGVHOGdaX2Z0bFFRbUFXSDJ3UUVVMHBCLWF2QzJIdk9HV3cxcWlB?oc=5",
+      "primary": false
+    },
+    {
+      "id": "a38a903da09b17e86e12",
+      "leader": "mukul",
+      "date": "2026-08-28T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "CM claims sub judice to deny info on Advocate General in House - Meghalaya Monitor",
+      "summary": "CM claims sub judice to deny info on Advocate General in House Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1IyRWg1bWdGLTFkVDcwODhwRWJEY3pTTUdxOG9RTThYTWt5cHJNSlhBRGwyQ09WQzRWcC1VbUhraGZFSlh3UlBpUGxodzUtcHNiaXFhQ2JTZXR0c3Z5MXdNX0ZqZnBWT2Zpa25rSGpFS2NGUTByVWNuN2lCSkVlYmhoenVKTHc5c2R4eVotUXRyZWVlZ0Rj?oc=5",
       "primary": false
     },
     {
@@ -5242,6 +5302,21 @@
       "primary": false
     },
     {
+      "id": "b92a3e78f6901e924a22",
+      "leader": "mukul",
+      "date": "2026-03-07T07:54:58+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya - Meghalaya Government Portal",
+      "summary": "Meghalaya Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RLWtzZV9kaEJMTjlZZjJVYzBXU1VLUUo2RXIyTUVDUHFLUWdzSUQ0Ul8tc05ETXhoaXUwSk13RFJTS2dRWjFNLVhNMEw0bEs4NWh3MmlMZEUwT2xRdTFrUlB2Ny16RVVvLTBSaWxmNGEwVlk?oc=5",
+      "primary": true
+    },
+    {
       "id": "f61dd1b37ffc2f529e55",
       "leader": "ardent",
       "date": "2026-03-02T08:00:00+00:00",
@@ -5476,6 +5551,21 @@
       "summary": "Meghalaya: West Garo Hills on alert after ‘ISIS-K’ threat poster surfaces in Tura NE NOW",
       "source": "Northeast Now",
       "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1oxLTNUdDJWTzNuTGxxTHJ4c09YbDRIZjRmakxJQkxCUXM1eUx3ZkpRbVdOdWZDR3R5VWxNSmhiTjBIYzIyWHZNS2dYWDlYYm9aVENXTVVpU001LUhrMDdfUXgySHpIY2JNSDl3X25tNW9pVS1mSUhFVlBQdXJfS0tWeHpvRXhacnBNSmRHdk1oeXVZaHdHQnVHeTV2ZTF3cnpTaG5aWldiN1QtNlJfZ2pvUmNjd0xyZlh6cG5MZ29YTmdF0gHEAUFVX3lxTE5yanNwNjQyS3QwNlduNkR3QnVSRVNPTU5jbWVjRUpFWWxSWE92NnNDQURfRVBxM1N0VkNMbmEtN192YVIyYmVVT19Jdld0X3FqQXQ1M1pMVC1lUVJjZi1CSTRkX3hZT2JRc1ltRU5FU1dPRkp4dzVzM3hZUVVrcXpvM0ZGcTRXcEJmSWJ5RXpjelVYTXJEajRQZ1pBSUJoNUNWZnNfY3JzWUs4dmlickFibldacGIwYmpzbkRCVk5nLU95S2I?oc=5",
+      "primary": false
+    },
+    {
+      "id": "5af46faefc9930c60be8",
+      "leader": "saleng",
+      "date": "2026-01-29T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya: West Garo Hills on alert after ‘ISIS-K’ threat poster surfaces in Tura - NENow.in",
+      "summary": "Meghalaya: West Garo Hills on alert after ‘ISIS-K’ threat poster surfaces in Tura NENow.in",
+      "source": "Northeast Now",
+      "reported_source": "NENow.in",
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1oxLTNUdDJWTzNuTGxxTHJ4c09YbDRIZjRmakxJQkxCUXM1eUx3ZkpRbVdOdWZDR3R5VWxNSmhiTjBIYzIyWHZNS2dYWDlYYm9aVENXTVVpU001LUhrMDdfUXgySHpIY2JNSDl3X25tNW9pVS1mSUhFVlBQdXJfS0tWeHpvRXhacnBNSmRHdk1oeXVZaHdHQnVHeTV2ZTF3cnpTaG5aWldiN1QtNlJfZ2pvUmNjd0xyZlh6cG5MZ29YTmdF0gHEAUFVX3lxTE5yanNwNjQyS3QwNlduNkR3QnVSRVNPTU5jbWVjRUpFWWxSWE92NnNDQURfRVBxM1N0VkNMbmEtN192YVIyYmVVT19Jdld0X3FqQXQ1M1pMVC1lUVJjZi1CSTRkX3hZT2JRc1ltRU5FU1dPRkp4dzVzM3hZUVVrcXpvM0ZGcTRXcEJmSWJ5RXpjelVYTXJEajRQZ1pBSUJoNUNWZnNfY3JzWUs4dmlickFibldacGIwYmpzbkRCVk5nLU95S2I?oc=5",
@@ -5764,6 +5854,21 @@
       "source_domain": "highlandpost.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWJ3TXFULVVEUVJzN0pDRlozRkMwTDVESUNldzVoNGdaNlREbldsMVdfY2JPTklHYTA3bzVORzNHNUswZE40Ykl1RXk0Mi0wVkZuSEozUnhfTVBWVVE4TVFEWHFkeWVUWmMxYjA0VTlEU1dRTHU0V0paVEZTamx1THFhQV8tdw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "f93a6303adc5cef80a10",
+      "leader": "mukul",
+      "date": "2025-09-10T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya: Opposition cautions against flaws in electoral roll revision - EastMojo",
+      "summary": "Meghalaya: Opposition cautions against flaws in electoral roll revision EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONTFfdHV6WmJBbHotd19tMGJGdjJUczgwMFUzZHZnTVZuNmFGb2VhU2laSzdja3IxcWh5cEVQVDlURlRMM3FXVTB4UVVjY0VqSkVwVnZjQWp6SlV5dlNVelItd0ZBMDRocUpUaURmNG1ZRGVhMDMxcGEzYVIyenFHcHVQNUZVbGhkUFNhd3YyNnFLMHZPOGNTOEs1QkJsM3ZFRlFGckx0Qmh6c3JoeE1OdmVzaw?oc=5",
       "primary": false
     },
     {
@@ -6232,6 +6337,21 @@
       "primary": false
     },
     {
+      "id": "622f22076d5c7b62f766",
+      "leader": "bernard",
+      "date": "2025-04-13T11:25:37+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Power supply - EastMojo",
+      "summary": "Power supply EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWN1owZ0dMTEFCUHRfNnhCeFR5eEQ3X1prV05oeDJPR0s2X0h0SGVMY3JiQkh2Vk5SUmlHUXJidVJ6MGtBdF95REg0UUNjOHM?oc=5",
+      "primary": false
+    },
+    {
       "id": "0893cecafb9d35552e66",
       "leader": "mukul",
       "date": "2025-04-12T13:18:06+00:00",
@@ -6304,6 +6424,21 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1SnZ6TXdiYjJkd1dlRmN5SmNKWURvYmFxalZRdDBmQlQ2R21pTm96UDRyaXFkOEpQLXc4MzJ2M3pOcElsTDVFQmNVMWQzVDRuMXBOcg?oc=5",
+      "primary": false
+    },
+    {
+      "id": "dca8cdf6a011020e4eb9",
+      "leader": "bernard",
+      "date": "2025-04-05T19:31:42+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya elections 2023 - Page 8 of 8 - EastMojo",
+      "summary": "Meghalaya elections 2023 - Page 8 of 8 EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fMWZhS2VqU1YtOXFDekZSdlJjcnJxc1JXSXhaeWZ5R3BOMndYRkJ1NDJpbzZWT2xvUmVNZW5rYXlDWGpfQnNxOENVV1M3TVJXM1hHamRJNUgxUWRKUU1adVFOcUJwbW8x?oc=5",
       "primary": false
     },
     {
@@ -7162,6 +7297,21 @@
       "primary": false
     },
     {
+      "id": "aa08c610ce5d8f516d22",
+      "leader": "saleng",
+      "date": "2024-08-25T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Saleng asks clan elders to groom young minds - The Shillong Times",
+      "summary": "Saleng asks clan elders to groom young minds The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNzdVMlRLeFFGSGotR0oydC1nVHNtOFZHUjZfYUFxNFJUa3Z5Si1TUHZtSm16b3dZaDVBZTdPd1VfMGFrZjN0Mmk0ZWpCUEthM19LWEZFekJHcTNEaHBnMVlXSmdPVzhuSnhkRmlzOXFIVE1wVUljc2YyWDhlWFdCTDd3S3BSd3VmM0wzQ053?oc=5",
+      "primary": false
+    },
+    {
       "id": "0b5d8b0f8061dfd6e299",
       "leader": "mukul",
       "date": "2024-08-17T07:00:00+00:00",
@@ -7340,156 +7490,6 @@
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFp1TmlJNVdlcV9yU3RHcGtMeHhudFNUUWxfSVRheTJKM3dmMEZSWkxMZTRUZzRNNDhGU0hYY3hjcG1lSEhVb2FPYXJxcS1VVEtoLUM1ZGlfeXM5RVZ1bGdrUEZMUEYtcTVwUmdmT1NsZUFscGRrY2lZWXUzdGxKYWlNS2dZYU1CX1RoSXRVN0VNWDctcGZxU3Bxc01GdGvSAZ8BQVVfeXFMTVNRNlB5ajB0YTBaOGQyQ3pMWjZvb2pCRF81aHhQMWpzcTB1Vm9nbWFoS3A5OW9uSXVjeC1tRFFCUUV1TEpoMlZRWV9yRFRQdjFvYzNKUXVxMnlEcVV0bGVINW5GV1lMY2RkTWJqTVFfaHhBUDRBT0RUc1F2TmhBZnY5UHF5eXExRDZGX3dQNEpKcWk4R1BfbTlNa0tqR2I0?oc=5",
       "primary": false
-    },
-    {
-      "id": "6354a6f8a5d392d02d2c",
-      "leader": "saleng",
-      "date": "2024-07-06T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "CM and Zenith to field their wives, I am not fielding my wife: Saleng on Gambegre bypoll - Meghalaya Monitor",
-      "summary": "CM and Zenith to field their wives, I am not fielding my wife: Saleng on Gambegre bypoll Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNqQ01INW5wRmREbkVSYld0NVFOWUpxT3p6UU1TUnc4OVZXRlAwS1ZPbWw4NmF1R1BlZ2diMXhfcmF4QVN4TlhFc2V0c0RYTzJYRVk1SGtEWHp6WTZrNXE1MDc2QWJFaXc4S3ZZQ0Z6MUp3NHRpUFZzZDhGOEIyRExlU01xZ3NURmtKT3NmNG1vYy1mLTNnWERsTE1zMmtsam5Nd0dhUG1ZMjhKenBiMGV4c0lYUFE?oc=5",
-      "primary": false
-    },
-    {
-      "id": "296f15bde24b0e13b6f0",
-      "leader": "saleng",
-      "date": "2024-07-04T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Parliament adjourned, Ricky, Saleng back in State - Highland Post",
-      "summary": "Parliament adjourned, Ricky, Saleng back in State Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SeVgxN2hCMDgwcFoxWWdRd0RrQkJ4ZUJUZ2ZPQ1VZelVuLVUzYmtVSU54c21YZWJkODBjUzMwZzZqaGdnSjlHMnA5U19VNExOMHl1MGZjdFdpTkJYc1VrdmhPeWxVZkE3ZVNlYkhnM19Ra0FVNllLdFhuaml6Zw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "e94f61d5c78a3559c294",
-      "leader": "bernard",
-      "date": "2024-07-01T22:04:58+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Bernard Marak (right) next to a JJM completion signboard - Highland Post",
-      "summary": "Bernard Marak (right) next to a JJM completion signboard Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDlLcDFRRzdfelVpc3JvczVNem8ycnJuMEIyTEJzRGNfYmEtSE9nZGdXRVY2UExGYlgyNjdraEtwRkZDekI1czA1ZzFGMjljWkFEYzVNUGlZZFZWVmNlcXE3VERReU5hTVFNSzdMaXV1MlhxVF9aa2lha29RMnR2NHZBYjd6SVFWX3l1SUNNZ0YweklYZ0RSblk1MTAyU3l0RXgzcGlPTXQxV1RhaDJtNGZUNnA5V01xcWVIYWxiMWdKdw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "6f94844c63236845730d",
-      "leader": "bernard",
-      "date": "2024-07-01T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Bernard visits ‘incomplete complete’ projects - Highland Post",
-      "summary": "Bernard visits ‘incomplete complete’ projects Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5WkY5WldjRGZsYVpEUWx1cVVnVXUtcG1KN2llNXdtYWJEUzNpcmFHUFhnNVJjRjd2c1VyRGZMSTJjSkNUMkQ0MXRjb2tNazZMLXBsRENTekkycFNHSUUyckZSZTZqTnRiQVRJdnNwMGlmNjU1T0lKVA?oc=5",
-      "primary": false
-    },
-    {
-      "id": "490d783ada34f307265b",
-      "leader": "bernard",
-      "date": "2024-06-30T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Tura MDC gets vague reply to RTI query on PA Sangma stadium wall collapse - Meghalaya Monitor",
-      "summary": "Tura MDC gets vague reply to RTI query on PA Sangma stadium wall collapse Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWp4dnp2Uk5vakNGMXlXMzZDdTlWV2RXRS1nQV8ya2ZNek5vTkpyN3F2WXFNWmc2eFlaTjZWRGRiTjhCa2VZc0xJZkpGa2NHTDJrZl9ZZ1dsTnBqdktCeEFScWZNYnlGQ25ZaVRVa1RVanlYLXBvVHQ5WUswSzl6aWZETVB6bFoxQmRIaVpmWEphLTJxbTlfQzAxMGRTUmxIMlY0NXFB?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d39d582dd955e4d6903c",
-      "leader": "saleng",
-      "date": "2024-06-29T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: NPP leader James Sangma denies family rift over Gambegre ticket - India Today NE",
-      "summary": "Meghalaya: NPP leader James Sangma denies family rift over Gambegre ticket India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2pQZGxKdENZVS1weElsVjF6ZHRQcWhMT1ZIWUdwTEk1d3NjNU5oSzlUM2FDLVZSMmRVd2ttdlIyU05rUS01NlIzamhGdHhuM3gzM2dLd2tHUjlBeG5Ja0NabFFqYXBTRUcxUTlyS3pfNXFNOWVoS2JWSzRsbU1FeXpRVUZ4bHh3dWx0UFVxQVJvX01FSktkZkRoYUUxNGR1RFotUHE5TVFfYkE4RzNYRjlvd0k1a1NFa3I4OHZLY2J5VkM0ZHZNU3VLeGY1eUExNUHSAdcBQVVfeXFMTjZ1WVdQdmpMY0Rodl9lMDRaOFhaVHYzME10d2dMMDhWZWQtNnlWWEdvVmlWd0JkeFNIdDM2NmQ1YmNEY3E2dlE1d1VGTk9IVm1wQ1lIZXgwa2s4cEhycUlkUFQ1ZmpDN1AyTFY2Unc5QTZUMURJbHhOUFNmRzhqQ1lWUFdodzkwYnAxb3JNZFR1bXRBRVRLNjI1NnNKSUdESGVwUzE5azRMcEpmOE1GS2tTemVwLWkxMFVUWm1qX3c5SnJJNk00cFVFMlY3bjk5bFhKVGRnYVE?oc=5",
-      "primary": false
-    },
-    {
-      "id": "c0beb3f4c8f577eea120",
-      "leader": "bernard",
-      "date": "2024-06-27T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Municipalities violate 15th finance panel guidelines: Bernard - Meghalaya Monitor",
-      "summary": "Municipalities violate 15th finance panel guidelines: Bernard Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSk5sNzBZYnZmSzVOTS13b0JXVFlFVzVFX0JFa29YeFhvWHhxc3JLWkdFd0ZXemszQ3ZKSUcyM25VOFlLOGlHdW1jRjItTFNXUTNrNThPVFNvSURuMjJrajBrVTF2YUNySkFzWGEwV0FNMU1meVRIRVRWQzcxVGdueVlEMEpud05LRmJGZDg5ajVJQWp5?oc=5",
-      "primary": false
-    },
-    {
-      "id": "64a4f6fcba1b71158f5c",
-      "leader": "saleng",
-      "date": "2024-06-26T23:01:48+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Shri. Saleng A. Sangma - Meghalaya Government Portal",
-      "summary": "Shri. Saleng A. Sangma Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QaEJFOUxqUUY2S3JYYUlMLWZ5Umt6ZFdhYUR4SUZQWVl3RFg5cml4NWl1SHdSaDVNQlZfWTE5TWh3aWsxTGFOTGw4VQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "9bb32153875a73986e8d",
-      "leader": "saleng",
-      "date": "2024-06-25T11:07:28+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Digital Sansad - Digital Sansad",
-      "summary": "Digital Sansad Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tZ3IyVXFRMVFSOFk4VDBlancxMXNndHNWeDRObVQ0U1Z4cWY1elE1YXQzbVdPZ2RQY3F3MEZhd0NnUTdKa1hxMlU0dFZEUUozdkVzaG1PS0x2MjFxaFRDU1d5b3N6bVc4ZFY1STJYTEw?oc=5",
-      "primary": true
-    },
-    {
-      "id": "2d6c27d5124d45a82b2b",
-      "leader": "saleng",
-      "date": "2024-06-25T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "LOK SABHA - Digital Sansad",
-      "summary": "LOK SABHA Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mRF90OTFGTFUzWGZMTkhWUzlwRGdNV3Q5MFFjMGVfdkJVdzZySThFZWRFWDhzQTVzbnUtQVVIMl9zUV9weENaMnAzT21KS3ZjVXJUQTcwUWJ6TkM3aVNYWXk2c2pib25UWWNfTU1PQklZdmhGTmFMcGVzdw?oc=5",
-      "primary": true
     }
   ]
 }
