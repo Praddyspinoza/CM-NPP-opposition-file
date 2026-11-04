@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:59:47.979667+00:00",
+  "generated_at": "2026-11-04T06:35:16.640999+00:00",
   "status": "updated",
   "items": [
     {
@@ -6337,6 +6337,21 @@
       "primary": false
     },
     {
+      "id": "5c4ba95783e052c1eaec",
+      "leader": "mukul",
+      "date": "2025-04-13T21:59:43+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Mawsynram MLA HM Shangpliang - EastMojo",
+      "summary": "Mawsynram MLA HM Shangpliang EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nTWw4dTlYQXcxNUpLdGpVd0k0QlExLTFQUU1UbW9aUERKeU5XZks5bEpON3UyV3R2TEdvclFKbV9pR1U5ejYzMGpndnotVEl4Um0wVHpjcFllellLR1dGbzg5RDQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "622f22076d5c7b62f766",
       "leader": "bernard",
       "date": "2025-04-13T11:25:37+00:00",
@@ -7471,21 +7486,6 @@
       "summary": "Meghalaya: Saleng Sangma to collaborate with VPP MP to address state issues NE NOW",
       "source": "Northeast Now",
       "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFp1TmlJNVdlcV9yU3RHcGtMeHhudFNUUWxfSVRheTJKM3dmMEZSWkxMZTRUZzRNNDhGU0hYY3hjcG1lSEhVb2FPYXJxcS1VVEtoLUM1ZGlfeXM5RVZ1bGdrUEZMUEYtcTVwUmdmT1NsZUFscGRrY2lZWXUzdGxKYWlNS2dZYU1CX1RoSXRVN0VNWDctcGZxU3Bxc01GdGvSAZ8BQVVfeXFMTVNRNlB5ajB0YTBaOGQyQ3pMWjZvb2pCRF81aHhQMWpzcTB1Vm9nbWFoS3A5OW9uSXVjeC1tRFFCUUV1TEpoMlZRWV9yRFRQdjFvYzNKUXVxMnlEcVV0bGVINW5GV1lMY2RkTWJqTVFfaHhBUDRBT0RUc1F2TmhBZnY5UHF5eXExRDZGX3dQNEpKcWk4R1BfbTlNa0tqR2I0?oc=5",
-      "primary": false
-    },
-    {
-      "id": "4e2d5e43614abb748d49",
-      "leader": "saleng",
-      "date": "2024-07-07T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Saleng Sangma to collaborate with VPP MP to address state issues - NENow.in",
-      "summary": "Meghalaya: Saleng Sangma to collaborate with VPP MP to address state issues NENow.in",
-      "source": "Northeast Now",
-      "reported_source": "NENow.in",
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFp1TmlJNVdlcV9yU3RHcGtMeHhudFNUUWxfSVRheTJKM3dmMEZSWkxMZTRUZzRNNDhGU0hYY3hjcG1lSEhVb2FPYXJxcS1VVEtoLUM1ZGlfeXM5RVZ1bGdrUEZMUEYtcTVwUmdmT1NsZUFscGRrY2lZWXUzdGxKYWlNS2dZYU1CX1RoSXRVN0VNWDctcGZxU3Bxc01GdGvSAZ8BQVVfeXFMTVNRNlB5ajB0YTBaOGQyQ3pMWjZvb2pCRF81aHhQMWpzcTB1Vm9nbWFoS3A5OW9uSXVjeC1tRFFCUUV1TEpoMlZRWV9yRFRQdjFvYzNKUXVxMnlEcVV0bGVINW5GV1lMY2RkTWJqTVFfaHhBUDRBT0RUc1F2TmhBZnY5UHF5eXExRDZGX3dQNEpKcWk4R1BfbTlNa0tqR2I0?oc=5",
