@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T03:29:09.192107+00:00",
+  "generated_at": "2026-11-05T06:56:15.334976+00:00",
   "status": "updated",
   "items": [
     {
@@ -60,6 +60,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LWi1yN0xBN3p6dFhEN2UxZHBLQ2ZXOTQtQ1hmTkRxN1NvLV9nQXhlT0ZaZUV4TUV1dnRhaC1pc2poWk9nYVoxNG51QTNqMU1QWmgtdnVOdm9fcThfSzB6NG44d0Vpb1o2QWU5aFZQQnRZUnNxZHoxVTNJeUlvUQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "711882357dceddc73965",
+      "leader": "saleng",
+      "date": "2026-11-04T17:28:58+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NE NOW NEWS, Author at NorthEast Now - Page 5816 of 5969 - NE NOW",
+      "summary": "NE NOW NEWS, Author at NorthEast Now - Page 5816 of 5969 NE NOW",
+      "source": "Northeast Now",
+      "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BWkcwcDlqZWdNTVd3LUI5eTREUnZsc1pjRVNSaWZGbE9nUVd6emlyZ1B1bVFMNVViTHJaS2UwMnh2UlB1Q3YyZ3I4RThKSHlNX1ZjOVpjUQ?oc=5",
       "primary": false
     },
     {
@@ -2898,21 +2913,6 @@
       "primary": false
     },
     {
-      "id": "b8b8567e0f1562291eb8",
-      "leader": "mukul",
-      "date": "2026-10-08T19:57:36+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Hold GHADC polls without delay, Mukul tells govt - Meghalaya Monitor",
-      "summary": "Hold GHADC polls without delay, Mukul tells govt Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdG5vVzRVdXVXRnNJS3AzaTAzMm1rRlpPYjdCZUt6b2x2eWtiSFlmbkpac09fQm93MUhMeWd1ZmllR3dVanNNYVVCOS1jb3d1RFRqcGhEV2NhLTVnN01aRjZKV0xsU3ZLQkVNTnYwemoyVjlyQm1KdnRGNWNMSTV6WUtGOA?oc=5",
-      "primary": false
-    },
-    {
       "id": "fc5cdc7467fc0e8a864d",
       "leader": "mukul",
       "date": "2026-10-08T15:27:01+00:00",
@@ -2970,6 +2970,21 @@
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTHc2MUVrdmVLN0VjZUFQNTN0d0NjVmN0NDRYRlg2OGJjdlkweXAxZUg3MVM3UDd2Y0hRLVhzUGZpWHVNRzlZUEw5WFVUN2JNeU1PbTRIblVNVW5qX3hpNE53ZFljOExiN3lVazdYdi1yOE5HVzd3THlBU1U5VmhESGgySl9KSjZtbnhLNmxmTVZ4b0ExV3VReHp1dHpmM0lfOU0yZ2ZLbFNJZUgySkl4eEpibG5TeF9mRjAzNU45Z0Vjb3ltVkF2eERvZ9IBywFBVV95cUxOdWdtUHVQY1lldDBlYXF3Z3d1T3dnUlRoSDBTTDNYbFo2NFJSc3FyRmNROXhmeG16LVlfbXFQMGp4dVNxYk40bFJsSHBEVlozaFFfdjEyblpJS3VVbllNOFpxYU5vd0ZrZ09NVU1NZDM2U29yeHB0TWlrM3hWUUcya2ZqWUx6UXpET3N1SXJ2RUJtYkZKalJFTkNoTUQyR1NmWVhKTW5LeVZ5TVBsSDJPamptRUdZZjVtNTU1MGItNnpwZV9jQ212NEg5MA?oc=5",
+      "primary": false
+    },
+    {
+      "id": "b8b8567e0f1562291eb8",
+      "leader": "mukul",
+      "date": "2026-10-08T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Hold GHADC polls without delay, Mukul tells govt - Meghalaya Monitor",
+      "summary": "Hold GHADC polls without delay, Mukul tells govt Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdG5vVzRVdXVXRnNJS3AzaTAzMm1rRlpPYjdCZUt6b2x2eWtiSFlmbkpac09fQm93MUhMeWd1ZmllR3dVanNNYVVCOS1jb3d1RFRqcGhEV2NhLTVnN01aRjZKV0xsU3ZLQkVNTnYwemoyVjlyQm1KdnRGNWNMSTV6WUtGOA?oc=5",
       "primary": false
     },
     {
@@ -7474,21 +7489,6 @@
       "source_domain": "indianexpress.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlpYQmY4TlptTUUySHRGM1JrS0ZNSlp3SWpJZEE3bjkwSVlUR2hLbVJEZEpKamZFYTB6ZUZYN01SQl9KX1lfdUlUbVRzVmZUbElWS3Exa1J3SVh1QUZ3el9WUGpCY09nS3BBR1YtMWlsOFRJSUtCeHd2ZGs2UGtUa2xIZDF5cFZSSU5jUmZQOHdGQk9EaVJtTlAtdVNuMHVDNXlZNldXdVRQYVM2Tkt0VHhLclE2UdIBvAFBVV95cUxNV0RZS2diQzZYWWdqQ3RUUTBiTVdlWkVtYXU3ZmRtbnhzeWZ6dUxQTVdFaWVwYndIU2JibnZSTDZXM3NISmJzNVpYNHVLaU5HOW1TbXZkS3h1TUFZcDJWT2JONFZkbVNxaGJxdFhEa0hpazdBMTRHclpQaHcxd093TEZzSTEyNm90dzU1M21nejJXaXZwWXY2emtvYkN0S3B3cUNFbFNmZEhWT2xIaWhlY0t4RllCbG5uTWp5Wg?oc=5",
-      "primary": false
-    },
-    {
-      "id": "dc829a70f6ac6cc965b3",
-      "leader": "saleng",
-      "date": "2024-08-12T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Anti-incumbency burden on NPP & Congress in Gambegre - Meghalaya Monitor",
-      "summary": "Anti-incumbency burden on NPP & Congress in Gambegre Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVTBnZDhIa2VYV0tueUhfU2MtUG5Id1FmUjhmd1IwcUlVM3VtN3N1TjRwaTJUZUtkY1pSWWc5b3FyM1YteFVJbWhPdWdCVjZzYk5VcTlGRGpYTVJDN1pVb0N3dVpNbkhNSHpRRlQ0ZzZyX20xSUVUeWttQlZLdEZwS056c2hYSWc?oc=5",
       "primary": false
     }
   ]
