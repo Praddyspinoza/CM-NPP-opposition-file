@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:25:07.623905+00:00",
+  "generated_at": "2026-11-06T06:56:02.117865+00:00",
   "status": "updated",
   "items": [
     {
@@ -6562,6 +6562,21 @@
       "primary": false
     },
     {
+      "id": "a290229dd39f4726fc04",
+      "leader": "mukul",
+      "date": "2025-04-08T14:38:44+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya Legislative Assembly - EastMojo",
+      "summary": "Meghalaya Legislative Assembly EastMojo",
+      "source": "EastMojo",
+      "reported_source": "EastMojo",
+      "source_domain": "eastmojo.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRFUwWVpaendBbklxZnlrYzJOSXNPcWptVjFVRTJPNzlvZDg2WmU1T1VMU2pkY0E4bTI0aUpCdDlwMEdPVTVFWm5QQXRaTWR2X3VwMFFDamtwQ2JpalA1b0dVejVPb1E?oc=5",
+      "primary": false
+    },
+    {
       "id": "aa42623514bc572412e7",
       "leader": "mukul",
       "date": "2025-04-08T01:30:07+00:00",
@@ -7012,6 +7027,21 @@
       "primary": false
     },
     {
+      "id": "ccd4aa76ce4460563b72",
+      "leader": "bernard",
+      "date": "2024-11-23T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "CM’s wife Mehtab wins Gambegre seat - Meghalaya Monitor",
+      "summary": "CM’s wife Mehtab wins Gambegre seat Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45SFhMU3VKR01IOW02LTlJV24xeEVwTW5wV1lCaHQxOE51ZFVzTW5kaGEtTzRNaU0wcDcyNUFIaWw5c3F2MkpSbjhFT1JyQ2dkX05jdWs5cXd1U0N6LXlrX1hlNVJPNTFxa1I2RDhhSTJYdw?oc=5",
+      "primary": false
+    },
+    {
       "id": "86ee55e957e28d3ccdd6",
       "leader": "saleng",
       "date": "2024-11-21T08:00:00+00:00",
@@ -7432,6 +7462,21 @@
       "primary": false
     },
     {
+      "id": "9c439ac564987a3300c6",
+      "leader": "bernard",
+      "date": "2024-09-06T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Govt rejects charges of irregularities in JJM projects in State - Highland Post",
+      "summary": "Govt rejects charges of irregularities in JJM projects in State Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3g1NUlrRG1qTnBYREJrdkFyZnBpVU9HTnJsS1FsZGg2NmNLZV9LRlpPV2xUd3NmNzgweDI2TVRJaHBENGoxUHNRQXdFRzN0X1E0ZkIwUjJwSHZuNEhXRzEwNUZId09DQ3BLajBrOUhSZE94bm90R1BOOGY0Z0c2ZTNPTDdyZjloTE94Ums1Tm1IanM?oc=5",
+      "primary": false
+    },
+    {
       "id": "68ece4f9ef0826573dab",
       "leader": "mukul",
       "date": "2024-08-30T07:00:00+00:00",
@@ -7444,51 +7489,6 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQME1NMlhtNm1TMTlMYU5ZQ2dQaFVhTEoydlpoWlIyQ2lCYlJOU203ZUl0Y1djUmVkNnNnMFFPMURVMGJ4WlZUY3NFdENRcjlsY2x6SDhkclF4eFkza2JyOVVQQjluSFplSzI3ckRhSjNnMmZibUhpaXdCRHRHVmR4V2hES1JHSk5FSXFrek93bnowT3l4NE9MclFncTd0VmZUQ2JRc0xZR3dWaUNjZjJpMw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "4a0dadad22e2869a7ea3",
-      "leader": "mukul",
-      "date": "2024-08-30T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "TMC’s Mukul Sangma is LoP in Meghalaya House - The Indian Express",
-      "summary": "TMC’s Mukul Sangma is LoP in Meghalaya House The Indian Express",
-      "source": "Indian Express",
-      "reported_source": "The Indian Express",
-      "source_domain": "indianexpress.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekFpRlVJMmRfazZfUWdaSlhEaU9PMlJWdld3ZzYtQXAxcG5HTUR6aXo3UV95dm4zZVZ4WHFkQ2VXSEx4UTU1R2NhQ3FOMjViZVZrZWRueHFsUUVEaUxWZFpGLUF5VnBvbTZEaEVPSzVzWHg1Z2MxQXZCVjZJYnRzNWtTaGhDdmUySzVLOFl4NU9YLVlPejc00gGeAUFVX3lxTE15Z3JzWU9OMEJGSGx2eU4ydlAzMWowS0x2b01QcE91STZfOGhhX2xHTUdBRDVoY3p1d05BM0h0WF9XeHN0Q2Z5aHp5M2JfR04zenVWT1VlSXF2ZlNHMmZwRXFlcGhjYUZMa0xxM3RWQ2x6RjBiWUZFa2hxUFg1bG5qejJ3R0RDODdzQmRUTlBsUFdhNk1MUG1JWTZZdHR3?oc=5",
-      "primary": false
-    },
-    {
-      "id": "088843e1572474c9b774",
-      "leader": "ardent",
-      "date": "2024-08-29T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Ardent slams legislators for attempting to slander VPP - Hub News",
-      "summary": "Ardent slams legislators for attempting to slander VPP Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHB5Qm56NnR0OWJldDg5YVYtSXFpZWJLRzM3MGItcHVycGx2OWxJUzdoakI4akVXV19EcUFPbWZlY2dZQVctY1F6ODNQUVJtYlcwSkJ2MmlyaGdXQUdya0x1YlFhTER1Z0pXUmN4T29vQnZUeEtDSjdCc25mQjVMaHQ2VQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "0fe21e92b298eb9eaa58",
-      "leader": "mukul",
-      "date": "2024-08-29T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "TMC leader Mukul Sangma named Leader of Opposition in Meghalaya State Assembly - India Today NE",
-      "summary": "TMC leader Mukul Sangma named Leader of Opposition in Meghalaya State Assembly India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWGRnRmMwOWludXh0cXU4UFdnVGRzZ1pERGlxYmlxdU1DQ3dhanc2bWxaeWx3a0Z1VTVDbWJXbXBmeUdPQUZJMDN2a1VqVDlhb25JMEkxOFp3ZDcweE1qWWhTZndQaHc2ZGdYZGZlcEVkVnlNRTFPZmdnT0FHS3cxQnFYZGJ5NFZPY05nUklUUFdDTXduTHVNaURqTFQwQXhNbDRoUFM5T3hGdm5zbGhrX0pNS21BY0pfa1FCb295WnNBT3kwZmEtVmYwMVo0clljcmVSalNONm_SAd4BQVVfeXFMUDhJYk9CUC1fSDExcEd6bUhvcmw1T0Iwb3AyOUN2WXRnSnRMeEUwNFNpUU1qY05hTTVUc1R6VWRERkZYaGtNRWF5UUxIdkJZb0h4QllvNVhrcTB5cHViQU9ralZxcWJORjdxT3B4T1NLNnFWZTc0Zy03LV9CUlQzLWcwdWZPUWNPQkl1Rm96UHM5N0tWNEl3NUoxY25LdnFadWllQS1ydV80U1ROYnIwcE1GZjZnem5ULWxGTk1GYUJBcjhNX2hYckVPYkVtZ0RJWGozV2NuXzBGbmJZeld3?oc=5",
       "primary": false
     }
   ]
