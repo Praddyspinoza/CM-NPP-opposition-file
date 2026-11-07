@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:46:15.551039+00:00",
+  "generated_at": "2026-11-07T06:07:07.799927+00:00",
   "status": "updated",
   "items": [
     {
@@ -4467,6 +4467,21 @@
       "primary": false
     },
     {
+      "id": "4b7aa695d607b2f94a28",
+      "leader": "mukul",
+      "date": "2026-08-27T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Baljek could become functional in mid-2027 - Highland Post",
+      "summary": "Baljek could become functional in mid-2027 Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLalBPZXlkR29kcjNUQmd6Mi1VdGdjaXMyWWp2SEJ4TmtDcXhjbWFsdGlPaGdEdi1aRnJQMXNPYXd5LVNnelBVajd0SFJPejZJaVBTNGN5akVST3N1WnYtUmFiOHNZT3oybWpkMmUxZFNOam1vRndz?oc=5",
+      "primary": false
+    },
+    {
       "id": "seed-3",
       "leader": "ardent",
       "date": "2026-08-26T09:00:00+05:30",
@@ -7474,21 +7489,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkFGYWNUbTc1LURDNTZncm9NaVE2RUtUR2Qxc1JBeUFETGJzZnBhOS1leW5SVWtqa2VkUWFBZXhINFBzTDhibXlndS02elc2N3lzTXN1YmQ3MXBLTDZyb3VUZTA2cFNsbUcwb3NyNTg4RWpGeURhSzlMc2UtcTE4em9EU2djNi1LSU5aTVpuQ0J5dUhBOGVVaEUzWWxaVUhibnNSZXVCYw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "123136b01c9af83fbcfa",
-      "leader": "bernard",
-      "date": "2024-09-22T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Tura MDC writes to Rakkam on violation of tribal land rights - Meghalaya Monitor",
-      "summary": "Tura MDC writes to Rakkam on violation of tribal land rights Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGNtNTRlV0g0UFJOMnJqQmozRnVPaHpBanA3Q0NDTXZuMHprS2o2V29NTHBqU1RfeWxKZ3dDdXJwb1N4RVJRUTkxT2JNeEpxZ3hPUjRCcWtnN21TYnNUUHVXa1JHZVVxcU1xM1pNaGxSSEJCUm5SVzZWVWkyVTlnMlBydEktZ2pGRkk1eUYyTUZjZGk0?oc=5",
       "primary": false
     }
   ]
