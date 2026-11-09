@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-09T02:38:40.726204+00:00",
+  "generated_at": "2026-11-09T06:45:44.467424+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "9625842503b834f4fe3d",
+      "leader": "saleng",
+      "date": "2026-11-09T03:29:40+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "BJP-na chakpaaniko on·na skang miksonganirangko name nichengchina Cong didia - The Shillong Times",
+      "summary": "BJP-na chakpaaniko on·na skang miksonganirangko name nichengchina Cong didia The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVW9aNUVRR09IYjV5WDF1a0twdE5GdkJIZzNRa0sxTjUxM0pTMlFRc3UxSF9LSlFUOUNTaGw1RHlOWDMwSVdndUpjOTFYNVEzQUxtb1BZa0dBRWs2bFVJcGxyQzExUUJvdDhyd2FRZXJncWluZ0pEdUk4ZlVhTUpoeU5JRlB1dEl1T2RlRzFVX001bUVYMXFhdUc5a2hHMnJFaXJVeTlDSHdKS1plWlVkQ2l5QnVvTzBqRXQ5b3FKbw?oc=5",
+      "primary": false
+    },
     {
       "id": "e7191e5a9584416b94ba",
       "leader": "saleng",
@@ -7474,21 +7489,6 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMDlRT0NlNnp1R1k3aHBkMFFqNWZZd1JEQThiYXdhcDZlWmNQaVlvUmItb2xUQk40WFBEMlhOQUdVbFM2dV9mNVlWUVFEZi1LaGdaNEY3M2hBbl9JTWZ0ZnB3TEdrLU0zakZscnQzM2Zod3A2aXZrOWc5TlR3dndVeXVKUFllb29QcTByanVVVnVrV0dhNjFKWG9raTRZcW9IV3h2Y1dHN28?oc=5",
-      "primary": false
-    },
-    {
-      "id": "060d699633e6225457a1",
-      "leader": "saleng",
-      "date": "2024-11-23T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "CM’s wife Mehtab wins Gambegre seat - Meghalaya Monitor",
-      "summary": "CM’s wife Mehtab wins Gambegre seat Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45SFhMU3VKR01IOW02LTlJV24xeEVwTW5wV1lCaHQxOE51ZFVzTW5kaGEtTzRNaU0wcDcyNUFIaWw5c3F2MkpSbjhFT1JyQ2dkX05jdWs5cXd1U0N6LXlrX1hlNVJPNTFxa1I2RDhhSTJYdw?oc=5",
       "primary": false
     }
   ]
