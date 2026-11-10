@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-10T04:37:07.931268+00:00",
+  "generated_at": "2026-11-10T07:26:34.023200+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "68492a17e0a85569141c",
+      "leader": "saleng",
+      "date": "2026-11-10T04:27:48+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "SGH-ni Rongdik chibimaoniko niam gri an·cheng aro ro·ong bikotenga: GSU - The Shillong Times",
+      "summary": "SGH-ni Rongdik chibimaoniko niam gri an·cheng aro ro·ong bikotenga: GSU The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLS1hNTdER1pZeGlpQUhodWxiU0FDc29RMlp4ejBPRkxuZTE2bjFnbzN6bHNMbmN5Z0w2R0NmWksxQWxWZWtpcl81VHQwRklIWldyX2dGYm15R0hXcVlkZnR0YWY5T0Z5ZTZHdXl5bWQ5dDFVV1NYTElCbkZFMmpVV2MyZDhFSWRuN01CM3Y0SGU5Y2cxX3JDSC1Ga2JYYXdKTDRJb19ubW03eHVtazNScjNGeThNZDhKNXQxa3JB?oc=5",
+      "primary": false
+    },
     {
       "id": "b819e5f2528966264ebc",
       "leader": "saleng",
@@ -31,6 +46,21 @@
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPeklMTDN0amZVbFVJVF9Ed0FwWFJYQUpjRlFSNlBPN1BtRi1DZVJGT25iY1daRWJaQTBfLTlkckNnMkstZmxDXy1zZ0xfc3RUWU1OQkV1THJDVXlvSkVBWENWSFFiYVNKREllSnlpQmNvMU1qb21aUjVEd3dGc3NJMnc0WnVkME1mZy1PVVVwX19jY3hnaHpzb0k2ZEpoZGhZYnJKWk5FSnpxY0JTbUluV19Pd0hYNXlwVWRsdXVGN2ktTkx5QnZiZk9CVVBEaFhMcDZUZ2loVEUweERGZEgzbmRKWHhBaHI4b3ZRNkQya0x1YmxSZjc0NGEwUzB5V1ZfQklIVkJMSnJCV3hNbXRVOFZ0bkZzOGl3SUZ6ejNCaUFRTTZJVjc5MmtHRWpnYW5VYTRxV2pPenhNdw?oc=5",
       "primary": false
+    },
+    {
+      "id": "b86b2000d8ed72b5412b",
+      "leader": "mukul",
+      "date": "2026-11-10T03:45:50+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "••••• - Meghalaya Government Portal",
+      "summary": "••••• Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5a3hFNzBaQ2V1aXFzZk8yYUZySEVqbHZlVkpMMVNQZXRNRlJFbFMxVEYyYWZWMzhkT19wTlVscVdUQ1cxcnlvZWZnWG5kS3h0cDB4dDg5UmRzQTFkNnRoX2h6NHlPOGR3bTBZTG9uVDU0b1ZTU25VY1BKaU11TlE?oc=5",
+      "primary": true
     },
     {
       "id": "a7b284289cda3e285ced",
@@ -7459,36 +7489,6 @@
       "source_domain": "highlandpost.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNUowT3locUpsbXU0a2lkQWZsRlBBeHhJd3pVRnZUanh5Q0lHV2VfSlpxMFZKWFA2YXZUMTU4MHBWd0E4blZaTkx6Zzh3Y2tESjZnYjljcmt0MUFsTUkzcEhQeFF4eWM0UmZmWDk2ejVCTDFFbTlYbkJ3WExIME4zUHVCOGJDaDNpYnRMQXp1U3A2eVFRekN3YkhsejJkQQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d34f8a478489aa57e124",
-      "leader": "saleng",
-      "date": "2025-01-12T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Tura MP calls for activation of Baljek Airport - NE NOW",
-      "summary": "Meghalaya: Tura MP calls for activation of Baljek Airport NE NOW",
-      "source": "Northeast Now",
-      "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ3JNVHhSXzJ6U0VoNzlCaGVKZGtUQ25LdlJFYl9zOE16LVpiNWpXRWxBZVk5b3dxRUVHWlUtNTNqeC1IemdjejdReUZhX0labTlWbjBLV2ZNQUNGdWFSdzZPU2FNUFVianYxN1gyZjBhXzk5WWtOUTVtOVNiei1pTTN2N2ZvdDdTQ3JFMG1fRmJtVzZUMnJZU0NMT3Z5UjNrWGZnN3Btd9IBpwFBVV95cUxNNjZTOV9WbXlUZV9mNUZmcnVOMmJoejRwTlcwN2JWNTNaSDZWUlJGcXRJekJNZTVJQi1kcng5Y3k1WWdhZzBackVFcGVYMUR1d0tsX3lzQ05FWUd3TDhpRi0xTlJWQTQtNUVQRTJfM3IwdVdlU2JwSFc3S1NhR1JsdzJJQWs0b2h2SjNVWUc5ZndreTFPTU9ManY2bFhpZ0JsSmtWQzI5bw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "c2add9c28bd2f9290cf8",
-      "leader": "saleng",
-      "date": "2025-01-12T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Tura MP calls for activation of Baljek Airport - NENow.in",
-      "summary": "Meghalaya: Tura MP calls for activation of Baljek Airport NENow.in",
-      "source": "Northeast Now",
-      "reported_source": "NENow.in",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ3JNVHhSXzJ6U0VoNzlCaGVKZGtUQ25LdlJFYl9zOE16LVpiNWpXRWxBZVk5b3dxRUVHWlUtNTNqeC1IemdjejdReUZhX0labTlWbjBLV2ZNQUNGdWFSdzZPU2FNUFVianYxN1gyZjBhXzk5WWtOUTVtOVNiei1pTTN2N2ZvdDdTQ3JFMG1fRmJtVzZUMnJZU0NMT3Z5UjNrWGZnN3Btd9IBpwFBVV95cUxNNjZTOV9WbXlUZV9mNUZmcnVOMmJoejRwTlcwN2JWNTNaSDZWUlJGcXRJekJNZTVJQi1kcng5Y3k1WWdhZzBackVFcGVYMUR1d0tsX3lzQ05FWUd3TDhpRi0xTlJWQTQtNUVQRTJfM3IwdVdlU2JwSFc3S1NhR1JsdzJJQWs0b2h2SjNVWUc5ZndreTFPTU9ManY2bFhpZ0JsSmtWQzI5bw?oc=5",
       "primary": false
     }
   ]
