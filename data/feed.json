@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-10T07:26:34.023200+00:00",
+  "generated_at": "2026-11-11T02:45:43.343513+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "7442bb79788d75d784dd",
+      "leader": "saleng",
+      "date": "2026-11-11T00:37:17+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Conrad defends tribal-only GHADC polls - The Shillong Times",
+      "summary": "Conrad defends tribal-only GHADC polls The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFlWZ1VzaHVFVXlCM3llSTRSRGt0YVR2NW13aGVGWXpZTzdEWXZvT0RFQTRmdjRPUGRrdEpiRjhSVFNCRW84dzl1SVdGeGVCLVVsYUx1THdPaVBJaDhNc3JxMVZ1VjdHSzZGeDBBSzc0V0t0cFVCOW9vS3ZyeWMwUExVXzFNUQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "04ddf1ee91e777425a72",
+      "leader": "mukul",
+      "date": "2026-11-10T15:58:30+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NE NOW NEWS, Author at NorthEast Now - Page 5947 of 5980 - NE NOW",
+      "summary": "NE NOW NEWS, Author at NorthEast Now - Page 5947 of 5980 NE NOW",
+      "source": "Northeast Now",
+      "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HQmJ1cWh0NllaY1RVMzFEX0NKNngxTWh3UXZIcDQteGNzenJrTFA0M0gxYnBpcTJEa2ZDSXVlcjNaNkxxMWc3bXdoWWlrdVk?oc=5",
+      "primary": false
+    },
     {
       "id": "68492a17e0a85569141c",
       "leader": "saleng",
@@ -95,6 +125,21 @@
     {
       "id": "436dd0be75e6b17ed7f9",
       "leader": "ardent",
+      "date": "2026-11-10T00:45:03+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Several MLAs, MDCs keen to join BJP, claims Rikman Momin - The Shillong Times",
+      "summary": "Several MLAs, MDCs keen to join BJP, claims Rikman Momin The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcnp5RUdtYnV2cW81azZXQWZzRm1RNl9ZWDRINjN5UzVaeFZDcFhnOTVtUElmNV9Fa0xVc1F5aDRJdm9rU3ViUTZ5eC0tLTVHaUQzcDJSN2ZwMlktSjVtaTFTV2YyQlVfVnZpeDdLZlVSaE5zLXNrT2lGQmVSVTVFN0ItdjVwUENEVXJ2MF8xcVJpVjN6TS1VenFzVQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "ac7bb78d6d704999a968",
+      "leader": "mukul",
       "date": "2026-11-10T00:45:03+00:00",
       "type": "news",
       "category": "News",
@@ -210,6 +255,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdnFFd01HRlp6S1I0YTZhX3VtdjVmbFM4SWFlb2FkVWtDVU10Ny1xZC1DTjZKdWJNOVhGdWJKQnZrSVl2czlKOVhFa3IxTVR3YUNDdnhEU3VtNFh4dGIwOUdRVHNwYldxWV9mS1RhcDc?oc=5",
+      "primary": false
+    },
+    {
+      "id": "1f9c3c166c1622e9631b",
+      "leader": "saleng",
+      "date": "2026-11-09T00:31:25+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "HNYF threatens to stop Litfest at Ward’s Lake - The Shillong Times",
+      "summary": "HNYF threatens to stop Litfest at Ward’s Lake The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTBDdjlzZHVsQWUyOFQ3ZWxTUnhlc3htMnNITUUxeXdFLXBudkRJUnFXTWtFOG9KdGliX0x3V29KY0xrWWIzUkxwMGZLc0JtWG4tUHo5TV93OVFCZ1p0SUZENmVmeXNfWTlLZjNQMjhTekpHRjY5RC1HWHpSRWY4WEM4ajc0TmgyMXd0QzZR?oc=5",
       "primary": false
     },
     {
@@ -510,21 +570,6 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Wc1hJMVI0blQ2WEhMaHIxUjIxeUlxOHd3azRfWW9hX1JNN0hpb1BhLTdWMEFGVS1IbmJkaDJrMDZQVlNzUkpuQnh5RTFRSVhBRGk3ZWJreU9BWHB5T2djWVhn?oc=5",
-      "primary": true
-    },
-    {
-      "id": "bbe5d99ff8c4a83453c4",
-      "leader": "ardent",
-      "date": "2026-11-06T11:45:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya - Meghalaya Government Portal",
-      "summary": "Meghalaya Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwaE5hQUhpRTdueFJMOWw1NUlnc2FZbG5NNjY3a2doQzZjcUJBV2NUWnRhZmxRbVprRkJib0tTWHdDWk9Sc1NpeVFDbFZKZFItaFoycU84NHU2LVgxU0VWNVBNcld6ZjhYQzVxSVZJVUZfakU?oc=5",
       "primary": true
     },
     {
@@ -5156,7 +5201,7 @@
     {
       "id": "5505e52b8f020bc33a7f",
       "leader": "mukul",
-      "date": "2026-08-26T06:37:00+00:00",
+      "date": "2026-08-26T07:00:00+00:00",
       "type": "news",
       "category": "News",
       "title": "Mukul Sangma backs uranium resolution, calls for firm follow-up with Centre - Hub News",
@@ -7444,51 +7489,6 @@
       "source_domain": "meghalayachronicle.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XWHAyaVh5VzhEUV94Mi1xVnhMT1pYVlFTUTF5cS1JOTlHVWNYeGpybm1aN1EtQnNqeDIweXJIS2hfTEJEZGttRm43cEhWRzNrSWtaU0xiZk9jRE1oOUE4?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d49edb789aeb3c4314db",
-      "leader": "saleng",
-      "date": "2025-02-23T11:44:55+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "State Archives - Page 267 of 715 - Meghalaya Monitor",
-      "summary": "State Archives - Page 267 of 715 Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9idHpwNjhqOGVXd0NuS0FMZEl1dVpOT0thYzd5NzJmVWJjNkZ3VzYzOWlkeWJIYlRfT2c4cWp1cjdmRFQxLV9KZmtJVkUxbThMek1RNWRmTldoRE02UExmZlFDYw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "dcdaddc9468ee5b909fc",
-      "leader": "ardent",
-      "date": "2025-02-17T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "‘Ardent good at campaigning but unable to debate in Assembly’ - Highland Post",
-      "summary": "‘Ardent good at campaigning but unable to debate in Assembly’ Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVZHLUkzNnduOFNqRFFPUzdVOEFBWklKUE5yQ1lkS3dmU1E3UGxfWkd1QWtmSkFLVGUydjVvRjVvTVREVEZqXzIxLTdSalVYaURmWEFTNGthc2RQLVY3WUxMZElFZGdVLXJnUk9WempEMVZHOHNKQ3FtbzFtQlFaUy1URE5kZF9jc1hmZFZR?oc=5",
-      "primary": false
-    },
-    {
-      "id": "649af941ee719c202a60",
-      "leader": "bernard",
-      "date": "2025-01-31T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "BJP Meghalaya urges Rajnath Singh to part with defence land in Shillong - Highland Post",
-      "summary": "BJP Meghalaya urges Rajnath Singh to part with defence land in Shillong Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNUowT3locUpsbXU0a2lkQWZsRlBBeHhJd3pVRnZUanh5Q0lHV2VfSlpxMFZKWFA2YXZUMTU4MHBWd0E4blZaTkx6Zzh3Y2tESjZnYjljcmt0MUFsTUkzcEhQeFF4eWM0UmZmWDk2ejVCTDFFbTlYbkJ3WExIME4zUHVCOGJDaDNpYnRMQXp1U3A2eVFRekN3YkhsejJkQQ?oc=5",
       "primary": false
     }
   ]
