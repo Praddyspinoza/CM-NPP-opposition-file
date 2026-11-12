@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:47:17.043101+00:00",
+  "generated_at": "2026-11-12T07:20:23.397850+00:00",
   "status": "updated",
   "items": [
     {
@@ -63,6 +63,21 @@
       "primary": false
     },
     {
+      "id": "6a0e17fd74b473b80ae5",
+      "leader": "mukul",
+      "date": "2026-11-11T02:51:44+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 22876 - The Shillong Times",
+      "summary": "Established 1945 | Page 22876 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WbUQ5SmFhWjlSUjdpbTQzdTF6MjV6Y1JDNVV5c2o4UXJmaktJZ1Z0ZDFMY0JDRGZTbDZoakdqdFpNa1JRUXNoNXJVdXhYenlCbWhfcEdxRllXdEk?oc=5",
+      "primary": false
+    },
+    {
       "id": "7442bb79788d75d784dd",
       "leader": "saleng",
       "date": "2026-11-11T00:37:17+00:00",
@@ -105,6 +120,21 @@
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HQmJ1cWh0NllaY1RVMzFEX0NKNngxTWh3UXZIcDQteGNzenJrTFA0M0gxYnBpcTJEa2ZDSXVlcjNaNkxxMWc3bXdoWWlrdVk?oc=5",
+      "primary": false
+    },
+    {
+      "id": "fb03c8bd3793f176287f",
+      "leader": "mukul",
+      "date": "2026-11-10T08:23:40+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 22404 - The Shillong Times",
+      "summary": "Established 1945 | Page 22404 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54emJVU3Z1UHVHN1g1NlZ2aXZmNjlzSmx3ZjloQkxHQ3g1SW53TlE5YTcxZ1pQazJ6NllXWV9IQ0NEa2Q5U19LZHhjSXlFZ1ROdUZsMlRPWHdKVVE?oc=5",
       "primary": false
     },
     {
@@ -4482,6 +4512,21 @@
       "primary": false
     },
     {
+      "id": "6af2e1740dec61616572",
+      "leader": "ardent",
+      "date": "2026-09-21T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP questions 15-department load on IAS officer - The Shillong Times",
+      "summary": "VPP questions 15-department load on IAS officer The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWc5ODZXTjVmQ0FVMlBWNXdtUUZKTG9qQUhuMlhQVm9IdFEyLWFLdW5PYkxFdjQ4NVJmRm1UMjV0b1phZ0hjUUl5TkhMT2ticHFjM1Zmd016VzBxMi1fWnVhNkowc3VWQ2dtdHNhT1BiamgxUnQyM0NsRU1MSGZVTU4xZ0JvU0NBVEoxY19BRUc3Zw?oc=5",
+      "primary": false
+    },
+    {
       "id": "6b6c13fd6061832d0c81",
       "leader": "ardent",
       "date": "2026-09-20T07:00:00+00:00",
@@ -5509,6 +5554,21 @@
       "source_domain": "meghalayamonitor.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wTWZpZ1V3S00zWXJNR0JHaUNDSGRZTlRIUDhqOVhpblRBdlNmOC01Vk1UOS1RYnpLMFFuYS1nbm5SNmtMV2VxRWVubkFTTEJjbHlMYnp1bFdkc0hhc0trYXB2bWNhdXF2cDhmTVRqaVJJSHBweTBWUg?oc=5",
+      "primary": false
+    },
+    {
+      "id": "2fda30f340820bc5559f",
+      "leader": "mukul",
+      "date": "2026-08-10T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "FCRA could cripple welfare organisations, warns Mukul - The Shillong Times",
+      "summary": "FCRA could cripple welfare organisations, warns Mukul The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ3lqazNNaHRvYkFPa05KRHBidVBBeVR6MnRmeExjVTBEaE5IcklRdjJweUNMVGhMR2FpVnhPTG9EdENwMlBXa3YtMWlZSGNGd3J1MGFjTDdMS0hqRUxHTzJ1RXF2LWc1SW5GYldOZmpMb2IxeDM2UmJRckRwbFJ6OHpNQVpZRXZSMldteGp3SXM0QkZ3elhYbQ?oc=5",
       "primary": false
     },
     {
@@ -7430,66 +7490,6 @@
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fMWZhS2VqU1YtOXFDekZSdlJjcnJxc1JXSXhaeWZ5R3BOMndYRkJ1NDJpbzZWT2xvUmVNZW5rYXlDWGpfQnNxOENVV1M3TVJXM1hHamRJNUgxUWRKUU1adVFOcUJwbW8x?oc=5",
       "primary": false
-    },
-    {
-      "id": "3d3b852a0dc4dca05dc3",
-      "leader": "mukul",
-      "date": "2025-04-05T16:02:22+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Sniawbhalang Dhar - EastMojo",
-      "summary": "Sniawbhalang Dhar EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQnNRNnpYeXY2WW91c1ZPeU9hZk5mNVNfdV9FMXozcGMtZlVMaFhfelhjcVJ5QmJmbGc0Yk9NcTdmQ3AxdzZ0WmlnWnlicktfUktNNk53?oc=5",
-      "primary": false
-    },
-    {
-      "id": "e0df32dc8a337b88d008",
-      "leader": "saleng",
-      "date": "2025-04-04T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "GOVERNMENT OF INDIA MINISTRY OF HEALTH AND FAMILY WELFARE DEPARTMENT OF HEALTH AND FAMILY WELFARE LOK SABHA UNSTARRED QUESTION N - Digital Sansad",
-      "summary": "GOVERNMENT OF INDIA MINISTRY OF HEALTH AND FAMILY WELFARE DEPARTMENT OF HEALTH AND FAMILY WELFARE LOK SABHA UNSTARRED QUESTION N Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVltQXFtOThjQlFHaHN2NWV6YVFKcURCbm8weDl3a2ZBZ1BLcUlTSGdnSFpaSzRIcDlmMFdFb3lrM193M2tKcVRMQzBOZUtDZ19HbDVaUnl5dEFRZWR1TW5MU2dtSXBjUmdzUzB2ajhaSi1HQXZfdGxGVl91V05leUgzbHpoYWRna2M1eA?oc=5",
-      "primary": true
-    },
-    {
-      "id": "128d24593ba622949883",
-      "leader": "saleng",
-      "date": "2025-04-03T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "LOK SABHA DEBATES - Digital Sansad",
-      "summary": "LOK SABHA DEBATES Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFB0T19GOUZBTzZqTkh0djgxRTNXcXZ1STBndVoteEtadGdYX2tyU3RTZUt0ZVhuM1lVTXRDWmVMNE9JUnNHSnR4LThFbHZxT2R4V0VUWFk5c2JtVkRxLUxxendkMDJrMDVvSUo3dmF6bndkZ01OZkI2ZzYyQlgwLWJWVGo1Vkk?oc=5",
-      "primary": true
-    },
-    {
-      "id": "39ff86fb42a6e0927035",
-      "leader": "saleng",
-      "date": "2025-03-28T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "LOK SABHA DEBATES - Digital Sansad",
-      "summary": "LOK SABHA DEBATES Digital Sansad",
-      "source": "Sansad",
-      "reported_source": "Digital Sansad",
-      "source_domain": "sansad.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzZsYmpobUdHT3dzemtzbGRMLThvaXZNU2NYREk2eHVUNmhuMWt1MFRuMm5qVFVHWE9aMUFLallKZEh4S1UtN0wwdEJxUm9GczRTSVhSS0pEU201WmZuR0QzVmtMTnE1WkZKcUNpZFNPeEF6MDNLdHpPTTBzckhjUFU3WlFoLW8?oc=5",
-      "primary": true
     }
   ]
 }
