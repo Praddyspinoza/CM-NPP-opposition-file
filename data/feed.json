@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-11T06:36:54.548068+00:00",
+  "generated_at": "2026-11-12T03:47:17.043101+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "d781b7923fc3083e62ce",
+      "leader": "mukul",
+      "date": "2026-11-11T18:46:38+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 22814 - The Shillong Times",
+      "summary": "Established 1945 | Page 22814 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKQzdDMm1mVHk4TjNEN2E5ancwZnNJVHhPYWNNcnVReHlULWlWcEtjamdfUVpucDRCRE9iY3Z5RXVFLU1kWVd2OHUtSzFqNXpNcXRiOHdUTzVOaFE?oc=5",
+      "primary": false
+    },
+    {
+      "id": "ab56bbd6f979bdf8c5e1",
+      "leader": "bernard",
+      "date": "2026-11-11T15:17:57+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya marks 50 years of Wangala festival with 1,000 drums and 3,000 dancers - India Today NE",
+      "summary": "Meghalaya marks 50 years of Wangala festival with 1,000 drums and 3,000 dancers India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2ZLbE4xQ2o4TndjajAzTExvNmtJY1gyTnE5Y2xnUUR2SEttZHFEQ2didlQ5bXdYS0VVcjU1QWZzeU1Sd1M2b0RZQXIwTHEwYTVXT0pEX1QtaUFvVlFnOVg2SGpkcEVybXh5SWtDMURpcXBuTnN0ZkVhZlY4ZEhPblNPTGFsZ3JWUElaSGdxSk84YzQtRGNTWHZ0OVlUOXVNcVlOZzRaekNuMi16aE4zUnF1bkJhOEFHaGNiaHhzTmdjNTZtcV9aN0pMVU42YlpDMzM4Q1dUNlJRdDZH0gHcAUFVX3lxTFB3ZktsTjFDajhOd2NqMDNMTG82a0ljWDJOcTljbGdRRHZIS21kcURDZ2J2VDltd1hLRVVyNTVBZnN5TVJ3UzZvRFlBcjBMcTBhNVdPSkRfVC1pQW9WUWc5WDZIamRwRXJteHlJa0MxRGlxcG5Oc3RmRWFmVjhkSE9uU09MYWxnclZQSVpIZ3FKTzhjNC1EY1NYdnQ5WVQ5dU1xWU5nNFp6Q24yLXpoTjNScXVuQmE4QUdoY2JoeHNOZ2M1Nm1xX1o3SkxVTjZiWkMzMzhDV1Q2UlF0Nkc?oc=5",
+      "primary": false
+    },
     {
       "id": "cfa97f5c7dac41420720",
       "leader": "mukul",
@@ -20,7 +50,7 @@
     {
       "id": "a11e1ebf7c9c1eae3b06",
       "leader": "bernard",
-      "date": "2026-11-11T03:13:02+00:00",
+      "date": "2026-11-11T03:13:59+00:00",
       "type": "news",
       "category": "News",
       "title": "Teachers of Kasturba Gandhi Balika Vidyalayas without salary for 3 months - Meghalaya Monitor",
@@ -45,6 +75,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFlWZ1VzaHVFVXlCM3llSTRSRGt0YVR2NW13aGVGWXpZTzdEWXZvT0RFQTRmdjRPUGRrdEpiRjhSVFNCRW84dzl1SVdGeGVCLVVsYUx1THdPaVBJaDhNc3JxMVZ1VjdHSzZGeDBBSzc0V0t0cFVCOW9vS3ZyeWMwUExVXzFNUQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "b197ec330ab879498626",
+      "leader": "saleng",
+      "date": "2026-11-10T23:13:21+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NE NOW NEWS, Author at NorthEast Now - Page 5822 of 5980 - NE NOW",
+      "summary": "NE NOW NEWS, Author at NorthEast Now - Page 5822 of 5980 NE NOW",
+      "source": "Northeast Now",
+      "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16RkE4ZkY2VEdrTTZpbUMzT3VGZ3RDQXF0a1I2a3BFeUp1dV8teUFNbm9vR2NjWk8tc0ItTjg2YVV0Y0pyV3pJMGpHMnBaOWc?oc=5",
       "primary": false
     },
     {
@@ -586,21 +631,6 @@
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONGh4STRQaHZwbXZqYXFQQ1EwMnkwa0lZQTlVc21xcVgwR2hLcGVwc1Q1aUdXUThob2h0Wkw2Vk0zVzBncVczX3E2XzA1NnhrRG55MDZlUlpERFpER1JoRWprQmtfVHF3cE1mRXpUbU94VVBwVXhxYjR1Yk5jby1kWFkxcVdjejUtRXB6ZzI3LVZuVkNCUGRMcmFtZlBtUlpYY0RHdFZQNWtob2t2YzJaSlpLaF93XzFERHV3RGhpV01VUlNQVGVQMl9WZkJpeVltSjZMVzRINXM1bFRtcDB6Nm80RFV4d3FnbWo0VVFPRnBvZw?oc=5",
       "primary": false
-    },
-    {
-      "id": "7632ad4775481e48f4ee",
-      "leader": "mukul",
-      "date": "2026-11-06T11:45:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members of Meghalaya Legislative Assembly - Meghalaya Government Portal",
-      "summary": "Members of Meghalaya Legislative Assembly Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Wc1hJMVI0blQ2WEhMaHIxUjIxeUlxOHd3azRfWW9hX1JNN0hpb1BhLTdWMEFGVS1IbmJkaDJrMDZQVlNzUkpuQnh5RTFRSVhBRGk3ZWJreU9BWHB5T2djWVhn?oc=5",
-      "primary": true
     },
     {
       "id": "cd0c969ba316a37dfe2e",
@@ -4767,6 +4797,21 @@
       "primary": false
     },
     {
+      "id": "5ce6ac33ca669b0af28b",
+      "leader": "ardent",
+      "date": "2026-08-31T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP firm on cancellation of Shree Cement project - The Shillong Times",
+      "summary": "VPP firm on cancellation of Shree Cement project The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3h3MnJIRG1fYlJ1TjZmamRJVnhrbzJETXVDYTU3U0NXQXpVWDc5dzNfb19zWFNRc3JKZTdsNnVhQ0VEcG5mYXBTZzlfM190cWNWMExuWG5OdUNlYWp2dk9fRFQ4VUJyVDM3X3hDR2Y0UXBBRDhDdVNuVExGbzY2QzRFMEJfTVlmLTZ2d3M5QU5kWkk?oc=5",
+      "primary": false
+    },
+    {
       "id": "d810d97d90b9ce4085f4",
       "leader": "mukul",
       "date": "2026-08-30T07:00:00+00:00",
@@ -7445,51 +7490,6 @@
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzZsYmpobUdHT3dzemtzbGRMLThvaXZNU2NYREk2eHVUNmhuMWt1MFRuMm5qVFVHWE9aMUFLallKZEh4S1UtN0wwdEJxUm9GczRTSVhSS0pEU201WmZuR0QzVmtMTnE1WkZKcUNpZFNPeEF6MDNLdHpPTTBzckhjUFU3WlFoLW8?oc=5",
       "primary": true
-    },
-    {
-      "id": "e85f49043b28d978b6f3",
-      "leader": "mukul",
-      "date": "2025-03-17T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Whose political scarf to wear?: Mukul says ‘Weighing all options” - Highland Post",
-      "summary": "Whose political scarf to wear?: Mukul says ‘Weighing all options” Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUVIQ056aVBSanN3TGItVDl0aGhlTVlfX3JzeG1nTWJhMFBXWFdrT2VNX3pZNjRaTVJ3Y3dOWlFxNU5rUmJESUwzRXFxNkFGTU5RbFFxMEx6enVYcE01c2w4c3h1ZUZXamE2RnJmNjlsdDhUWkgyNF9jb2lsbHBVS1JTOEF6S2Y4MGFZWUYxa2s?oc=5",
-      "primary": false
-    },
-    {
-      "id": "f8a0a8197610b083e226",
-      "leader": "mukul",
-      "date": "2025-03-07T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Local fish production up 5 times since 2011 but State still facing shortfall - Highland Post",
-      "summary": "Local fish production up 5 times since 2011 but State still facing shortfall Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmM1UVJSYXhsWmRvM1ZVaTgzN3dBcGZSUDB4ZmlDQldPamFtYTJGQzB4TEpEQlI1R3BTQ0pLWmtJR0lWcjhUOGhQaTJtMDNIelgtcFZkbGp4LUV2ZERxTE0ycXV6WkJFeGN5dFlXUnhaaTBtR2JKMll2anFuNndUdVRqRTMxTy1DckZTcWtUcXBFQ0JNUWI4UFNCbXVPeWpEcUdVVA?oc=5",
-      "primary": false
-    },
-    {
-      "id": "4409fa4d2b724db03432",
-      "leader": "mukul",
-      "date": "2025-03-06T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Demand for winter capital: Govt understands people’s aspiration; Mukul withdraw resolution, says ‘I can read in between the lines…’ - Hub News",
-      "summary": "Demand for winter capital: Govt understands people’s aspiration; Mukul withdraw resolution, says ‘I can read in between the lines…’ Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT0NzMDdRLUxWbVI0OThOUnRrRW12NWRFSGtXeGNMb1FDRzUteENNVndVZUptWDRqR01xWUh5LS1wbDREbXgyZkFGbUtSS0xmb2labkZ3U2lVckJ2WWlmaWw3bmpraGltZEJpYURVTVFJVGJNUWRQMHVxQ2l4WDM5S19XajNRenF5bGg5UEF1eWFacTlNTVpuaWlBR2k5V0NUS2tjZDJBNmdLZklnX2MyUGJka0xna0pKU2FSZmlBNzNGSTlmSzduQ0RZY2o1VEVSeUtLLVpsRGVkdDNFbm9RSw?oc=5",
-      "primary": false
     }
   ]
 }
