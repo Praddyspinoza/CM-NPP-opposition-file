@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:20:23.397850+00:00",
+  "generated_at": "2026-11-13T03:24:33.953173+00:00",
   "status": "updated",
   "items": [
     {
@@ -135,6 +135,36 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54emJVU3Z1UHVHN1g1NlZ2aXZmNjlzSmx3ZjloQkxHQ3g1SW53TlE5YTcxZ1pQazJ6NllXWV9IQ0NEa2Q5U19LZHhjSXlFZ1ROdUZsMlRPWHdKVVE?oc=5",
+      "primary": false
+    },
+    {
+      "id": "18f5e6b3c65be8882313",
+      "leader": "saleng",
+      "date": "2026-11-10T07:17:37+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "The Shillong Times - The Shillong Times",
+      "summary": "The Shillong Times The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16b1psa3ZQVHFQTEZzQndBTHQ1U3ZzRUpyUTYtTnk0dU9FbVU0cC1TNTQ5d1B1TWRBbmtDVE9zVDRKQnIxa2VvWVpFLWd2cTVwc1QtZzhYclhQOTViOTFaZ09SYXFmU3lwd1ExZnliakc?oc=5",
+      "primary": false
+    },
+    {
+      "id": "99ac41e2256b44f8bc69",
+      "leader": "saleng",
+      "date": "2026-11-10T05:51:17+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 36349 - The Shillong Times",
+      "summary": "Established 1945 | Page 36349 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95LTRQdXJBeUdvaURiMU9zXzBGanB6TXgzcGhFNzdoU1ptLTRHSU4wRUJxYWQxWXp2ekhsTXNVZFpFR2dzOFY4SUdkcDliVS05?oc=5",
       "primary": false
     },
     {
@@ -1098,6 +1128,36 @@
       "primary": false
     },
     {
+      "id": "5f3383f21768b6c3acf7",
+      "leader": "mukul",
+      "date": "2026-10-29T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Influx, border issues pose challenge for State: LoP - Highland Post",
+      "summary": "Influx, border issues pose challenge for State: LoP Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVFla0hwemJiOEl2ZndQai1qamhfT2xvRUozYUZOVGhSTUw0eHFVUjVJUVVfT2FPbk5YRDBkZXRDNkJ2aXcxTnZEMUVpM0R1ZE9pUGJWaUxiQmtZR0lFWWNreW9hUHBoVG12bGUyTUE5eW9zNUpTZzJvQWZnVU5oaw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "f8369e234f6b33bf5e42",
+      "leader": "mukul",
+      "date": "2026-10-29T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Mukul dares govt to end ‘drama’ of coal investigations - The Shillong Times",
+      "summary": "Mukul dares govt to end ‘drama’ of coal investigations The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVVmTV92eFJNMUtabzJleHVjbm1JMjd1SHBaX1JMVjRrLXpmV2pGQlFkLWItQzhLVkt5UmJXbm9LSVV6aWp5NFE4ZGNCVVFrOU94YU4wNDdiRFY1UndWa2kwbFpUWGxtdlZHaTFvbzB5SmV4M3VWYkh2NTlBZDVjYU5zeFJ0dFMtUDhPRGJLaF9lS1RxbFM0Yw?oc=5",
+      "primary": false
+    },
+    {
       "id": "954e48bc2b35f0423f1b",
       "leader": "mukul",
       "date": "2026-10-29T03:23:19+00:00",
@@ -1188,21 +1248,6 @@
       "primary": false
     },
     {
-      "id": "5f3383f21768b6c3acf7",
-      "leader": "mukul",
-      "date": "2026-10-29T02:35:08+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Influx, border issues pose challenge for State: LoP - Highland Post",
-      "summary": "Influx, border issues pose challenge for State: LoP Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVFla0hwemJiOEl2ZndQai1qamhfT2xvRUozYUZOVGhSTUw0eHFVUjVJUVVfT2FPbk5YRDBkZXRDNkJ2aXcxTnZEMUVpM0R1ZE9pUGJWaUxiQmtZR0lFWWNreW9hUHBoVG12bGUyTUE5eW9zNUpTZzJvQWZnVU5oaw?oc=5",
-      "primary": false
-    },
-    {
       "id": "45ead33dce87e069198f",
       "leader": "mukul",
       "date": "2026-10-29T00:22:29+00:00",
@@ -1230,21 +1275,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdXM0X3RZWkJwVnlIMXZwWjNiTkt3dkRSaTlISkp6U3k2S1dSYTh4UzdsVmJqZjRFZncxbEtkS1Z4TmFENXBpb0p1RzVJOXI2M3BGMGRUT2c3bVZyY3hYYWt5Z0o5R1hqV0ctWk9fQ3dkRDdPRHhKYTVOd055bzhzbDFTUXNTYll0LVNNSWdpeFJaQklCaVl0S29R?oc=5",
-      "primary": false
-    },
-    {
-      "id": "f8369e234f6b33bf5e42",
-      "leader": "mukul",
-      "date": "2026-10-29T00:22:22+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul dares govt to end ‘drama’ of coal investigations - The Shillong Times",
-      "summary": "Mukul dares govt to end ‘drama’ of coal investigations The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVVmTV92eFJNMUtabzJleHVjbm1JMjd1SHBaX1JMVjRrLXpmV2pGQlFkLWItQzhLVkt5UmJXbm9LSVV6aWp5NFE4ZGNCVVFrOU94YU4wNDdiRFY1UndWa2kwbFpUWGxtdlZHaTFvbzB5SmV4M3VWYkh2NTlBZDVjYU5zeFJ0dFMtUDhPRGJLaF9lS1RxbFM0Yw?oc=5",
       "primary": false
     },
     {
@@ -2990,7 +3020,7 @@
     {
       "id": "5fb3e64ef135ee837de1",
       "leader": "bernard",
-      "date": "2026-10-12T04:12:14+00:00",
+      "date": "2026-10-12T07:00:00+00:00",
       "type": "news",
       "category": "News",
       "title": "GHADC-ni constituency-rangko sualpiltaiani bidingo Tura MDC sing·doa - The Shillong Times",
@@ -3000,6 +3030,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUENUQmN3OWdPY0dhYXY4Sk5vN2JVY1RjcWswUmFXY2d2a3Ytc1BzMVF6MDlhNEJad3pGSUhCSmN1ckhQb0MxTkx1TXRGdWNwMDNEbldJYzNnLXpaRHZib0hoSzdnYVZwVnRUTEJMWEM5MUNOakdwVnp3dlVkeklDYk12NURTOUIyb0VvLVYteXhJcUZ2bDJDSHRyNksxSEhWTWJOOWkyQTh1QTdRZVdOR215ajU?oc=5",
+      "primary": false
+    },
+    {
+      "id": "155a55e2786b1444957a",
+      "leader": "bernard",
+      "date": "2026-10-12T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Bernard questions GHADC delimitation process - The Shillong Times",
+      "summary": "Bernard questions GHADC delimitation process The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOem9XdTBJcE1DblBHSjZBNHBaLVdBQXlwMFpSU3QwNklrU09vSkxiakVsMXI3dnl1azBhZkFjMm1ub25EZl9ibG40RnNzU1NLSUhkekRkQ0JabTYteG0tdFc0SUhLMTB2SzNLTm1xRVB6T2dLb0Z0RlhTamY2UjlJejhEOUUwQU12UTAzNmhB?oc=5",
       "primary": false
     },
     {
@@ -3165,21 +3210,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXEwVTJfcG8zanpoQUJsYmZtVGxXeUpqZXFVeHUxT184dmo4eTRSRmwwejdWVFBBLVBmdi1KX2pMclVmWk9QU2lpS3pvdzQtU0t1d3lRc2ExbG05dU9JTXVwTUFPYTNLMzA0U1JMVkkwWG9KRUVUQjhJTG5OelhJNHVxbFE5Rm5NdXc?oc=5",
-      "primary": false
-    },
-    {
-      "id": "155a55e2786b1444957a",
-      "leader": "bernard",
-      "date": "2026-10-12T00:29:29+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Bernard questions GHADC delimitation process - The Shillong Times",
-      "summary": "Bernard questions GHADC delimitation process The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOem9XdTBJcE1DblBHSjZBNHBaLVdBQXlwMFpSU3QwNklrU09vSkxiakVsMXI3dnl1azBhZkFjMm1ub25EZl9ibG40RnNzU1NLSUhkekRkQ0JabTYteG0tdFc0SUhLMTB2SzNLTm1xRVB6T2dLb0Z0RlhTamY2UjlJejhEOUUwQU12UTAzNmhB?oc=5",
       "primary": false
     },
     {
@@ -4749,6 +4779,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaUx3Qnk1dkVQdmVjWEJhVEw0UVdiOWlpUzFjN2hJRTNkMWV0Wlp0b0tvY1VTdGRBdmhVdlA0YV9fRndHbHlCb0kwZjVsOUp0b2RueHdSYl9uVUx2eURMN05DanhFaXFTUVlueHhxemR3cjBuU1ZZYTZkbWlnMTFpWEY3RXZRYmc?oc=5",
+      "primary": false
+    },
+    {
+      "id": "7a0f30ee425899cb7b44",
+      "leader": "ardent",
+      "date": "2026-09-10T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya has fallen into debt trap, says VPP chief - The Shillong Times",
+      "summary": "Meghalaya has fallen into debt trap, says VPP chief The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZEpBVzJpOWs0SmFZakpTbXdMT0tlbnE3dW5FSk93cVJzbnFsY3JJZHUzSnJmSzE5cUNXcUxpUDNSTXludmhSOXh5bi1VcWVrM2EwZ3V1djJxNHVVTXpCNUxOd1k4SGtxX3RUT2JReXFCLVI2czVKOEU0eU9NS3VLZEVuSFZ6eWdrZVZxREVfQjVacGluMmc?oc=5",
       "primary": false
     },
     {
@@ -6802,6 +6847,21 @@
       "primary": false
     },
     {
+      "id": "afbac4cd60c5b9cff8e9",
+      "leader": "saleng",
+      "date": "2025-09-10T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya MP calls for higher wages, better support for Anganwadi workers - India Today NE",
+      "summary": "Meghalaya MP calls for higher wages, better support for Anganwadi workers India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGxqMzlJYnZBeDJBbVF0ZXFwY2k0bmRveDhONjVlQVg1UUhRS0N5TzBRQlNVdm9tUGF1WHZmRnhRMVQwQi0tSGEyVThUOGhGa1A3dmN1ZEFlUHVIWl9DeDhSUU44N0hScU5XNDA1NnZYY0JJeWl2aU9KcmVnMEFGUGdSV2hIQmpLandvWnljeFBYZ0p1OE9GN3h5RzN2NWY5UDFzUHhOaV9xa3h2S2Yxa3Rhc2pESVE2ek81cXd6VURkMExVNGdwM19Ua09YYlBT0gHWAUFVX3lxTFBpRm42MGUtVElOZmJPOHVxanNVUUREcUZEQ3BUVVJ6S1p0TkFRTS1CM1hPc1hfX05LOXRTT1YwUzRXQWVnR0tDMFVlbER5WnZnV0UtY241dk5XT0JsNHFILVpzYmcyYlZoU1BPdHNoZmF1QWNodnNHYWFtczZKNTlMcmdjeUwzeUliUHpkVHNSdkdhMEpPR3NTR01wMU1RRHBmcEFEQzhNRElzS3JVSW5rMGoxdE5Cc2VFSTdDQzhUN1FPRzlZWUJxcHI5YjJoNTMyc1prcUE?oc=5",
+      "primary": false
+    },
+    {
       "id": "745b4893cd0645831a0a",
       "leader": "mukul",
       "date": "2025-09-08T07:00:00+00:00",
@@ -7429,66 +7489,6 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRFUwWVpaendBbklxZnlrYzJOSXNPcWptVjFVRTJPNzlvZDg2WmU1T1VMU2pkY0E4bTI0aUpCdDlwMEdPVTVFWm5QQXRaTWR2X3VwMFFDamtwQ2JpalA1b0dVejVPb1E?oc=5",
-      "primary": false
-    },
-    {
-      "id": "aa42623514bc572412e7",
-      "leader": "mukul",
-      "date": "2025-04-08T01:30:07+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Prestone Tynsong - EastMojo",
-      "summary": "Prestone Tynsong EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1SnZ6TXdiYjJkd1dlRmN5SmNKWURvYmFxalZRdDBmQlQ2R21pTm96UDRyaXFkOEpQLXc4MzJ2M3pOcElsTDVFQmNVMWQzVDRuMXBOcg?oc=5",
-      "primary": false
-    },
-    {
-      "id": "1fc7be0d40c2f4bc1e1c",
-      "leader": "mukul",
-      "date": "2025-04-07T20:33:15+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Dr Mukul Sangma - EastMojo",
-      "summary": "Dr Mukul Sangma EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qY1VBaHA4XzVSb256WFcxNmF3UXRoeTB3dGEwSVAtZzhTLW53Y0VaWU1tcGQwa2ZDU0ZQQjg1ekhPWHZXaGRHMEtveTZpQWlxTGRn?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d8df155ee8fd14501c3a",
-      "leader": "bernard",
-      "date": "2025-04-07T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Tura MDC writes to PM for World War 1 Cenotaph reconstruction - Meghalaya Monitor",
-      "summary": "Tura MDC writes to PM for World War 1 Cenotaph reconstruction Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3puYXZjTklKbnd1YkxVeDFYYkFKSWZGUEk5aGl5Uk1uUVFDZXNTNk1wTWFfZURaa2p2cWJ6eDM5ZjNaUmM3cmpfSUl1NzVzQll6WUJrdmJ0YkJRQ0JpaS1qUFJlbmUwTlZDNE1sOERBMkZQYW5Xc0w2aVhxRElrYzVKdWJVZmR0Sk1CNnJEV3d0TzFULVE?oc=5",
-      "primary": false
-    },
-    {
-      "id": "dca8cdf6a011020e4eb9",
-      "leader": "bernard",
-      "date": "2025-04-05T19:31:42+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya elections 2023 - Page 8 of 8 - EastMojo",
-      "summary": "Meghalaya elections 2023 - Page 8 of 8 EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fMWZhS2VqU1YtOXFDekZSdlJjcnJxc1JXSXhaeWZ5R3BOMndYRkJ1NDJpbzZWT2xvUmVNZW5rYXlDWGpfQnNxOENVV1M3TVJXM1hHamRJNUgxUWRKUU1adVFOcUJwbW8x?oc=5",
       "primary": false
     }
   ]
