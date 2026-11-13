@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-13T03:24:33.953173+00:00",
+  "generated_at": "2026-11-13T06:53:36.747319+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "490539402e132320fc2b",
+      "leader": "saleng",
+      "date": "2026-11-12T15:47:07+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NE NOW NEWS, Author at NorthEast Now - Page 5924 of 5984 - NE NOW",
+      "summary": "NE NOW NEWS, Author at NorthEast Now - Page 5924 of 5984 NE NOW",
+      "source": "Northeast Now",
+      "reported_source": "NE NOW",
+      "source_domain": "nenow.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdDdrb0VBakpyclJGLXhjM0tlaHAwTDN6Q0dJQVhKY1FfMjJxMFYybDdaZnRtU0l4WE1qb0JjU2dXQVY4QWZEMFg1eDFIZDA?oc=5",
+      "primary": false
+    },
     {
       "id": "d781b7923fc3083e62ce",
       "leader": "mukul",
@@ -360,6 +375,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEhuWXE1Mi13WjE0V3VFZkNDTGhPbGFZMlA0c2FKUGFJTEI5X2NYZ1dFRHpzdllNRDhqTUZYb3RUUHU4dTlhdk53bUhUWHJzVk1DSFdpdy15QW9yaFFmaTZlRkV1a1FuR0NaVDRGT3dqelR2aWZYYzgyQ08wcEJTN1hoRVRFTlhzX3k2Q2JHNUs3RlNQUjZ6M3dOU2NpNlZCMndfOW9BR25Wdw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "422925023a66517fdef4",
+      "leader": "mukul",
+      "date": "2026-11-10T00:16:25+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Established 1945 | Page 36829 - The Shillong Times",
+      "summary": "Established 1945 | Page 36829 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peGFQUmdXSnZaSFhNbDFNa2oyRTZ6alBwbmlHaGswRjhFS01GazVlMkVBdHd0cVhQTTgzSXJxTW9jemQxbU5uV3poTmlxbXZRZnRSWWlnLTkzbldUVnF3NkJ0dkYyNVE?oc=5",
       "primary": false
     },
     {
@@ -3468,6 +3498,21 @@
       "primary": false
     },
     {
+      "id": "f39a89ccebb9ec510f3d",
+      "leader": "mukul",
+      "date": "2026-10-09T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Child’s death reflects govt’s misplaced priorities: Mukul - The Shillong Times",
+      "summary": "Child’s death reflects govt’s misplaced priorities: Mukul The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVdkeW5DbzlhU1R5eFJ4WjIyOWZsY0VzR1Q4S0xQR2RRQTl1WnM0TVM0alVwbGwyZHFhVXNmeDhzS2ZweFBTQWEzckhiZ0lCN2pJYmNtN2JpdU93UmJPVE83aUVNMXAwNjBpaDN4Qk5oZjI0M3ZqeGlqaXRfOEhYZklsQXRGMlBEa0lmOTlQSmNMS1BFREdpeWZGWQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "fb9028acd7c668ff5a4e",
       "leader": "mukul",
       "date": "2026-10-09T06:19:23+00:00",
@@ -3555,21 +3600,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVJLMzlxRzFlbzRwaEtTNEN4U2JnTGlWZHJ6d0xjTk5VcTFva1huZDNjUGZTcTBEa3YxYmJVMW1CVHJsVEt2V0NWeEg1RjMzUDRteFpfUi1wVU9od1l4dzFLUDhRNkZIa1hVd3NEdUVCaWN2SUtsYXpfemg1WF90cDZBMnRWNHJnRmdtTjV5TVhKWWd2bmNzMFF5OGVBUFM2cHBvd3d1NDNUZ3R0cmc?oc=5",
-      "primary": false
-    },
-    {
-      "id": "f39a89ccebb9ec510f3d",
-      "leader": "mukul",
-      "date": "2026-10-09T00:14:10+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Child’s death reflects govt’s misplaced priorities: Mukul - The Shillong Times",
-      "summary": "Child’s death reflects govt’s misplaced priorities: Mukul The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVdkeW5DbzlhU1R5eFJ4WjIyOWZsY0VzR1Q4S0xQR2RRQTl1WnM0TVM0alVwbGwyZHFhVXNmeDhzS2ZweFBTQWEzckhiZ0lCN2pJYmNtN2JpdU93UmJPVE83aUVNMXAwNjBpaDN4Qk5oZjI0M3ZqeGlqaXRfOEhYZklsQXRGMlBEa0lmOTlQSmNMS1BFREdpeWZGWQ?oc=5",
       "primary": false
     },
     {
@@ -3875,7 +3905,7 @@
     {
       "id": "eb5adca77c5d23658a68",
       "leader": "saleng",
-      "date": "2026-10-06T14:56:26+00:00",
+      "date": "2026-10-06T07:00:00+00:00",
       "type": "news",
       "category": "News",
       "title": "Seeking foreign intervention on FCRA is violation of India’s sovereignty: Meghalaya CM - Hub News",
@@ -6637,6 +6667,21 @@
       "primary": false
     },
     {
+      "id": "4b8cdc74121900d5c8af",
+      "leader": "bernard",
+      "date": "2025-11-22T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Sardar Vallabhbhai Patel-ko mande ra·ani bak gita Tura-o Unity March-ko ong·ata - Hub News",
+      "summary": "Sardar Vallabhbhai Patel-ko mande ra·ani bak gita Tura-o Unity March-ko ong·ata Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY202U0Z1UUFYNGdQTmhINjN3R285NzZiRDJlUGdRYUJOMW9PNjNvTGFCV3V4dkFOYk1KX0g0ZXZ5ajVtbEJnRDlHU0pYUG5ZbEwyYXZXM3R3MVBwZU1XV3lqLU43MEtCTjl1U0lBcDBFZlBKcGIweVZKTVFZVHFESUhka19wZ01LMXFTX2ZEUWhfdjJaY19ONlBpZGZhcE5kUlFBQmJBQ25kS2QyMDI4cnF3?oc=5",
+      "primary": false
+    },
+    {
       "id": "315f5f2a316085a2fbc4",
       "leader": "saleng",
       "date": "2025-11-21T06:35:19+00:00",
@@ -7444,51 +7489,6 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OQnFxVm1GSEN1NjlhQlVYWmlxdldmRFQ3QkhlRFdpdWtfeHRjakhqR3pwYlhKcVQ4OHExUVBMRXBrUEtvQkF4ajFQZFJXOWtyanJxZ2czcmhWRWpyMm1KTGFzcXJTWDA3akZhTS1n?oc=5",
-      "primary": false
-    },
-    {
-      "id": "ea2a4e35056ac37c67ab",
-      "leader": "mukul",
-      "date": "2025-04-10T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Hostel for Northeast students, but no rooms for them: The Barak Hostel in JNU - EastMojo",
-      "summary": "Hostel for Northeast students, but no rooms for them: The Barak Hostel in JNU EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnZBdW5na0ZBbVF4aFFOZmFfUElSbURBbHZ3QURnSW1nUmxrUURvQjRjdlBiUjdCS2RadHNDdS1qQml0UC1RSXdRNjMweXQybF9yVDJnd3BxZXdGMk9Ycm5OSVd2QndUclhZME0yVEtCdVRZVG41ZVVoeURfSGNlSnBtNlRENkNuM2tHMTVqTWlhZWZuUi1GQjIzSy0xRm1pYnZXQXdwbEwtT0RTTzVRN0FhOA?oc=5",
-      "primary": false
-    },
-    {
-      "id": "db71990d5c7f047b20da",
-      "leader": "bernard",
-      "date": "2025-04-09T12:03:35+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "scholarship - EastMojo",
-      "summary": "scholarship EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hakEtVi11a1RSQXlTeU0wQTJWRURMZTFLRlpPNGZ6dzdOcFYyRFFSQXNWX0ZUbjUtdXM5MHJDaHhmdDZTSmlnUWlhLWNsdw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "a290229dd39f4726fc04",
-      "leader": "mukul",
-      "date": "2025-04-08T14:38:44+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya Legislative Assembly - EastMojo",
-      "summary": "Meghalaya Legislative Assembly EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRFUwWVpaendBbklxZnlrYzJOSXNPcWptVjFVRTJPNzlvZDg2WmU1T1VMU2pkY0E4bTI0aUpCdDlwMEdPVTVFWm5QQXRaTWR2X3VwMFFDamtwQ2JpalA1b0dVejVPb1E?oc=5",
       "primary": false
     }
   ]
