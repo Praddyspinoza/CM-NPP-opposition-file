@@ -1,7 +1,52 @@
 {
-  "generated_at": "2026-11-13T06:53:36.747319+00:00",
+  "generated_at": "2026-11-14T03:10:54.688135+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "d9bff01bbbc5598575f2",
+      "leader": "ardent",
+      "date": "2026-11-13T19:09:38+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Don’t suppress women-led agitation against ropeway, VPP warns govt - The Shillong Times",
+      "summary": "Don’t suppress women-led agitation against ropeway, VPP warns govt The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNk1lMmtiOWNaSm85VnpsQzh2UXpIMUpnWkFSSmJkWVhoWXF2Rkt2M2x6U2tjR0lqd2cxaFRFSzVQbWNGY0w3a3YwMUtYMThYMXhwNjcwUk45RGtqSUFnZnZuWTFlLWJPSEF1MUxtZ2NTNEEzYmoyb0ppbkllckE2R1hyTXJyTkVWbjI1YjlEbTdGLTB5Q29DeWdveW84czRSRmtfMDUzYl8?oc=5",
+      "primary": false
+    },
+    {
+      "id": "2734753c613fb66ba5f0",
+      "leader": "bernard",
+      "date": "2026-11-13T16:26:38+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya News: Latest Meghalaya News, Meghalaya Today News Headlines and Live Updates - The Indian Express",
+      "summary": "Meghalaya News: Latest Meghalaya News, Meghalaya Today News Headlines and Live Updates The Indian Express",
+      "source": "Indian Express",
+      "reported_source": "The Indian Express",
+      "source_domain": "indianexpress.com",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kM1JaYlkxa1c4cHVTWDQtTUM5Y2xRR1lKYlNPTHFPYk1hbk5MNzRTQWd3QUtmMVA2MEtqLTFNcHpYbkRfaXV2VVBCZzRUWjlsNDVKTFkzS2NIQ3N6VVExbHNxQUlUaThPYzZlVnlB?oc=5",
+      "primary": false
+    },
+    {
+      "id": "96d699cd7cb4275de0f3",
+      "leader": "mukul",
+      "date": "2026-11-12T18:45:49+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Garo Hills groups press Governor on ILP, border, language - Highland Post",
+      "summary": "Garo Hills groups press Governor on ILP, border, language Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXVzazVLSTR1RVljWXhnSkV0MEl1enNqNU5NeTNrdlVnSnhEXzBfNXA1M0w5aGVrbUFlZ01kQ1NSQVpVdnQ2dzBCNm12aHJMNWtwS3l1dUJoamZuRUlhc1FZdEljOXVPaDFBSGI4YUZuVE1CMTlkc0hsMlZyU2tTR2dyTzRWR3Vf?oc=5",
+      "primary": false
+    },
     {
       "id": "490539402e132320fc2b",
       "leader": "saleng",
@@ -3513,6 +3558,21 @@
       "primary": false
     },
     {
+      "id": "400adeae3321c2e634cd",
+      "leader": "mukul",
+      "date": "2026-10-09T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Mukul rules out joining BJP, says he’s with ‘original TMC’ - The Shillong Times",
+      "summary": "Mukul rules out joining BJP, says he’s with ‘original TMC’ The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGpvSW1ZR2lMNzY0N3p1d2N5SmVFbkFta25tcU1ST3prRFRhYkh2WE5rTWJPbTBvWU1jQi1HN2o5U0pnOVRUZmtsVjBKTHZmZFBMOTNLUnNqdEk3S0xnaF9JYWJTaVVCS1dFYmg1dERaMmNRY1d3dks3dm9Fekl5LUF5MkxPVW5OOEZOLTJodExNUFdDazQzem92OA?oc=5",
+      "primary": false
+    },
+    {
       "id": "fb9028acd7c668ff5a4e",
       "leader": "mukul",
       "date": "2026-10-09T06:19:23+00:00",
@@ -3525,21 +3585,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9obWxvS25TSE9RVkQ2ck9DQnlzbWljY0JoeGM0N2NCMTJZYkNlRDJPZVhDcnNCVFhqOHI1TDlOVTc1Q0swMzM4WGF1Rm5uX19yVUQ1bEhLVUM2Y09oRkQ1QUhMVHZncHhxT1RF?oc=5",
-      "primary": false
-    },
-    {
-      "id": "400adeae3321c2e634cd",
-      "leader": "mukul",
-      "date": "2026-10-09T00:30:49+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul rules out joining BJP, says he’s with ‘original TMC’ - The Shillong Times",
-      "summary": "Mukul rules out joining BJP, says he’s with ‘original TMC’ The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGpvSW1ZR2lMNzY0N3p1d2N5SmVFbkFta25tcU1ST3prRFRhYkh2WE5rTWJPbTBvWU1jQi1HN2o5U0pnOVRUZmtsVjBKTHZmZFBMOTNLUnNqdEk3S0xnaF9JYWJTaVVCS1dFYmg1dERaMmNRY1d3dks3dm9Fekl5LUF5MkxPVW5OOEZOLTJodExNUFdDazQzem92OA?oc=5",
       "primary": false
     },
     {
@@ -7444,51 +7489,6 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWN1owZ0dMTEFCUHRfNnhCeFR5eEQ3X1prV05oeDJPR0s2X0h0SGVMY3JiQkh2Vk5SUmlHUXJidVJ6MGtBdF95REg0UUNjOHM?oc=5",
-      "primary": false
-    },
-    {
-      "id": "0893cecafb9d35552e66",
-      "leader": "mukul",
-      "date": "2025-04-12T13:18:06+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya elections 2023 - EastMojo",
-      "summary": "Meghalaya elections 2023 EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0M0djRjBYLXYyLThlUnlHaHBpazU5YTM5WEdQeGJSNnRUZGlJTlREUnVrSjFHQ2dUemFCWXNzbGNkcVgyTm11NHNCM0xsYTUwUWtSbU8xRGdqRWE1SjZN?oc=5",
-      "primary": false
-    },
-    {
-      "id": "04dfe7d1fc574ba6a1cf",
-      "leader": "bernard",
-      "date": "2025-04-11T17:08:29+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Bahae Dey - EastMojo",
-      "summary": "Bahae Dey EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RVGJWWE9WRFpyQ0h5Nk54Z19BTnJOZFctVlR6dGF0b2xhUmVQNWZjdjlRZDU3RGd6U25jbjlINGRjV3lYdXoyS0dsei1FVk1QY29JbmgteTltdw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "835f91e94e6f1a2800fd",
-      "leader": "bernard",
-      "date": "2025-04-10T11:07:40+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya’s West Garo Hills district - EastMojo",
-      "summary": "Meghalaya’s West Garo Hills district EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OQnFxVm1GSEN1NjlhQlVYWmlxdldmRFQ3QkhlRFdpdWtfeHRjakhqR3pwYlhKcVQ4OHExUVBMRXBrUEtvQkF4ajFQZFJXOWtyanJxZ2czcmhWRWpyMm1KTGFzcXJTWDA3akZhTS1n?oc=5",
       "primary": false
     }
   ]
