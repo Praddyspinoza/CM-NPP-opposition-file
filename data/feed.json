@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:10:54.688135+00:00",
+  "generated_at": "2026-11-14T06:35:56.772810+00:00",
   "status": "updated",
   "items": [
     {
@@ -1775,7 +1775,7 @@
     {
       "id": "78e837987918f86571b6",
       "leader": "saleng",
-      "date": "2026-10-26T15:01:53+00:00",
+      "date": "2026-10-26T07:00:00+00:00",
       "type": "news",
       "category": "News",
       "title": "KSU turns up heat on Meghalaya govt, pushes for NEIGRIHMS jobs and MRSSA implementation - India Today NE",
@@ -4827,6 +4827,21 @@
       "primary": true
     },
     {
+      "id": "c57568292292e89b34d5",
+      "leader": "mukul",
+      "date": "2026-09-10T10:34:32+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Circulars/Office Orders/Notifications - Meghalaya Government Portal",
+      "summary": "Circulars/Office Orders/Notifications Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqemtaNTZrMUhrMHR0emNKM19qcUl5QWFKeWp3Z1F1SDVLbVFDQ3RUNkFBTVpZUWowbVVYVUFSM1BGRjZnNFpTWjZEdEhrSEJ5S1ZSdWt3?oc=5",
+      "primary": true
+    },
+    {
       "id": "079b56a8339ef28ce02c",
       "leader": "ardent",
       "date": "2026-09-10T07:00:00+00:00",
@@ -7474,21 +7489,6 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nTWw4dTlYQXcxNUpLdGpVd0k0QlExLTFQUU1UbW9aUERKeU5XZks5bEpON3UyV3R2TEdvclFKbV9pR1U5ejYzMGpndnotVEl4Um0wVHpjcFllellLR1dGbzg5RDQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "622f22076d5c7b62f766",
-      "leader": "bernard",
-      "date": "2025-04-13T11:25:37+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Power supply - EastMojo",
-      "summary": "Power supply EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWN1owZ0dMTEFCUHRfNnhCeFR5eEQ3X1prV05oeDJPR0s2X0h0SGVMY3JiQkh2Vk5SUmlHUXJidVJ6MGtBdF95REg0UUNjOHM?oc=5",
       "primary": false
     }
   ]
