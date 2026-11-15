@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:37:26.511990+00:00",
+  "generated_at": "2026-11-15T06:42:48.628781+00:00",
   "status": "updated",
   "items": [
     {
@@ -165,6 +165,21 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GOG9oNFhuLWVoRDg0WWM0YjdMYmM4d2lqM3QxNko3YWZSNEZSaUlPdGJ2Y0ptMUdnalMyNU81RlZzcGNUVzQzb1NVZmZUR0dibzhz?oc=5",
+      "primary": true
+    },
+    {
+      "id": "64a4f6fcba1b71158f5c",
+      "leader": "saleng",
+      "date": "2026-11-12T11:08:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Shri. Saleng A. Sangma - Meghalaya Government Portal",
+      "summary": "Shri. Saleng A. Sangma Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QaEJFOUxqUUY2S3JYYUlMLWZ5Umt6ZFdhYUR4SUZQWVl3RFg5cml4NWl1SHdSaDVNQlZfWTE5TWh3aWsxTGFOTGw4VQ?oc=5",
       "primary": true
     },
     {
@@ -558,6 +573,21 @@
       "primary": false
     },
     {
+      "id": "224a3c1b9530ba1915e5",
+      "leader": "bernard",
+      "date": "2026-11-10T00:31:57+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Govt to construct Rs 103-crore State Guest House at NST - The Shillong Times",
+      "summary": "Govt to construct Rs 103-crore State Guest House at NST The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2p5X2k0bks0bXBkWVRiSGNwdjZzRExKcnA4OHBEeHlMSktTSlJHYU0xRXAwS3hIZ3NnTkRiajJ1VmsyVnhuUHZUdXhJUUdRQkNDQm00Zm1ZUXJpU1R0bzdiR3o4R1BTZDhVLUt5bjV4UXJmY3pMajloSkk2VDlLOTJzU2lxSm1yaVlBbHRUbjM1anlGNDVoS1FVYnI?oc=5",
+      "primary": false
+    },
+    {
       "id": "f699497c63ac040f0604",
       "leader": "bernard",
       "date": "2026-11-10T00:31:04+00:00",
@@ -615,6 +645,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkUxZ3dzZFhsV3RCMDZMZnJXX1lTSlIxcVhXTzRHOHU3UXFBeVpQQlg5T3NTWFhhY0VPVEQ1Z2NBb01fbUp5WlNXV3owZ2hTNkZCODBrT0U4S3RQYVFxRFFnVjZsYjJwVEh0YmhhUFBTQUVkaHp4VFhkUjVtbWtvck5ValhVODNEM2RoWkRzQTRMOGZyMS0xVEJRcTNLbDlBaEZsdDN0NA?oc=5",
+      "primary": false
+    },
+    {
+      "id": "44a14f23d34c617fb8f3",
+      "leader": "bernard",
+      "date": "2026-11-10T00:17:33+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Eco-friendly Diwali celebration for underprivileged kids - The Shillong Times",
+      "summary": "Eco-friendly Diwali celebration for underprivileged kids The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTJPbFN5enluZFI0V0NXamNrMXZXRmVubE1tYmV1UG1fcFBMZS1XeVhTNWE1NFpVOGpFdUFNUmMwdjRmVFdER0diSEw1c2hINE9rYS0tR0paYjdtMFFoWm5weEhjS1lhUVVnQlRIZTNKRGtqQlNZOGZ4aXhOZGtiTklKQ0YxM3Z2TlJ1Q2Y0TDVVcGVFeHhmMDNHQXpEdXJMQVFDcENsYmRpazNKY1E?oc=5",
       "primary": false
     },
     {
@@ -7445,51 +7490,6 @@
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFFZMEhiTzgzeDJSNFdWOXczRVlmVVNwbjhjMklVdzBnZExOMTVSLUZqYnpOR19BQlA0RUpWNUZBUkdrWGROenBPS3RNTVZjdWZHZUI2b1FYTEVPUDk2N19XeWpuQkwwNjJ3ZkJKejd0UmhSbzNreV9iT3hEVkNNTjFDRzhfRDlOUDktNk92UFpSdEw5OTdB?oc=5",
       "primary": false
-    },
-    {
-      "id": "b5e569b0d3dbe06432fa",
-      "leader": "bernard",
-      "date": "2025-06-14T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "New office bearers for state BJP - Meghalaya Monitor",
-      "summary": "New office bearers for state BJP Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XMVR0VzNBZXRTbE1GTDY1bDVYUFVTMU9hRktEM0V3QzJEN0hldTg5d3M4d2Z1dUdCY0NVbV9JU3FCeVlhV3FNLVJIaVBwN0ExODZ2MXg0NFlrQ1NjTUYwTlNyemlJd25MblpIVlMtWQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "25c0bf95729a0290b449",
-      "leader": "bernard",
-      "date": "2025-06-10T16:59:51+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "NPP - EastMojo",
-      "summary": "NPP EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxRWdyQ0xPWEtkbVlTLWRaU2FrWDROV3dqS292V3VuazRPZ0xvNlQ4WjFNM0NmNm9kcWRZUHVRLTRJa3c?oc=5",
-      "primary": false
-    },
-    {
-      "id": "fbacfb0b3384298b14af",
-      "leader": "saleng",
-      "date": "2025-06-09T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Tura MP, Saleng Sangma hosts DISHA Meet in North Garo Hills - Meghalaya Government Portal",
-      "summary": "Tura MP, Saleng Sangma hosts DISHA Meet in North Garo Hills Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMklnUVlfQmloeVZVdlJ4RVRqTlJ4bVBBanIwcFBFMGlnb01LRmVXb2pkZnZsMWVFTFRINFF6eElpWDR2TE1NcUcySHlEdmNzWTRlQ0h1Vmp1NF9kazFxaHRSbTkyVExVQ01YNlZ5NURsMHNRbkxBS3hqbWhkWVlRLUUwdXNfYmhwQklFeFNBcS1wTGFhbGhlWHF2ZHZZZmozOFE?oc=5",
-      "primary": true
     }
   ]
 }
