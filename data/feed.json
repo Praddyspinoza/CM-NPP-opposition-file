@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:43:11.736647+00:00",
+  "generated_at": "2026-11-16T06:41:30.171736+00:00",
   "status": "updated",
   "items": [
     {
@@ -2313,6 +2313,21 @@
       "primary": false
     },
     {
+      "id": "d2abd8666a881c93868c",
+      "leader": "ardent",
+      "date": "2026-10-24T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP backs deficit teachers’ demands - The Shillong Times",
+      "summary": "VPP backs deficit teachers’ demands The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjFRZUdKQUJOM2lOVWZZRmlybHYxekZBeWUyU05oYzRPNkktTnROVEVMazZDNFFWak53alNXXy1wWmRBRjZIRWY1T2R5Y1RwNGJ4OUx0a1ROb1BzckdRVldzbFdyZ293YlBnNE9EUXhfRUYwYmZYbWVqbkVsNU43bQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "079d9f0d972bf6083e0f",
       "leader": "mukul",
       "date": "2026-10-23T19:27:11+00:00",
@@ -2325,21 +2340,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODctVWVjcThmMzgxRExZU3RWYUxucFNfcnFzMHF2UEpVS1FoWS1fWXFTcEJhSUkyN1FvdTV2QUgzY3E3X3ZqM2NnZlFFa1RuSjJSYWM0MTlDNGNLSFJFeGN1WnpCVFVUWTB6aG94TU55VFhOSWZhUE1LREI4Q2t0bUd3LWRwRW1BRTFlOE1HelJubF9VN2lfRC1MSDhIMTNKSTFVSHFkZw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d2abd8666a881c93868c",
-      "leader": "ardent",
-      "date": "2026-10-23T19:14:20+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "VPP backs deficit teachers’ demands - The Shillong Times",
-      "summary": "VPP backs deficit teachers’ demands The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjFRZUdKQUJOM2lOVWZZRmlybHYxekZBeWUyU05oYzRPNkktTnROVEVMazZDNFFWak53alNXXy1wWmRBRjZIRWY1T2R5Y1RwNGJ4OUx0a1ROb1BzckdRVldzbFdyZ293YlBnNE9EUXhfRUYwYmZYbWVqbkVsNU43bQ?oc=5",
       "primary": false
     },
     {
