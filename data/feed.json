@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-16T06:41:30.171736+00:00",
+  "generated_at": "2026-11-17T05:03:52.678010+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "f10b9ec2c12fe95c41d3",
+      "leader": "ardent",
+      "date": "2026-11-17T00:37:55+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "‘Termites, rotten fruits’: Prestone’s remarks on teachers spark outrage - The Shillong Times",
+      "summary": "‘Termites, rotten fruits’: Prestone’s remarks on teachers spark outrage The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYXc3OUJNR2NKRHR4SlJ0dFZiajM4LW05cW5TdGNYRDZwRGc4dmJHTHh5dTBCVTZNWFpWTTNDMFZISnRuc0Y2OTZLOHRETXVzam5PUHl4aThxU3hfajV4OThZanJqSURjSHhxdGNuMUZJMm9BMG53U3Z6anFVUFhETXB1R3hYc0p6SHlVVUZvTTNadW91Tk9Pbm55Nl9VOXBCMGZNQ21aYUxyVjQ?oc=5",
+      "primary": false
+    },
     {
       "id": "02ef94ec301522d535eb",
       "leader": "bernard",
@@ -135,21 +150,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNk1lMmtiOWNaSm85VnpsQzh2UXpIMUpnWkFSSmJkWVhoWXF2Rkt2M2x6U2tjR0lqd2cxaFRFSzVQbWNGY0w3a3YwMUtYMThYMXhwNjcwUk45RGtqSUFnZnZuWTFlLWJPSEF1MUxtZ2NTNEEzYmoyb0ppbkllckE2R1hyTXJyTkVWbjI1YjlEbTdGLTB5Q29DeWdveW84czRSRmtfMDUzYl8?oc=5",
-      "primary": false
-    },
-    {
-      "id": "2734753c613fb66ba5f0",
-      "leader": "bernard",
-      "date": "2026-11-13T16:26:38+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya News: Latest Meghalaya News, Meghalaya Today News Headlines and Live Updates - The Indian Express",
-      "summary": "Meghalaya News: Latest Meghalaya News, Meghalaya Today News Headlines and Live Updates The Indian Express",
-      "source": "Indian Express",
-      "reported_source": "The Indian Express",
-      "source_domain": "indianexpress.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kM1JaYlkxa1c4cHVTWDQtTUM5Y2xRR1lKYlNPTHFPYk1hbk5MNzRTQWd3QUtmMVA2MEtqLTFNcHpYbkRfaXV2VVBCZzRUWjlsNDVKTFkzS2NIQ3N6VVExbHNxQUlUaThPYzZlVnlB?oc=5",
       "primary": false
     },
     {
@@ -1098,6 +1098,21 @@
       "primary": false
     },
     {
+      "id": "8c9681b8e3b346c64cec",
+      "leader": "saleng",
+      "date": "2026-11-06T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Political realignments: NPP ‘desperate’, says Cong - The Shillong Times",
+      "summary": "Political realignments: NPP ‘desperate’, says Cong The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBhNU1hSWJWQ1JzdEsxTDF2WnZ6YWtTT3NQSkNxQWE3Uk0zUHd4OE5iTWVWa0VVdTNQZUZaNkVBMi0wMEFpbF9GVWFWVDJsYmZ5NnJGOERSRFE5Z0ZrVTVPVTc2Q3hNR1JxRk9KNDNpZ28zUzhpdUU3MUQ0eW9KekxEbldtWUV6WlFkTU0tUFQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "cd0c969ba316a37dfe2e",
       "leader": "saleng",
       "date": "2026-11-06T02:34:39+00:00",
@@ -1125,21 +1140,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXRoXzlMMHlhX1hyN3Q3ZEJobDN3VlRBRVZIeU1PMzZuWC1JTnNzbmNWWU9Dbm5ITHhBUlliWHlzblVOMkMxN1BUQnczdUNVZ3Z4UVRuMk1GYUkxWDZkcm9tUnYzUlhBMTl5bXptSHJWTXdiRDBtak9NY3FnbVFBeE5ldG9Kal9SSEdOdUZPVG5QXzY0MW1YUHJJSQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "8c9681b8e3b346c64cec",
-      "leader": "saleng",
-      "date": "2026-11-05T18:47:36+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Political realignments: NPP ‘desperate’, says Cong - The Shillong Times",
-      "summary": "Political realignments: NPP ‘desperate’, says Cong The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBhNU1hSWJWQ1JzdEsxTDF2WnZ6YWtTT3NQSkNxQWE3Uk0zUHd4OE5iTWVWa0VVdTNQZUZaNkVBMi0wMEFpbF9GVWFWVDJsYmZ5NnJGOERSRFE5Z0ZrVTVPVTc2Q3hNR1JxRk9KNDNpZ28zUzhpdUU3MUQ0eW9KekxEbldtWUV6WlFkTU0tUFQ?oc=5",
       "primary": false
     },
     {
@@ -2343,6 +2343,21 @@
       "primary": false
     },
     {
+      "id": "fd43d7d105d59b35901e",
+      "leader": "saleng",
+      "date": "2026-10-23T16:22:41+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Congress asks NEIGRIHMS to follow 80:20 female-male nurse ratio - Meghalaya Monitor",
+      "summary": "Congress asks NEIGRIHMS to follow 80:20 female-male nurse ratio Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGVFcm1jWGwwMW1vank3SEt3U2RtZzlKTHRsS1pPaTVqbm9ISDVKQTdDa3BUNFFHSzRvY1gtaFVMYmpGcWExZTdTczVLMjR0WGNJcS1pWlhTc1dkRUpYbkYtZUl1eENWeGZfRWdoamVwWkhHMTkwUmx6YzYzeE1YRjdjNE9xWVJuTFhSUWNRdVpNVmI5QkY0?oc=5",
+      "primary": false
+    },
+    {
       "id": "d7c991873ede544a89a3",
       "leader": "mukul",
       "date": "2026-10-23T08:03:49+00:00",
@@ -2370,21 +2385,6 @@
       "source_domain": "eastmojo.com",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWY1czUyelZYUUdNRFhjMlFiZ0h2MU1ZX1Z6Z2FfRVhHTnpaUDdIZjJMRGR6QnRiUHN1bER4eVZFT1h1MzJ1QkhaR3ByNVl0ZERnOW4tN2h5MGw5YXdRRmVULTJrdnlpUU1rOHNDZFRmQ3JGWTJJM1VLMFc1OU5CVU1IUGtxemVUV1BGUmI5MGEtaHVFLXpaMlVnbTFyekdiMTJsOEtMeDZocnF3T0xYYjlaNG05ZGtyUmwyakV4bVo?oc=5",
-      "primary": false
-    },
-    {
-      "id": "fd43d7d105d59b35901e",
-      "leader": "saleng",
-      "date": "2026-10-23T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Congress asks NEIGRIHMS to follow 80:20 female-male nurse ratio - Meghalaya Monitor",
-      "summary": "Congress asks NEIGRIHMS to follow 80:20 female-male nurse ratio Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGVFcm1jWGwwMW1vank3SEt3U2RtZzlKTHRsS1pPaTVqbm9ISDVKQTdDa3BUNFFHSzRvY1gtaFVMYmpGcWExZTdTczVLMjR0WGNJcS1pWlhTc1dkRUpYbkYtZUl1eENWeGZfRWdoamVwWkhHMTkwUmx6YzYzeE1YRjdjNE9xWVJuTFhSUWNRdVpNVmI5QkY0?oc=5",
       "primary": false
     },
     {
