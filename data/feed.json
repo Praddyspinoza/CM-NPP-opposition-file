@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-18T04:15:30.283551+00:00",
+  "generated_at": "2026-11-18T07:38:26.446530+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "b30851335d151d54785e",
+      "leader": "bernard",
+      "date": "2026-11-18T00:33:17+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Bus association to march to Secretariat today over vendor relocation row - The Shillong Times",
+      "summary": "Bus association to march to Secretariat today over vendor relocation row The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWRFLS1SZER5bldKSDVrZlZEUVloTXR4cXN1NlF4ZFBodW44TklfX29laG0tNC0tcjNvemtYY28zaUNsT2xyeFI5cWNtS3VyWjN6VWtoYWxlc3RhRVdIbDJYS1RxbDc1MmVrMU56LTZwUURMMjJ1OXpWazcyYWNEUkxFdVFsSkF1dGJxNlNWSFpDd1RLbDQwMDVFQVlyd2wySFBYV1VWUkpKZ0tOS2hEb1hTSQ?oc=5",
+      "primary": false
+    },
     {
       "id": "109734483ba641acb82d",
       "leader": "bernard",
@@ -15,6 +30,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkNQQkYzQ1Z2bW5jU3RvMTlPY0N6eDljR0VpZDRDc1Bqc3NZNVdQUUEydEtSUzZ2ejFyX1VSZllOYlBFOWNKMzJxRVlnOUdZWm9KeFhveXhzNjhMYjZvckQ1bGxmajlKdmx2eEZYVWFia015aGVnaXpCYWdCQWYtclAyc0tYa0huZ2hVRw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "1223566d37930a71953f",
+      "leader": "bernard",
+      "date": "2026-11-18T00:31:12+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NPP candidate remains unfazed by pol realignment ahead of Shillong LS bypoll - The Shillong Times",
+      "summary": "NPP candidate remains unfazed by pol realignment ahead of Shillong LS bypoll The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHoyb1JoMm9uUGFDMmR6WE1oYkJVRHFham5DWEZQWllmVW5vbVJjUWxPSXVKU2duUkwxRlEwOVJ5dDJBaHhwcUVoU255dXJITm9DalhSVzRIeGxUaG1ybER1eGxfZ2ltOTZvWld1d3hDRlhreHl3U3ZHRW9ZN1JuSUJhRmRIeEFfaktzMTFuTEMyMFRIaDhzMzdNUlp1czdqRFpja24xRmRrcEZKZHA4UnBxQmxBeElp?oc=5",
       "primary": false
     },
     {
@@ -1290,6 +1320,21 @@
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BWkcwcDlqZWdNTVd3LUI5eTREUnZsc1pjRVNSaWZGbE9nUVd6emlyZ1B1bVFMNVViTHJaS2UwMnh2UlB1Q3YyZ3I4RThKSHlNX1ZjOVpjUQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "b490b0946c3e41070df8",
+      "leader": "mukul",
+      "date": "2026-11-04T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "NPP did not poach, UDP MLAs joined on their own: CM counters Mukul - Hub News",
+      "summary": "NPP did not poach, UDP MLAs joined on their own: CM counters Mukul Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXoxbjNmQlk4S1RjTW1pZDRkenlLQVQzUl83UlQ0Zy1pdXk2ODdxMzh3R3FRcmZGajY2MEsyMEM4ckFnY254N0xtVmhBTlA2RlhTQkg1Ym92R09HSlRzaEszcFVkMGluSENNYm1aZmQ1YnV0TU53R2w1UzA5UHVnSjlWVjJUa2F0YWJrTGozaHc?oc=5",
       "primary": false
     },
     {
@@ -7444,51 +7489,6 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZERFU2F3ZlplZ1hGZ2l4UDBIdTVoUk1oOWtDenNPSXNRVlBvYUpNbXI4dkZ0eUNiOFZIQllWV3JDRS1XZEJGb1hOc1VzRXMybGd0WmdKU2xmSW0wRDlnZ2FfTWJXYTRheEJILVJOd0xLbUFSaXpFMlhFMkpsRWZVeU5FNUJGNzdld2E2eFlYMVNRNzlKWXhvN3owV3J1MkRIT2c1eEhTRFdBTnljTVlscElwaW9zVjQtYXJLRzc5eHhSWjcwclBkcW8tak9vVzFUcGNOcmNMLUdmSlZ1QldITTZzMDQzVm_SAewBQVVfeXFMTmlkcU45TVZGVWpRMWZBNEltVnBUTXRpUHJ1cDJvd05La0ltbHU2V25sZGFQMUl1bk5BUndCbkJzbjljNkFQS29Vc3FSVGtCc19jcEVSWUYxUHVUemRhdTM2OWFIMUVJTDVzeUg5UUZCMzVSWmZBcVBnVzFyTWZzMFRTNXo4OExkcUozTGd4ZC1PRXFOSEpwSFd6bjJ6NDJvMEs3RkhYSlFjUXdlWmZwMFI5SGtQdzZ0TFJ2WkxuX3Q2eDdGaG54N0d3Wlk0ckNkaGZ5S1VNc0dXcHFFQllWLTZ1aFFDN1BId3NoSzU?oc=5",
-      "primary": false
-    },
-    {
-      "id": "ea913a2143f5df5233e0",
-      "leader": "mukul",
-      "date": "2025-08-24T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Chairman to implement over Rs 100 cr central fund was CM: Mukul - Meghalaya Monitor",
-      "summary": "Chairman to implement over Rs 100 cr central fund was CM: Mukul Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2p1b1ZHQ245ajFxWkdQZlZKRW1lVjFVTmFjS1lyOERpcDN0WFB5YXB0Y29Md3hXSGZ4cmRtYjVETTIyRG1ISG1kSHgtdVluMUo2NXd3ak9wenlwSGd1X1Y0ZmZhdzNROUd6dE1RVVl2SXBYWXdodGNVSjlNUjlCc3U0dVgwLTBYMjg2ZnBkRkpXWFIxSVk0?oc=5",
-      "primary": false
-    },
-    {
-      "id": "a17979db07c275a386bf",
-      "leader": "mukul",
-      "date": "2025-08-23T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Rebel groups trying to recruit, confirms Meghalaya Police - EastMojo",
-      "summary": "Rebel groups trying to recruit, confirms Meghalaya Police EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0xFYXBRa2c0b2dsc1k0LVJsTEpzOU45Um9uZG1NQ3N6czVlZ1ZfYmZGTWRZWFdBejB6Qk9vLTR6c3gyMzdJdWNZV1JTNlpoZlItS1FNeGVpem1rdW5xTGpzX2g0YzdJdzR0S21MZXlNM2RhZGJvZVJOQk5nUFYzRmdDVUpzb1lhRUd5eEljeVNrWUdWQWR6LWFoRl90NHVJRGZ3?oc=5",
-      "primary": false
-    },
-    {
-      "id": "12d31d2e0fe6c4322385",
-      "leader": "ardent",
-      "date": "2025-08-20T12:39:01+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "MEGHALAYA - The Shillong Times",
-      "summary": "MEGHALAYA The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSUFBjNUNycjJtR3BkanMtT09oMGE0OTd2U2QxMlowVEstTlUtVDhpNHF2OHlGX3B3RUVaaFZOZDVGaHg4ZnF5eEZKS1kzYjR3V1Vxc3MzUQ?oc=5",
       "primary": false
     }
   ]
