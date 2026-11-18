@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-17T08:01:46.322881+00:00",
+  "generated_at": "2026-11-18T04:15:30.283551+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "109734483ba641acb82d",
+      "leader": "bernard",
+      "date": "2026-11-18T00:33:04+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Bernard takes Garo Hills issues to Governor - The Shillong Times",
+      "summary": "Bernard takes Garo Hills issues to Governor The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkNQQkYzQ1Z2bW5jU3RvMTlPY0N6eDljR0VpZDRDc1Bqc3NZNVdQUUEydEtSUzZ2ejFyX1VSZllOYlBFOWNKMzJxRVlnOUdZWm9KeFhveXhzNjhMYjZvckQ1bGxmajlKdmx2eEZYVWFia015aGVnaXpCYWdCQWYtclAyc0tYa0huZ2hVRw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "ea8bc2e249e4db632d7d",
+      "leader": "bernard",
+      "date": "2026-11-17T03:18:44+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Dingtang dingtang man·gnirangko on·china Tura MDC, CM-ko didia - The Shillong Times",
+      "summary": "Dingtang dingtang man·gnirangko on·china Tura MDC, CM-ko didia The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGNXaWxISTNZSzI1UEZ5dUpnN0RBVFhZRDZuWXV4TzU3MEcxZmRfRXJ2ZzdzaTFWUHVDQVJlZTI1MllSV3FNUGpmVGR1QVhXc2lremdLWEx4bV9TaUxJQWRyV2VPemkxbWNzWlk2TzAtR05lQTg2T29wekpOSS1mVmVJZlVMNXhMd1lyMVRxZG1ldDc0VEVSeHpkTXRXSl9uMWFGUlJWbExDbTN6cmxDamR3?oc=5",
+      "primary": false
+    },
     {
       "id": "f10b9ec2c12fe95c41d3",
       "leader": "ardent",
@@ -30,6 +60,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEJtZ0RCV2wzRGowdnEzdUhNQXM2eWFWRVRfVjJJb19NSjhraDVLc2NHUHRRckRQMmlHX1d3UVJmOEw1NjVSSUcyNXhMS0hTbkJIV3BhM194VThKQW9Idms0TDdJdzN4Y3ROZ0NGUTg0OVlNQlhoaUdGNzJUMkVrRm1vQXRTWEJtODFxc0QxT0otbXZiTm9GT2RyZy1mMExYQUFMRGNPQmRwVGYyZFZYd3Nn?oc=5",
+      "primary": false
+    },
+    {
+      "id": "4beafd6a26267e7b35cc",
+      "leader": "bernard",
+      "date": "2026-11-15T00:52:07+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "At this stall, every dish tells a story - The Shillong Times",
+      "summary": "At this stall, every dish tells a story The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX2dsb1lkTVFkclNYTVhsR3hXRmxUa2Y4YUVzaFdvaUJjZ3lOQUFEc1p1ekUydm9NRFJ5eW0wY2FOM2tjS25SeG5QQW1fUlhFOTRvU05wWFl1X2J1dndnM1ViX0FQSEY0WUc1b0RWWjRsSzVuWXA5QzdjMFA1anduYnBrVXVvUQ?oc=5",
       "primary": false
     },
     {
@@ -108,6 +153,36 @@
       "primary": false
     },
     {
+      "id": "f38cf0661bd32b4b9c6f",
+      "leader": "bernard",
+      "date": "2026-11-13T20:39:11+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Proof of allegations against PM on my phone, which he taps: Rahul - The Shillong Times",
+      "summary": "Proof of allegations against PM on my phone, which he taps: Rahul The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2dfZk9IdW10cW1lYjd1MDZVWjY0UVVzUVNPQkowTjgyMDRpaVJNR1JfamdGRUNEYzdYckdTa3I5NmNfVl8tbEdiSnIwSDZLem1IMXhxSGh1TEVPVGZXczdyLUIyYkFiUnZIQUEwUHpsVWNUNW90aGpsOVRJNU13RUIyWEE1YUtaOWMycUxKWGkxdHpTclc1aS1KTnVRT0hwaW5JNUdScw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "3e62e4463bcd01a489a9",
+      "leader": "bernard",
+      "date": "2026-11-13T20:38:12+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "PM inaugurates India’s first LED Dome Planetarium in Karnataka - The Shillong Times",
+      "summary": "PM inaugurates India’s first LED Dome Planetarium in Karnataka The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmFaVkJnZXJ2N2dNQ0h6WXJkLU90cDZGQzZtcHNzVGYxVVZnRnJWSXpEVjNodllnYVg3c19acnBTZE00NEVqR3R1Y2Z0SVNxVy1RaWhGbUhXWHlQRmVrdlBDeTR3TjdUcy14VnNZU0RGcHdIVHR2U3RGczhNSVdidGFXX0FYYzlqbDhKQ1VsZTJKcFJkZ1JMVjZFcVBveXhSYkItcQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "1d1e864804bef372edd5",
       "leader": "bernard",
       "date": "2026-11-13T20:37:05+00:00",
@@ -150,6 +225,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNk1lMmtiOWNaSm85VnpsQzh2UXpIMUpnWkFSSmJkWVhoWXF2Rkt2M2x6U2tjR0lqd2cxaFRFSzVQbWNGY0w3a3YwMUtYMThYMXhwNjcwUk45RGtqSUFnZnZuWTFlLWJPSEF1MUxtZ2NTNEEzYmoyb0ppbkllckE2R1hyTXJyTkVWbjI1YjlEbTdGLTB5Q29DeWdveW84czRSRmtfMDUzYl8?oc=5",
+      "primary": false
+    },
+    {
+      "id": "dce38cd3c1507af8e134",
+      "leader": "bernard",
+      "date": "2026-11-13T01:01:09+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Earlier PM said ‘sab changa si’, now it is ‘sab mehnga si’: Cong taunts govt over price rise - The Shillong Times",
+      "summary": "Earlier PM said ‘sab changa si’, now it is ‘sab mehnga si’: Cong taunts govt over price rise The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVZ0R1FqUXhKdkJrckhNaS1WaWRQZkRWSjEycVQxOUkzMGhYeUE3ekFVMW94SklMQ2dtWEFyUVlpcThIZTI0bFdJcnRONlBXR29GM0Q3UzdXZFkxMXBfZnVqVUk3R1RqOXZDOEZ3dTdvamo5QVlLcWxvWjRkdkoyVnpzZkNMMC03TXdBYUFJem5Qam93Q0Y3d1ZmRHRUUm5KcDNjMDF6eTlhVWVjZ1NSam8wNnFJY3RLdkY0Z1RKeG1aeHFJRlE?oc=5",
       "primary": false
     },
     {
@@ -196,21 +286,6 @@
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdDdrb0VBakpyclJGLXhjM0tlaHAwTDN6Q0dJQVhKY1FfMjJxMFYybDdaZnRtU0l4WE1qb0JjU2dXQVY4QWZEMFg1eDFIZDA?oc=5",
       "primary": false
-    },
-    {
-      "id": "33d2f944a97c983c0363",
-      "leader": "ardent",
-      "date": "2026-11-12T11:08:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members of Meghalaya Legislative Assembly - Meghalaya Government Portal",
-      "summary": "Members of Meghalaya Legislative Assembly Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GOG9oNFhuLWVoRDg0WWM0YjdMYmM4d2lqM3QxNko3YWZSNEZSaUlPdGJ2Y0ptMUdnalMyNU81RlZzcGNUVzQzb1NVZmZUR0dibzhz?oc=5",
-      "primary": true
     },
     {
       "id": "64a4f6fcba1b71158f5c",
@@ -1143,6 +1218,21 @@
       "primary": false
     },
     {
+      "id": "2056b4dca631606d1263",
+      "leader": "bernard",
+      "date": "2026-11-05T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Bernard raises ST scholarship issue with Centre - The Shillong Times",
+      "summary": "Bernard raises ST scholarship issue with Centre The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT25uREZldFBNWXBCVFhHSFpOWlNaUjBBUmVacDR5ZG1HRVBWdXRaMTZvMjcxZlBMdGotUmIyU0ZDUWt5NHB4X3hWclVRa2tFTWVEWTNGY0o5RUZKQVduVFhtT0M1dXZ2Tjc4Q1JDLXp3bjVqVHpTS29OUWl6Z3ExZTVEWGxWTG5VeWhLUWgwbTFoQQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "bc199478ef80a5b50389",
       "leader": "mukul",
       "date": "2026-11-04T19:26:20+00:00",
@@ -1170,21 +1260,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSHMtSm94SmVjWFV1czZEbDd3ZnlmNTdISUIzYi1jYU5EOGpraHpHc0FQYy1iVmtXeHprY04wMXY1Z0JYZUtkQWpyQkV2MUdZRl9pQWhYOVJYUFVBS2pwWWtTczFSSDdycklxZ25GcF8zcURZMHZOREJSSXg3ZmZOY01nTWZLa0NwOUxN?oc=5",
-      "primary": false
-    },
-    {
-      "id": "2056b4dca631606d1263",
-      "leader": "bernard",
-      "date": "2026-11-04T19:24:51+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Bernard raises ST scholarship issue with Centre - The Shillong Times",
-      "summary": "Bernard raises ST scholarship issue with Centre The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT25uREZldFBNWXBCVFhHSFpOWlNaUjBBUmVacDR5ZG1HRVBWdXRaMTZvMjcxZlBMdGotUmIyU0ZDUWt5NHB4X3hWclVRa2tFTWVEWTNGY0o5RUZKQVduVFhtT0M1dXZ2Tjc4Q1JDLXp3bjVqVHpTS29OUWl6Z3ExZTVEWGxWTG5VeWhLUWgwbTFoQQ?oc=5",
       "primary": false
     },
     {
@@ -5936,7 +6011,7 @@
     {
       "id": "770a4572d3048ead5626",
       "leader": "mukul",
-      "date": "2026-08-25T07:00:00+00:00",
+      "date": "2026-08-25T06:26:22+00:00",
       "type": "news",
       "category": "News",
       "title": "Meghalaya CM promises special study on high anaemia among pregnant women in East Garo Hills - Hub News",
@@ -7414,81 +7489,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSUFBjNUNycjJtR3BkanMtT09oMGE0OTd2U2QxMlowVEstTlUtVDhpNHF2OHlGX3B3RUVaaFZOZDVGaHg4ZnF5eEZKS1kzYjR3V1Vxc3MzUQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "69bee83e33e8ac9a6223",
-      "leader": "bernard",
-      "date": "2025-08-20T12:39:01+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "MEGHALAYA - The Shillong Times",
-      "summary": "MEGHALAYA The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSUFBjNUNycjJtR3BkanMtT09oMGE0OTd2U2QxMlowVEstTlUtVDhpNHF2OHlGX3B3RUVaaFZOZDVGaHg4ZnF5eEZKS1kzYjR3V1Vxc3MzUQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "05c2bf0851e9c86881f3",
-      "leader": "saleng",
-      "date": "2025-07-30T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "No Congress MLA left in Meghalaya after lone leader joins NPP - EastMojo",
-      "summary": "No Congress MLA left in Meghalaya after lone leader joins NPP EastMojo",
-      "source": "EastMojo",
-      "reported_source": "EastMojo",
-      "source_domain": "eastmojo.com",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUExNZFVhZFdWZ0RkNmRCUWxWdjVwZW95VEEyV3g4eHpPdGc4bHkxTFhmWWpjX2ZvUkZlLVRWNk9pNWZpRWQxRnZ6VGRGVjM5RzJHZGZ4VUtPajhtT25qN1Z5aVBSdTBwUHFMZ0lFSVYwNklVMkJhUFBGQUpNMXVvSTVWR2swdXZhR1A5VzhNSk85VXJhOVpqTFptSlpDZm5sc0xLM3lfQXJMUQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "32479c1336a830fa81be",
-      "leader": "ardent",
-      "date": "2025-07-23T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "KHADC team inspects Mawpat forest to protect land - Meghalaya Monitor",
-      "summary": "KHADC team inspects Mawpat forest to protect land Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2hFZ0hidGN5MnVRODVkODV3eXVManZvOUNTdVVONVZZQ2FCd3V2YkpDc2xEME4wdncyYV9jQ0NhUEdTTmRWSGMyMkFfUWRYYUN3Y2ZGcURsaGsxRU5yQmFXb0JJT3d3ZTloRUJDS2RCMXM0SmhVaXNBejNHTFJ2UWxmQUw2dw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d866e27d26c8177cfcca",
-      "leader": "mukul",
-      "date": "2025-07-22T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul joins rally in Kolkata to remember martyrs - Meghalaya Monitor",
-      "summary": "Mukul joins rally in Kolkata to remember martyrs Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVERWZkRyeFRZanctNjNOSldoWDJkWDR1MDdWc0tSdkk2TFdKQWp4UkdETTdRNGV0NnZnNTFveTBWeDMtQ3FKU3FhbTVINzZoYndrTDRfRFJVdllmSFY1X3ZvZEtjR3Z4ZTNaYVpFZi0yeU0xTU1EUnVwN3dpbG92WllyZVE?oc=5",
-      "primary": false
-    },
-    {
-      "id": "c7835993e322cf6262be",
-      "leader": "saleng",
-      "date": "2025-07-09T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "MP Saleng reviews central schemes in Ampati - Highland Post",
-      "summary": "MP Saleng reviews central schemes in Ampati Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EQW5iTDBlMGhNMjRTY01pV3BYeUhKRXluQlVHV0pPSnpGQzJLSUlzSldrcUhQNE5oUlVzVjBHVjRKcHhNbFQ3d2pFN1FPZWdTRGg5VVd2RU1iSld6d1JyRWFNTTcwWEZlWGNxYzBEdnY0T3QtMDhXSw?oc=5",
       "primary": false
     }
   ]
