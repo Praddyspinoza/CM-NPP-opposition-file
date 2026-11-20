@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-19T07:33:55.126551+00:00",
+  "generated_at": "2026-11-20T03:57:35.599930+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "e2f5dc636b708f032842",
+      "leader": "mukul",
+      "date": "2026-11-20T03:29:16+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Skigiparangni kosako agangipa kattarangna Tynsong kema bi·na nanga: Mukul - The Shillong Times",
+      "summary": "Skigiparangni kosako agangipa kattarangna Tynsong kema bi·na nanga: Mukul The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0ZsOXVpbEFoZ3dHZWZSN2RTSHNvLTVyUTFBeDBDbzZoQ1FLUU92QlBlUkxEdjZqcDRwelVLSnNFbTAxM2g0Z2RjZXJLVzJRc3dnRzlvbmlTREpaTnlqLVBuaTlRT0tXd1hQSU1LbFZIQ2Q1aGxxQ3VUS2p0bDJlYjA5Zzh4cjRPdTlOLXNGVXlZZE1GVHZKY2N1dWJiR1ViR09BSVdJOTE5enYtYTZBU3hrUjBob2E1bVE?oc=5",
+      "primary": false
+    },
+    {
+      "id": "68465c7ccb266c5dad01",
+      "leader": "ardent",
+      "date": "2026-11-20T03:26:01+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Tynsong-ko kam watchina VPP dabia - The Shillong Times",
+      "summary": "Tynsong-ko kam watchina VPP dabia The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wU0tXcFJTUlZZdE04ODlQZG5DRXZYOFRRYktxZm5Ja3kzcVl1X0k0cWExOExlUVp3eFRTNnZvbnNhRWNrZ2RLaWFxd283Ui13clBJeVFMd0ZEWWFZYkJNcmVzcy1JN2gwd1hUOXN1NnQwSHlvMVpLbDdzdzNlTWc?oc=5",
+      "primary": false
+    },
     {
       "id": "0a04527f4d5b5102ac4c",
       "leader": "bernard",
@@ -18,6 +48,21 @@
       "primary": false
     },
     {
+      "id": "2b94570ce176bc521a0c",
+      "leader": "bernard",
+      "date": "2026-11-19T05:30:34+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "“Why politicise a gospel concert?”- Citizens slam BJP MDC Bernard Marak’s RTI, ask if there is a hidden agenda - Hub News",
+      "summary": "“Why politicise a gospel concert?”- Citizens slam BJP MDC Bernard Marak’s RTI, ask if there is a hidden agenda Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG92MGRtWlpxNzhwWXc0c2FqNlVMWjRjWlN5aG94bm1XNHAxOTJlaEY3OUFpOEtNVWRZSnMtQWpRVUdzQ1JGdjZWSmVVTzg1T29WMVhDU2Q2dmtHQ1pCSUxpRXlqMFIxakdPRDZ6cTFVUGhfVzNWRHNjcWdzMmxxVjhrNFVvSHlpX2J5SkdVampacGV0akM0cGduN3o0S0Z0Ukl0Z0ZXMmt4YnpXaVh3LVBjdXR0UFRueEw1MnBOcXN5MWZWbnc?oc=5",
+      "primary": false
+    },
+    {
       "id": "a96318f0cfb6aa8803f2",
       "leader": "bernard",
       "date": "2026-11-19T03:40:08+00:00",
@@ -30,21 +75,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOW9aWG9ELWtNWm9FZWdGOGFydjNKWWxZcURFem95cUJjRmN0NjBfeUJBY1lWSUIydkdvcWYwNEtqai1VUkROUlA0SVZfel9xOXFCUVRBS29zRmRSQkZTZ2MyOHVxMk5faDc1elVYWGhQbjJub3hEUXIybVlMamV0Y0lxRlVpOFhPdDJaNDJ1OE9talF4YklFOUt6UTJoRWMzOTFDRGFwcEJXNUFTVndhTEFKUFF0N2RPU1E?oc=5",
-      "primary": false
-    },
-    {
-      "id": "2b94570ce176bc521a0c",
-      "leader": "bernard",
-      "date": "2026-11-19T03:29:43+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "“Why politicise a gospel concert?”- Citizens slam BJP MDC Bernard Marak’s RTI, ask if there is a hidden agenda - Hub News",
-      "summary": "“Why politicise a gospel concert?”- Citizens slam BJP MDC Bernard Marak’s RTI, ask if there is a hidden agenda Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG92MGRtWlpxNzhwWXc0c2FqNlVMWjRjWlN5aG94bm1XNHAxOTJlaEY3OUFpOEtNVWRZSnMtQWpRVUdzQ1JGdjZWSmVVTzg1T29WMVhDU2Q2dmtHQ1pCSUxpRXlqMFIxakdPRDZ6cTFVUGhfVzNWRHNjcWdzMmxxVjhrNFVvSHlpX2J5SkdVampacGV0akM0cGduN3o0S0Z0Ukl0Z0ZXMmt4YnpXaVh3LVBjdXR0UFRueEw1MnBOcXN5MWZWbnc?oc=5",
       "primary": false
     },
     {
@@ -155,6 +185,21 @@
     {
       "id": "7cee5db15461ebdf2d2b",
       "leader": "mukul",
+      "date": "2026-11-19T01:01:34+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Mukul wants Shillong ropeway shelved, seeks alternative sites - The Shillong Times",
+      "summary": "Mukul wants Shillong ropeway shelved, seeks alternative sites The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXVENVlhTHBGcHFqdlZXS19ZZmlnaFk5Zmlfa04zRW1CX3FmQ2FNV090bGt5TE5PWEFfb0NhR1hzcmdSb0Mwc2hxV3BWajZVTHd0NWVWeXNOOFl6OE40QnVITDZYeDEyOVJZTjd2YlNMS2UxR1FnYy01ZmROMVVleTV5VkR2WUlBalhCMVBnMFJQY1kwcmJHTjN0aklXT2FyU25N?oc=5",
+      "primary": false
+    },
+    {
+      "id": "c1eed8e0885450c55461",
+      "leader": "ardent",
       "date": "2026-11-19T01:01:34+00:00",
       "type": "news",
       "category": "News",
@@ -648,6 +693,21 @@
       "primary": false
     },
     {
+      "id": "ccbbdf852b842d2678b6",
+      "leader": "ardent",
+      "date": "2026-11-13T20:56:07+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Beardman takes record 6-24 on ODI debut as Aussies beat England by 7 wickets - The Shillong Times",
+      "summary": "Beardman takes record 6-24 on ODI debut as Aussies beat England by 7 wickets The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSlhkN3BuQ1lxdHlNU0tVa0x3VTlXd0JKbmRRUmdNRVR6NlV5OUl3Q0Z2Uk9OZkJoZ1FUVG9Nd3NiZVFucEYtc09DbXJUOFdfT2ZfY0pOWl9DeHBuWUVvcVhhZkhqbFJFbXV5MDVJMDR6ZWIzWTVGNlMydU85bUJIRDQ2a3pXQnZmOElSbXpwUFhBZEhBVzFUMkdFXzN5TG5wVDhBaHdweWFQci1mSzlSOG11akVOSl9H?oc=5",
+      "primary": false
+    },
+    {
       "id": "f38cf0661bd32b4b9c6f",
       "leader": "bernard",
       "date": "2026-11-13T20:39:11+00:00",
@@ -735,6 +795,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3B3TWx0dGFwYnlMT3JJc2xQQU5qQVZBbTdiMFZoSnZDZ08zOGJ5MmJXNlprYUxPamV3X0NPZXpCLUZWRXlGRXlOOU5rNVo5UXBvMTUyb2JwcE9uQUxQS0hFWWI5TllPVUt0Nm9wRGFNZ0d1V0REVTcxZ2lLZzQ5dGN0a0ltOW1vVVdENm9xT2NlbHhGZ0RzQzVzWFZwcTQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "97547129b6d5d317a16c",
+      "leader": "bernard",
+      "date": "2026-11-13T19:08:02+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Airport – Meghalaya’s Priority - The Shillong Times",
+      "summary": "Airport – Meghalaya’s Priority The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44TXB2b1g5RmFrYTJoeENrZXhldV9qVUEwSWNmaHhXWUwySkxWNllaWUZETjZwc3QyV1Y2N21oYzRyOERQWnlpZVdwWjY1d1JYYVBsVlQyMHBtai1HTS0yNTFRdVZuOGFDSUs1WkhDWmdHckJCQmVN?oc=5",
       "primary": false
     },
     {
@@ -6416,7 +6491,7 @@
     {
       "id": "5505e52b8f020bc33a7f",
       "leader": "mukul",
-      "date": "2026-08-26T07:00:00+00:00",
+      "date": "2026-08-26T06:37:00+00:00",
       "type": "news",
       "category": "News",
       "title": "Mukul Sangma backs uranium resolution, calls for firm follow-up with Centre - Hub News",
@@ -7414,81 +7489,6 @@
       "source_domain": "meghalayamonitor.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2tRRVk4MGotRFI2WktlcjQ2LTF0dDhwRFczdFY2M1llb2xtQUtldS00Wk5jY0taNGlGMUtOb1E4YnBRdzFVbWxia0FkRWRfb3owLXRZVGdQdDRxb2MtYVFwdXhGeENWZ0lHWE1HX2JhRUVvemdjcXhHbUs5X1o2NmFRVzgtRkU?oc=5",
-      "primary": false
-    },
-    {
-      "id": "a2ef66d34661e2f86ad2",
-      "leader": "mukul",
-      "date": "2026-02-23T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Rising pangolin poaching leads to ant infestation in GH - Meghalaya Monitor",
-      "summary": "Rising pangolin poaching leads to ant infestation in GH Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS0QybGFOblJ0aTFZYmVzcWFzZVdiNDRUV2RvUWhqSHEyQ0pfRC0xcmpDa0VYZXJiUDVWNWF4aGlOMW4tWU1wRV9kcmhGWHhlbzdFZnZPTlBSYS00eDk0cE5fLU14d2JrYjUxZ29ZSWF4T2VZZVh4Q2N4Q18wMWFQcnI2cDUyUmt2ZXIwUzhR?oc=5",
-      "primary": false
-    },
-    {
-      "id": "c42f056470ab93be7a35",
-      "leader": "saleng",
-      "date": "2026-02-21T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Congress condoles death of Syngkon - Meghalaya Monitor",
-      "summary": "Congress condoles death of Syngkon Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iQWJPU1M2a2I5MkFxc1lrYzZhZHpxamFwLW9wczNMWnVRUHNQcnhsc3lhTk1yV0VuNkhLTnlrZHN3N09LcV95WWdFQlJIOHdKY2MxMWJmbmxtMjJWQ09yQ25KXzgzQ01PMlBHMFpHRVdDdw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "7215407f08dd1eb26b59",
-      "leader": "mukul",
-      "date": "2026-02-19T14:28:15+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya Govt to amend MRSSA to tackle illegal immigration: CM - Hub News",
-      "summary": "Meghalaya Govt to amend MRSSA to tackle illegal immigration: CM Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZC1Zb0xnOXlGX3NMaDJrNjBINjl1anVZNFpmYU5UMlo1d2M2OGVwTG5lQjhsSkFobWFpZU1DRHE4N0Q1MzJtaElSMVRFc1JfTmxhbUNnRHpYdFozbVRkZUgzZ0ZaWGZ5LTJUQTNQeENwS255VTBna01iSFdIV2c3dUVENkE0bUJuVktKVmJR?oc=5",
-      "primary": false
-    },
-    {
-      "id": "54a99247b16c2842a90a",
-      "leader": "mukul",
-      "date": "2026-02-19T08:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul Sangma demands expunction of Meghalaya CM’s remark from Assembly records - India Today NE",
-      "summary": "Mukul Sangma demands expunction of Meghalaya CM’s remark from Assembly records India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblBLM2FXM1NrYlV2R09PUzlEZ2dIcEVDMjc2Mk9XcFk3TG9rTHp3VjdUWG9sX29XQ0pLVmdXNVI5cGloaDBLdk5Icks2QWtNMkxnREZxVTVkQmQ1RmwzZXpiNGUzV3MzVk9pNmd1akZrQzBOZEN5WlI3X0cxTlhkdkRGQjBZdGs1OUNITC1TMnp4a2dONDBYUmVFQ1lSNmp5dmQ3dzVYc0x0b0laYXVIdEhQX1dqaDdKLVZ5bTZKOWxBT1g4MmE3TEctSUtIN3J5ZENLQmxlWdIB3AFBVV95cUxPeldnSTRfcVlORHJPMEp1dzZ3OHY1YXc2QU1keEptZlFhMzg5VFZZeGJTZ3F4Q1ZINE1vdzA2eDNjbEYyUkEzakl0RW90UkppZU1zZFpfdzcxTl85LWE4ODhfTkVoX0tQTFhEQ0kzRU8ySEdMTzF2TFctTzNEY0k5MWdFVElfSTZWdTZNc29YU05INDYwSm9kN0Y4NEVBa0ppR3B3RHpyMFR0Mk1mcU9ZZHdTb2hLekczOS1qX3YwUFIxaUhHa0VyLTBXTDg4VTc0WUFYRHRPNkZxaU94?oc=5",
-      "primary": false
-    },
-    {
-      "id": "1696848614ecedb2b599",
-      "leader": "mukul",
-      "date": "2026-02-18T11:27:07+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya Govt mulls permit system for foreigners under new Immigration Act: CM - Hub News",
-      "summary": "Meghalaya Govt mulls permit system for foreigners under new Immigration Act: CM Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa3pNN2s1MUJJak0wQ3dJSzNmRXdZVmZvWGlfSF9kcVptY1ctbmo3SHhZeGw4RmRTeEwzdFFYZFhyUHJZODlha0EtaGFpT1pPV1dQY1ZjWlJWa2ZsQkhQWTJyQUJBamFHNWJ1SzM3Q3JSWXR1UW9JYzdHWF9GTTQ4RFVnZjMweE9fc1pidlJXRVRFaVpfUFpCbDZXNmR4UEFLSE5v?oc=5",
       "primary": false
     }
   ]
