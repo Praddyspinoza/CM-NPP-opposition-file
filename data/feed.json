@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:57:15.608227+00:00",
+  "generated_at": "2026-11-21T07:18:50.342414+00:00",
   "status": "updated",
   "items": [
     {
@@ -468,6 +468,21 @@
       "primary": true
     },
     {
+      "id": "a42aefc3a99e5be76b7e",
+      "leader": "bernard",
+      "date": "2026-11-18T10:27:39+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Assam Rifles seize heroin from two train passengers travelling from Assam to Tripura - The Shillong Times",
+      "summary": "Assam Rifles seize heroin from two train passengers travelling from Assam to Tripura The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTmZ6b3NOaGNwMEZZZm5LNjBZQjFHV0FPNklET1JpOXJzOThYSWZPSmJxa2RnYVpnWUF6NUNueTJQZmxDam5TNlhMUDNvQy1DRnNtQnd3OS1HVHZOc1hIN3VubXc5bFFPSTVmdFdPd3U4ckYyWWExQ2UzMmROZDFTZkFUbEZ6UmZUZWFobEttYzQyeVRtekJCVzd4eWZqXzF0dU1XRjdJbG4yaEZVZ1NCS2RoOGdTeUY0RjhETzdXLUtubHc?oc=5",
+      "primary": false
+    },
+    {
       "id": "150b878e0f82dc28d4ab",
       "leader": "bernard",
       "date": "2026-11-18T10:19:29+00:00",
@@ -495,6 +510,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXIyeC1Bcm4yb2liZmF6V2lRSFRHZmNnb0RGNVF0TWVyU21rbjVYYWpJcG02Zmp5d0hOVjlTYmRIU2RHTGZJb1pPT3E3VHJOYmlzUW1wV2RJeTNrbENDS093djJZZnhLZmlnUVpkbnNGdVc3SmFCYk10NjNnNHpZd3BHYVJGMjRZS0RHWGprUm9VaGpLNVVsZ1VzaGxnTnJZYkE5UERmZXlCLUVMNGZjQWhSWkM4dFVtR3Nrd0hEOVVFdzc2MGloaWFoVmpSaVZISm05QQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "04003eeb1b2fda0fc5ab",
+      "leader": "bernard",
+      "date": "2026-11-18T07:41:38+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "India, BASIC nations reaffirm commitment to equitable climate action at COP31 - The Shillong Times",
+      "summary": "India, BASIC nations reaffirm commitment to equitable climate action at COP31 The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG5zZkhpN2FxclJHWEpUd0JxbWdHWWVtTDJWRnA1Y1BNUjVDS2hsYUowSThkWVZQNF9Gc2Y4R1JSX2RGTGstX09iVlFhSzNMVk85ODNNV2RIY3ZIWHNNRllLYjNKcUZJam5nbGt5UnhjZmRqU2x1TGNUdVVVUkVub2gxak04ZG80Wi1pd0ZkUlJmTzZMd2RIS1BWNHB1bTJqWHpURDBxUlc2NWhXSWJOQlVRa3d6Q3Jx?oc=5",
       "primary": false
     },
     {
@@ -7459,36 +7489,6 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM1oxSE1ZUGVfTlEwanh0YWUtOENRX0NvU1huRXpkMFFTNjdZeC1QX3BkWUtmN2NXdmNiVUUtN1RmVnpBQW1ibDBJSFhGR2NaYmMxSXU2OUhoaWNlSXhWRk0yUzV6RkxtdUxfTm5qODNwdnlVZzh1S1NxSERxVDBHUGZ5dlFrZGRXQ2lpOFF1djJxUTQ1UF9QamFQZFo4UTkydFdod0dGMXZnVnFQd3lmYUlKUDBobzVmem9uZHlGQlk2QUY0VHNVVGZ0b2h3UnVEcTBucGJGa3dfTjExYmpiVGw1OUNjQ1BhUWfSAe8BQVVfeXFMTnk2d0p4Y3N6R28wZXBSNkdodUhLMV82SktxWm1YTVpUVTk1dmFQazdMaWo1RDBfRlRlYUNXRnFpa2NyT25mY3BHSU9FVndvSHlTbWM3X3BkTmJzX0dJdkFoVm4yZzBrVHlGdW9EeXZYY2dYYWdmZ0tCWUpMMEVvZjJ4WVduV1lGOGJkMlJYcjljVS1aLWhuUm5ROHRTcUEtRHYyUVFLSWxwbXlOLWFJUnBvckFwQmk0eEFxNjYxaDN0cjdXMjhoUzE1VzZ2ajd4NVlRRWxyWVQyRm1hMTVWekNuTnpQeU1CTWU0SGM0eWM?oc=5",
-      "primary": false
-    },
-    {
-      "id": "27b0251b06d706e0e645",
-      "leader": "mukul",
-      "date": "2026-03-21T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul meets Guv, seeks judicial probe into violence in GH - Meghalaya Monitor",
-      "summary": "Mukul meets Guv, seeks judicial probe into violence in GH Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWxPSHV2QVZtemhvck85OS1PMHhQU2p3NU5HY0YzWm5aWjJzcTZ4bnpGd1p6MXZzdlZsNEFaLWsyQzVEUENfdzhOSEJUSWF2TmpvTWdLOURsWHRWYnpPNVV1Qnl2UlBHdjBWQWdSLUhKZ2VSRldiYkFEY0hYWFJZUTR4ZkVTZGZ1V1hfcGRKQQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "108ab1aaf563caa0ce40",
-      "leader": "saleng",
-      "date": "2026-03-13T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya CM holds meet to rebuild trust in Garo Hills; MP meets governor after violence - India Today NE",
-      "summary": "Meghalaya CM holds meet to rebuild trust in Garo Hills; MP meets governor after violence India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeTlNTVhHcnVCdlJ3NEhwX1ozdDZPalRPejBCMmhPdE9tcWYyYVFBdDRSelFHNG9YTDlSeWEyR0dpaTJlMFlFbWNIWE5xQWpnTWt3Z1dVcTh1M0k5cXJJV2djNEVPSVpnRkpfUWtNaXZPMFVjM1VpQTFqbmg0ZGxjZkFYZ3ZYalF0RHBoeG9MWHZiM3p2VzJHc2poLXpmZjU5YWxuVHFjajdpTkVnZEJDUktIT1V1ZjVHYy15LXF4MU9qVVhfMkxZVWtYdXFwSEZhcHlzSU5ENVk5UmlGOXZmcHNHbVXSAeoBQVVfeXFMT1lkd191bjlLUlo2TkVaUWcwd3JFQzBINzBDTTNRREhOanBwLTBrMnM3YVc0X0NBR21EdjNPeFZDWS1oM2lUX2l5YmtvTzUyMXppQkx6OEs1STBRTktXZnFzSmZiblNVNVZIcVJRZGk1WGdFX21vSzB1WkY0b0UzVEtWT1hFcjJ1RVBTWGhnUzRyVmg1RW1heEdPRzFRNkR0Zk9raE1rczdfUHlFbmpoejFkbHJEeFhnVmk5cnhMMm56aWdJTUotc1I1M3FkQXI3MmNBTGZTZVhzaUV6UXJ6aEFoUTROdGpac2J3?oc=5",
       "primary": false
     }
   ]
