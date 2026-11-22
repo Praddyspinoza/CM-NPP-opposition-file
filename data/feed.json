@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:06:21.613821+00:00",
+  "generated_at": "2026-11-22T06:59:12.751743+00:00",
   "status": "updated",
   "items": [
     {
@@ -135,6 +135,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdERjWnROcEZ5OXlPRXRqd0FLaktlYWt0d2o4Q1R6WXlGemp1ellfdFpKNVRMM1hjUFY3dV83SktIUVBSc1JnNy0zZnN2MWp1SGk1MmJTWjJVRTVDQ1V4UXZiNXJ0SWZDSlZ1YVFJRmhpZmpoZzlVU25nSHJGMVpjdEtMNVJCNWRVTkRSTw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "51068343c76f620bb44f",
+      "leader": "bernard",
+      "date": "2026-11-21T16:13:34+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "National Flag draped on singer during Cherry Blossom Festival - Meghalaya Monitor",
+      "summary": "National Flag draped on singer during Cherry Blossom Festival Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFE2czFXQk5SN2FWcjJCTjVGanBCSWlMYzcwa2t4WGZqZ2VoSXVWRHJ2eC0wcUVXVGwyWDJYcmZoQ0c5T0p2dFJXZ0JxR29xc29zUVVFQW45MVNqazc0LW5Ja2hubU9JUzJCWGhBSkUwRDIyaVBDNGItZlJCYnBnVjRiS2locFdDeHl2VEFmQkhvQQ?oc=5",
       "primary": false
     },
     {
@@ -708,6 +723,21 @@
       "primary": false
     },
     {
+      "id": "4ae7fa7c0a0917796e06",
+      "leader": "bernard",
+      "date": "2026-11-18T08:07:26+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Naxalite arms dump with 50 BGL shells recovered in Chhattisgarh’s Usur forests - The Shillong Times",
+      "summary": "Naxalite arms dump with 50 BGL shells recovered in Chhattisgarh’s Usur forests The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnFfcHZlQWk2WFNVdWtZS1FQTFBqd2JPeDAycjlIY1lpX2l6Y1R4QjJ2dlRxakF1UGczTjRkTWRpNFU0Qk8xMG5ZSUVtaFROUWxad1VwTTRIbUI5dEZkZExKemVHNC01dTFIcW1RMXFmZTAtcjFBS0dicDlEUFhyMFpMZ2NJUDJBRnlTZnU3NDdKMUpDSkU2ZjBjd3hTMjJnbVJ1MGc5M08xWG9oNmpBeHVIV1hOcXRrRnc?oc=5",
+      "primary": false
+    },
+    {
       "id": "04003eeb1b2fda0fc5ab",
       "leader": "bernard",
       "date": "2026-11-18T07:41:38+00:00",
@@ -855,6 +885,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGNXaWxISTNZSzI1UEZ5dUpnN0RBVFhZRDZuWXV4TzU3MEcxZmRfRXJ2ZzdzaTFWUHVDQVJlZTI1MllSV3FNUGpmVGR1QVhXc2lremdLWEx4bV9TaUxJQWRyV2VPemkxbWNzWlk2TzAtR05lQTg2T29wekpOSS1mVmVJZlVMNXhMd1lyMVRxZG1ldDc0VEVSeHpkTXRXSl9uMWFGUlJWbExDbTN6cmxDamR3?oc=5",
+      "primary": false
+    },
+    {
+      "id": "06ec65286a5b63d03499",
+      "leader": "bernard",
+      "date": "2026-11-17T02:13:44+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Lakshya aims to seal BWF World Tour final spot at Hong Kong Open - The Shillong Times",
+      "summary": "Lakshya aims to seal BWF World Tour final spot at Hong Kong Open The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDlvVzEyWGJtQlotYzJjNVc4SzZmRmQ5eXFIMGFVNTlMaTZLRmRpTFZtR2xOUDNlNUFKNEJvSlBtc0oyYmFPdEMzZmdWOV83dng4dV90SXVMRnB3enVvOUhBVFlFRkpoQjhPV0tGWVpzN0xMUmpUcnlWV0R6NG9BMHMwNDZuZTUyRjIzdERzRFhoSjdkLVhCYzdZTUF5dnNFdktLdlJvT3Q?oc=5",
       "primary": false
     },
     {
@@ -3420,6 +3465,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjFRZUdKQUJOM2lOVWZZRmlybHYxekZBeWUyU05oYzRPNkktTnROVEVMazZDNFFWak53alNXXy1wWmRBRjZIRWY1T2R5Y1RwNGJ4OUx0a1ROb1BzckdRVldzbFdyZ293YlBnNE9EUXhfRUYwYmZYbWVqbkVsNU43bQ?oc=5",
+      "primary": false
+    },
+    {
+      "id": "f450ae109fa3ac97d02b",
+      "leader": "bernard",
+      "date": "2026-10-24T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Ismail Marak joins BJP - Meghalaya Monitor",
+      "summary": "Ismail Marak joins BJP Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hbG9MUUxma1ZuWC1tX184dG92WGY0MkEwaWQydFRBVjAzZ1RVVWdQTHNaak5Wc2VzM0laM21LRGg0ZlFRRFdWOWFHTF9EWnp3S1owM0wzN21rSDNBY1llbU5R?oc=5",
       "primary": false
     },
     {
@@ -6222,6 +6282,21 @@
       "primary": true
     },
     {
+      "id": "95a392bfe304887ac61d",
+      "leader": "bernard",
+      "date": "2026-09-12T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "BJP inducts Jemino Mawthoh - Meghalaya Monitor",
+      "summary": "BJP inducts Jemino Mawthoh Meghalaya Monitor",
+      "source": "Meghalaya Monitor",
+      "reported_source": "Meghalaya Monitor",
+      "source_domain": "meghalayamonitor.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBraTY5VGo4ZTRDdG92ajNJaFV4RHhvZVBkM0hJSGNBdW4xZ3NQNTZGYnREMUltZFFXYkVvZXlHRnRPRHRxSW0tN0dFTlVzTEJjSzU5Q2ZMX1YxUkZZNGZTRHNqLWlZMDQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "b6f3ed0309fe6b33cb2f",
       "leader": "ardent",
       "date": "2026-09-11T07:00:00+00:00",
@@ -7414,81 +7489,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGlCcEFfT2o4cmNXdDBGbTRvaU4tbTJocWEzOXgzM0RLN05WTzFTWEpKd3drTHp1azdVTUZpeFdiZi1BNW56aEJ6VkdKbkdMbDFkZ0xXdDZkcjRFZGtCMmxaYWFCdDhpazV3ajJrT2xpNWlINEVkcHllWExYM1VFMnln?oc=5",
-      "primary": false
-    },
-    {
-      "id": "d5c892682b80bdbad58e",
-      "leader": "ardent",
-      "date": "2026-06-27T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Ardent defends Land Bill to protect community property - Highland Post",
-      "summary": "Ardent defends Land Bill to protect community property Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjgxX1FWS01mVF9ZMklYaGlXSGRxSFdEVjN1eUJrQzdEc0U1eXMtQllBTXFtN1ZzVVlKTjJHUzRjMHZCWU9LUDNqTk9ocU9nSzNocDRJOG9aZ1U3WHh3Yi1Wckx2cHNLRW1VLUhlcUQ1bXo2dTdrU18za0FXajRyZ1RIa25WV0U?oc=5",
-      "primary": false
-    },
-    {
-      "id": "605c1eb0ca2f3a9621bd",
-      "leader": "bernard",
-      "date": "2026-06-21T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "‘Autonomous’ missing from GHADC : Bernard - Meghalaya Monitor",
-      "summary": "‘Autonomous’ missing from GHADC : Bernard Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdVRJRDNORmZpbGVfVEJMVVIzN29CVTY0Z3k3X1lOdnpCQnNLenBjcDl0Q3lYaGZBLTJZZXhzWllzMU5tWjdiS0VHSG15S2ZUS29JeHkxOUtOVEFWOU5rY1ZxcUpWdTZGNXV2Q052YndtNFplelE?oc=5",
-      "primary": false
-    },
-    {
-      "id": "26835e45c3693f804708",
-      "leader": "saleng",
-      "date": "2026-06-15T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Rs 52,400 crore high way projects under construction in state - Meghalaya Monitor",
-      "summary": "Rs 52,400 crore high way projects under construction in state Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGktWmRDT3Vsek9jYkZoczhUQzlEbC1VSUp2dFdVaGM5d0ljcVVCY3UtLWs5OFAyUmZYTkoyTENvd2ZJZnFLTjBGSi1RTF9XNktTQ19EMk1pVTBMbzhRX1hSQzZEV1VrSHhTRVgtVXg3R2VPcm5NbXZQLW03MGpPci10SDcyeVhYYTZNbXYzZTNQU1cx?oc=5",
-      "primary": false
-    },
-    {
-      "id": "33674e6ee173b62f0229",
-      "leader": "saleng",
-      "date": "2026-05-28T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya CM lays foundation for Rs 412 crore road projects in East Jaintia Hills - India Today NE",
-      "summary": "Meghalaya CM lays foundation for Rs 412 crore road projects in East Jaintia Hills India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR2g3V0poR2VrYzdLRzFZQzVsVmJzd3RLTU5IQWs3Y2tCSkdOSlVqTWhVeGtsUEVfdFNzOFA3eFZZWG1aWk1YZ3IwcGs5MW9laEdibzlJMDA1Qm9SQTRhMFBjLTUyS0hVOXZvb2xCSEhxZ180U2hqUTJfU09PY19JNl9FWmVaa2IxVXdWeWVuZVlBekNuWjZ3ajhrVnRfUGd0WDRfWGQ3X1p4LW1GY09SUU1JV3VrSWlLYnI1THgtcjZ2dTh4RjI0SjRRVDBvVTRZdmRZY29ZSmU1d0hX0gHiAUFVX3lxTE1ESFNnZ0FHRS1vZ2J3OGRIOVNwd2twQjIxR0dnbVJJbE5JQTV4M1dQODJLanNuMlJPM2VJVmxQa0lTOW5uaFR6VG9mWWV0dVYxVnRaTEdDVkJmTkdIYjVMS3Z5UWtkTzZkQ002SllVQU5yb3lzR2xDZ0g2Vi16Tkw4c0xNTU1Mb1pQdm13dHQ0VG1NbGxOaDlLVlRGcVNCUFVCU3NMQXd0WjJuRVE2ZXFDaHZNNUs3X25IeFctWHItUlN0aFhrVUlWcU0yQ2MyM196UGlZREVJbXZFMDk5bmxfMVE?oc=5",
-      "primary": false
-    },
-    {
-      "id": "21ca9e6ef941608f54a7",
-      "leader": "bernard",
-      "date": "2026-05-25T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Tura MDC questions GHADC decision to pay consultant Rs 2 lakh monthly honorarium - The Shillong Times",
-      "summary": "Tura MDC questions GHADC decision to pay consultant Rs 2 lakh monthly honorarium The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNERJTVZIb19wS3F2ZC1EWHllbnZWMXl2eWhJN2o3QVFzVkRrMFRqekIxUEpidklxOFlDSnZFWF8zN0RNNFFlR3Qtd3p3dnZIcDFuNGxsaGtFdnNxdktLNHRaNzJub01kYUxpbEtlTi1VQVMtOFdJZkJBUlNWVXloYWFBaUZULUp3SUNXdENDbTZ3b1JWbS1jSFV3OTVwZVIwTVFLX201QWwtd05wSWpVc0xyNXRINy1adkNxRWpB?oc=5",
       "primary": false
     }
   ]
