@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-24T10:00:32.501418+00:00",
+  "generated_at": "2026-11-25T05:25:50.546860+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "20e12b7cd51416710ac0",
+      "leader": "bernard",
+      "date": "2026-11-25T04:07:24+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Gospel Fest-ni bidingo RTI ka·aniko Tura MDC talata - The Shillong Times",
+      "summary": "Gospel Fest-ni bidingo RTI ka·aniko Tura MDC talata The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0N6bHlfeHZub1VqZUxwUW1jNmljNVRqcFVyN0RPOUJIZEhuOXcwZXR3ZDU5YjZOdGxYN05OV05Lc1hrQkdYNGJMMmtkcHZTRWZZdkE5R3FpUUtJbndiN3JmbDRfdkpDc2s0ekw3azFFb2lHa01QWjA4enlIZklYamNrc1JScFVpUVRXeGZVUWVTMU0wMHZpOEpxZk9fZw?oc=5",
+      "primary": false
+    },
+    {
+      "id": "2b7f9901a307a4da64b9",
+      "leader": "bernard",
+      "date": "2026-11-25T02:33:30+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Truck rams into two shops at Polo Market, two injured - The Shillong Times",
+      "summary": "Truck rams into two shops at Polo Market, two injured The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzkzc3MxOHA4M3F0dk9JZlo0VzZWa0NJOGdKS2dWTmRELVY3Ums0TjhIeUhOSWtGejdUNkVPSDVQa041Q2w3Y0lFMGhiUHR1LUZsVGI4TGVlMDM0aHVsSVNqMlhOQ05pNW0wS2JMZm5fVDh4WXZRNVJJZ0RaWWxIWGtqallpZWVWOWNKM0Zqd2NKZHlhMkctRA?oc=5",
+      "primary": false
+    },
+    {
+      "id": "b69cd1d0cd6aac21bdc0",
+      "leader": "bernard",
+      "date": "2026-11-25T02:31:50+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Tura MDC clarifies RTI on Gospel Fest, denies ill intent - The Shillong Times",
+      "summary": "Tura MDC clarifies RTI on Gospel Fest, denies ill intent The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEpzZDhQNTZxOEdSSjFUNUxVT3BOTTFPa05fTlRIci1kRHpZSWNiRU5YR21TdUhQbEZvb3plTmYza2JQeGhKODY4eWdjVHE5VTlORUh4NXp3VTBvVGlyNWJkbGtlWlhyd0tDbHQ4cE5hWmJkeWxYdzZhcnJIcGp2a3JfUHJ6SEVZQVpwem10MlNZcnhyb2J3M3lzNng?oc=5",
+      "primary": false
+    },
+    {
+      "id": "affa50ef3800eddf9c98",
+      "leader": "mukul",
+      "date": "2026-11-24T11:53:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Dr. Mukul M. Sangma, MLA has been recognized by the Hon'ble Speaker as the Leader of the Opposition in the Meghalaya Legislative Assembly - Meghalaya Government Portal",
+      "summary": "Dr. Mukul M. Sangma, MLA has been recognized by the Hon'ble Speaker as the Leader of the Opposition in the Meghalaya Legislative Assembly Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtejhYQmFTR3JseVhsajhTV2h1bE85dkMyQlhRM2RxRjduOUVqamZGSTM0d0hiR3VEQjBzS1NRdW9Bc013dWE2REFzUQ?oc=5",
+      "primary": true
+    },
     {
       "id": "8b0d0e21485dfdf6d05a",
       "leader": "bernard",
@@ -15,6 +75,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWNfS1BuYV92NkZCMWl1NGJrQkZLbzdwc3dnN29kU2UxMkdKMTVFdUlUVFZNLWtwRkFvN2t2S29fTGlTOWNWTUE4cV9kT29qVm12cm5McDdaNlVFeDRNamZVTTNsX21rZ3BydTFNYng5dGpwM2YyV1E2b1BhTXNnR0VjQWVCNUIzWGlvX2RjYUMtYzdpX3UwRDJvaXBFX0hRM3dKUGJmdkZkT3BCSV9vV3hRVUtLMC1BRk9IRVB0MktUUUFBTl9NTFFGSl9QbFBxU2ZhQnRicS12bGNz?oc=5",
+      "primary": false
+    },
+    {
+      "id": "654100996396b18f1f01",
+      "leader": "mukul",
+      "date": "2026-11-24T03:53:13+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "GH-o bobil dolrangko bikottaiani bidingo u·iatanirang dongja: CM - The Shillong Times",
+      "summary": "GH-o bobil dolrangko bikottaiani bidingo u·iatanirang dongja: CM The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWM0dTNYRTlNc3Y3dV91b0lTSERMQkhWSWdfNm42TmxDTWpjS1BzaTJpUHFUMTF2R0NzaWUzYXRwNm5lVTJNbU9McEdRT2dGVm5UR083NjlHNVhxODQ2OFJDVFNhc0ZfSlEtSFRsc2xBbFZqR2lSYWo1bHlrTWhCXzZOdFBkelREa3I0X0N2ZXl0NHQyMlVlNURWNG9wODU1VUFINmdfRnJzNG9Ha3c?oc=5",
       "primary": false
     },
     {
@@ -588,33 +663,18 @@
       "primary": false
     },
     {
-      "id": "33d2f944a97c983c0363",
-      "leader": "ardent",
-      "date": "2026-11-20T10:26:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members of Meghalaya Legislative Assembly - Meghalaya Government Portal",
-      "summary": "Members of Meghalaya Legislative Assembly Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GOG9oNFhuLWVoRDg0WWM0YjdMYmM4d2lqM3QxNko3YWZSNEZSaUlPdGJ2Y0ptMUdnalMyNU81RlZzcGNUVzQzb1NVZmZUR0dibzhz?oc=5",
-      "primary": true
-    },
-    {
-      "id": "b92a3e78f6901e924a22",
+      "id": "9daa43442a89cc5a80aa",
       "leader": "mukul",
       "date": "2026-11-20T10:26:00+00:00",
       "type": "news",
       "category": "News",
-      "title": "Meghalaya - Meghalaya Government Portal",
-      "summary": "Meghalaya Meghalaya Government Portal",
+      "title": "Press Releases - Meghalaya Government Portal",
+      "summary": "Press Releases Meghalaya Government Portal",
       "source": "Government of Meghalaya",
       "reported_source": "Meghalaya Government Portal",
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RLWtzZV9kaEJMTjlZZjJVYzBXU1VLUUo2RXIyTUVDUHFLUWdzSUQ0Ul8tc05ETXhoaXUwSk13RFJTS2dRWjFNLVhNMEw0bEs4NWh3MmlMZEUwT2xRdTFrUlB2Ny16RVVvLTBSaWxmNGEwVlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
       "primary": true
     },
     {
@@ -1725,21 +1785,6 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QaEJFOUxqUUY2S3JYYUlMLWZ5Umt6ZFdhYUR4SUZQWVl3RFg5cml4NWl1SHdSaDVNQlZfWTE5TWh3aWsxTGFOTGw4VQ?oc=5",
-      "primary": true
-    },
-    {
-      "id": "7632ad4775481e48f4ee",
-      "leader": "mukul",
-      "date": "2026-11-12T11:08:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members of Meghalaya Legislative Assembly - Meghalaya Government Portal",
-      "summary": "Members of Meghalaya Legislative Assembly Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Wc1hJMVI0blQ2WEhMaHIxUjIxeUlxOHd3azRfWW9hX1JNN0hpb1BhLTdWMEFGVS1IbmJkaDJrMDZQVlNzUkpuQnh5RTFRSVhBRGk3ZWJreU9BWHB5T2djWVhn?oc=5",
       "primary": true
     },
     {
@@ -6987,21 +7032,6 @@
       "primary": false
     },
     {
-      "id": "9daa43442a89cc5a80aa",
-      "leader": "mukul",
-      "date": "2026-08-28T08:19:57+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Press Releases - Meghalaya Government Portal",
-      "summary": "Press Releases Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
-      "primary": true
-    },
-    {
       "id": "6e136974b3526b49dfba",
       "leader": "mukul",
       "date": "2026-08-28T07:00:00+00:00",
@@ -7461,36 +7491,6 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTd4S1N6bklDa1ZQSjUwMnFBOXRIM2xNTnpqVUZjRV9rMkpHcjZZNzNoQnlwR2RFWkJHMkV1aWJBekFqd0RqdFhsOTZkajdadTExTVJFQnVsQU42RDlSWDdDdzI2WGFvQWtXLVZBYTdMV1Y4aWhPYUU2bXdXeTR1V251Mmw5UUZPbm9CZ0VsSmJsS0xscEN5amMtQkJYeEJrNjU1MWQtaC10N0NHM09hZzU2ZWFmamVBY1ZsamY1ZVhibDVVSXJGTm5VVUhPb2NXaEVN0gHYAUFVX3lxTE9rbHBqT2ZUV3RJTzNUSm5aSXNzd2JXc21aYmpqYnhTX0xnTWhEc0xpWnloc3JDRml4NzgtS0tyLV9YMEY5NzNrUHNvV0Q4UzhGTnprTDR2bE5ITEdJQUQ5T2JsTE5zZ1Zjal8wa1NsdXdMem04V1lxdGZTR3NvUFN1c3l5VW50S1ZjeWFlN0tteUxibGxSUExzaGZ6bVBFSVpQUEdaODFXckNOTDRBZ2tnckk3Rllwa21odDl5bzBXeU4tT0d4RHJtd1k4YS0xWUZrN3c1SUpwYw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "a03dda0dc80157ae3826",
-      "leader": "ardent",
-      "date": "2026-08-25T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya seeks mining rules tailored to local conditions, Centre examining proposal: Conrad Sangma - India Today NE",
-      "summary": "Meghalaya seeks mining rules tailored to local conditions, Centre examining proposal: Conrad Sangma India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWGVyX19sQVpfLW5IWW1lNVQ3c0x6X0tuZ0N0M3JoQVVhdWVCWVdlRFdOdkNuR1hPN2tfb3dyVE1iOHNRaTlCVGF3SFNPRVY2QU9ucmZ2WUluWlpuc3d2WWtkSHpEUlg3TXpPSTBTMU5vR1pwb0RWX1ZzcEtHVHdWc2tLTjNBSV9MMHU3ajdKdnIwWWhxWW0xVVlSZk9KV2R4b1JzM3NMWXhSYkw4a0h0VExHdGg0Z1gxeVhtUkdwYmNseVR0cVl6QmJneC1TSWlsa3d6Rjd5eGU5d2MwYjZET3VSMENjYUtBclR1aUlYVFNKUdIB9wFBVV95cUxPdXMyTWxIbjNYLVJpOFJ4RDRrYXNmZXREZ0ZjMWFqQUFEWWQxeDFBaEdDTDFEekZJWUJWeGNfajI0Q21yUGdiX2xmY0k3eVFZemdOQ0FoRXdvd1ZndGZrTGlCYmZIN19ZSmREZU8wMENGbUJfSDdKalRfMVZaeVUzZVN0WWVQRncxMkI3MFBZeHNLOVBaXy1zcHpxbXhWTno5Ym5paUlCaEZCT3BqTi1wVHY1QXRxNXdaUXlaM0RKM3VjSFV3eUx2al9xWmFMeGhlc3hDQ04xeUpXTUtmNHhQdl9ySU0xc1Etem9KcjlRNHBVRDVORVpN?oc=5",
-      "primary": false
-    },
-    {
-      "id": "95e8ccd42ba884c1b7ec",
-      "leader": "ardent",
-      "date": "2026-08-25T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Byrnihat pollution check finds 28 of 37 industries violating norms - India Today NE",
-      "summary": "Meghalaya: Byrnihat pollution check finds 28 of 37 industries violating norms India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3dhZF8yeEcxNlJGRzgwZlQ3Q3IzTFRGS09TNjNQYnpXVThaZkE3d2FIS3Rwd3gyUEZBaks4UkZLZFRUd3R0LTYxX01mM0F5TTJPakc0SDFtMzFDamt4dk10UFA1NWJISU9ia2RuV0dzWjN6bV9CMlVUdjlYbGM5U0FHd0R2SU9rNzg4WklRZXFDSGdVZm9mQ29sSUh4UFAtWTVUcmgtVnlTcFN1akJCWThCTERlQnZ6cE5RUHdoRnZEbmZ3ZnpQZi0xcFM0V2ItVUFKendn0gHbAUFVX3lxTE1qaEgwWDVyM1VJb0FwLTd0TlZ0QU5jWWVha0NJLVA3Sm1BT0pJc2ptYVQ1WTk5Zmx0dTFHVTd1ZG9uMXB3SlZNczVxMk1ILXM1RzEtd1FhdTNPbTBNNzhfdDAwWGt4NEhOU0E3SnNlWGQ4c3BYQ0R6ZzZLeFFURHYxUk55TWR0Z1VMd2tyMUNWbFpLT0tLLUVMLXlnOUxVR0hzazZNQUxtSXJZVVZ4NG9uaGp6XzhRdFdQa3J4Ny1WeUk0YmUzZmxTdmRWQ0xTVGhtdW9pdmJVeVhwdw?oc=5",
       "primary": false
     }
   ]
