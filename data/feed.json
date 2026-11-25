@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T05:25:50.546860+00:00",
+  "generated_at": "2026-11-25T08:44:45.294560+00:00",
   "status": "updated",
   "items": [
     {
@@ -675,6 +675,21 @@
       "source_domain": "meghalaya.gov.in",
       "source_tier": "Official / institutional",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fa3kyQ1NBSWUzNjhCRjBtUjkwbXJfVU9mS1VQeHoxNUhBOUczTFVYM2FmbXVKdlZpZmdGMC0zU21sU21HVThsSFFYQ1dFMXl2SldLSTJOUQ?oc=5",
+      "primary": true
+    },
+    {
+      "id": "154e27bfe685e6447b34",
+      "leader": "saleng",
+      "date": "2026-11-20T10:26:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Members of Parliament - Meghalaya Government Portal",
+      "summary": "Members of Parliament Meghalaya Government Portal",
+      "source": "Government of Meghalaya",
+      "reported_source": "Meghalaya Government Portal",
+      "source_domain": "meghalaya.gov.in",
+      "source_tier": "Official / institutional",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUSGlhY0Y1amV6UEpuSTQyX2VSeHVUMHBjMmp2MC10WURXV0RidDZLQjlxWnV4NkZjY1ZtcVk5NW0tMy1TbTVrZmJpZ0s5X1NlVUJubXVoN29mRjJwX2Z3?oc=5",
       "primary": true
     },
     {
@@ -1771,21 +1786,6 @@
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdDdrb0VBakpyclJGLXhjM0tlaHAwTDN6Q0dJQVhKY1FfMjJxMFYybDdaZnRtU0l4WE1qb0JjU2dXQVY4QWZEMFg1eDFIZDA?oc=5",
       "primary": false
-    },
-    {
-      "id": "64a4f6fcba1b71158f5c",
-      "leader": "saleng",
-      "date": "2026-11-12T11:08:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Shri. Saleng A. Sangma - Meghalaya Government Portal",
-      "summary": "Shri. Saleng A. Sangma Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QaEJFOUxqUUY2S3JYYUlMLWZ5Umt6ZFdhYUR4SUZQWVl3RFg5cml4NWl1SHdSaDVNQlZfWTE5TWh3aWsxTGFOTGw4VQ?oc=5",
-      "primary": true
     },
     {
       "id": "fd09d48de6f24d7d586e",
