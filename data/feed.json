@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:44:45.294560+00:00",
+  "generated_at": "2026-11-26T04:59:13.131590+00:00",
   "status": "updated",
   "items": [
     {
@@ -30,6 +30,36 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzkzc3MxOHA4M3F0dk9JZlo0VzZWa0NJOGdKS2dWTmRELVY3Ums0TjhIeUhOSWtGejdUNkVPSDVQa041Q2w3Y0lFMGhiUHR1LUZsVGI4TGVlMDM0aHVsSVNqMlhOQ05pNW0wS2JMZm5fVDh4WXZRNVJJZ0RaWWxIWGtqallpZWVWOWNKM0Zqd2NKZHlhMkctRA?oc=5",
+      "primary": false
+    },
+    {
+      "id": "b12b4c30a4e00bca2915",
+      "leader": "bernard",
+      "date": "2026-11-25T02:32:01+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Police to intensify checking across city ahead of festive season - The Shillong Times",
+      "summary": "Police to intensify checking across city ahead of festive season The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbTlDRnk1bVV1VTluVVFMYWVnN3JNcWp2eXRlXzl2T01nMGJhbktJYURpSXNQS2VGR21sWFBxQkxNWl9FUXltRzN2SjMwaEZNNFB1U1NqV2x3YnJwQnZISHJXSFZFN2tTakVZS3JFajdiZGFCMHVfYjVWbjk2RW92a2Z1TU56dldHbUFUMlJTLXZfYXhRY21NdUJVb2tScTZCM29CTDZocHE?oc=5",
+      "primary": false
+    },
+    {
+      "id": "4fc01c070d8ee0c881f9",
+      "leader": "bernard",
+      "date": "2026-11-25T02:31:55+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Govt struggles to fill faculty posts at two new medical colleges - The Shillong Times",
+      "summary": "Govt struggles to fill faculty posts at two new medical colleges The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUllUcmh5dW9PMlo1U1oxcHNqQlI0M21IVmVHZjZxQTdaVjcxY3ZhQ3MxdXR0LW82WldSQXlrc0ZBY2dXRFFQbXc2UWJBRkU1TVE3clA0WHZ2TDg1S1l3dFBubkQyd2wwckdHOGpGcmRlZk9fc283R3FGSzEtbkpDRXZEQ2NKeGVqeEZRX0ZIRTBRSnFHRWJ2VXhqYU13Qy1oMGhBdWMxcHM?oc=5",
       "primary": false
     },
     {
@@ -363,6 +393,21 @@
       "primary": false
     },
     {
+      "id": "12763a916cd0f5476e90",
+      "leader": "bernard",
+      "date": "2026-11-22T00:43:25+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "GTA VI becomes biggest entertainment launch with $3.79 billion in first-day sales - The Shillong Times",
+      "summary": "GTA VI becomes biggest entertainment launch with $3.79 billion in first-day sales The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm9Mb1NfT1pUTms5UmlvZXU1RWhBRnktYWRobjE5RllrQkNVeExuaDQ5cEp5S3ExbDJobnlzZWdrUnJGVUhUaVdWVVFiVk95d1BOOVFzVnJERnJMNldxb0NSQ1draDVHenZsSmtnazBrbTNkYlVVdlUwUVRnajhUVjJNVHdENjZiRGF5LWxPTHVhcGlpR19BZkNmaVdHUFRDalh3WVdsSGF3YkhGT1dVd1I5MjN3Y3QyVjg0LTN3?oc=5",
+      "primary": false
+    },
+    {
       "id": "7329f2b0e8e24c42aa2f",
       "leader": "mukul",
       "date": "2026-11-22T00:32:58+00:00",
@@ -560,7 +605,7 @@
     {
       "id": "5ca6a037ce0798be0b91",
       "leader": "bernard",
-      "date": "2026-11-21T08:01:42+00:00",
+      "date": "2026-11-21T08:01:37+00:00",
       "type": "news",
       "category": "News",
       "title": "BJP disowns Bernard Marak on gospel concert RTI query - Meghalaya Monitor",
@@ -813,21 +858,6 @@
       "primary": false
     },
     {
-      "id": "2b94570ce176bc521a0c",
-      "leader": "bernard",
-      "date": "2026-11-19T05:30:34+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "“Why politicise a gospel concert?”- Citizens slam BJP MDC Bernard Marak’s RTI, ask if there is a hidden agenda - Hub News",
-      "summary": "“Why politicise a gospel concert?”- Citizens slam BJP MDC Bernard Marak’s RTI, ask if there is a hidden agenda Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG92MGRtWlpxNzhwWXc0c2FqNlVMWjRjWlN5aG94bm1XNHAxOTJlaEY3OUFpOEtNVWRZSnMtQWpRVUdzQ1JGdjZWSmVVTzg1T29WMVhDU2Q2dmtHQ1pCSUxpRXlqMFIxakdPRDZ6cTFVUGhfVzNWRHNjcWdzMmxxVjhrNFVvSHlpX2J5SkdVampacGV0akM0cGduN3o0S0Z0Ukl0Z0ZXMmt4YnpXaVh3LVBjdXR0UFRueEw1MnBOcXN5MWZWbnc?oc=5",
-      "primary": false
-    },
-    {
       "id": "a96318f0cfb6aa8803f2",
       "leader": "bernard",
       "date": "2026-11-19T03:40:08+00:00",
@@ -840,6 +870,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOW9aWG9ELWtNWm9FZWdGOGFydjNKWWxZcURFem95cUJjRmN0NjBfeUJBY1lWSUIydkdvcWYwNEtqai1VUkROUlA0SVZfel9xOXFCUVRBS29zRmRSQkZTZ2MyOHVxMk5faDc1elVYWGhQbjJub3hEUXIybVlMamV0Y0lxRlVpOFhPdDJaNDJ1OE9talF4YklFOUt6UTJoRWMzOTFDRGFwcEJXNUFTVndhTEFKUFF0N2RPU1E?oc=5",
+      "primary": false
+    },
+    {
+      "id": "2b94570ce176bc521a0c",
+      "leader": "bernard",
+      "date": "2026-11-19T03:29:43+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "“Why politicise a gospel concert?”- Citizens slam BJP MDC Bernard Marak’s RTI, ask if there is a hidden agenda - Hub News",
+      "summary": "“Why politicise a gospel concert?”- Citizens slam BJP MDC Bernard Marak’s RTI, ask if there is a hidden agenda Hub News",
+      "source": "Hub Network",
+      "reported_source": "Hub News",
+      "source_domain": "hubnetwork.in",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG92MGRtWlpxNzhwWXc0c2FqNlVMWjRjWlN5aG94bm1XNHAxOTJlaEY3OUFpOEtNVWRZSnMtQWpRVUdzQ1JGdjZWSmVVTzg1T29WMVhDU2Q2dmtHQ1pCSUxpRXlqMFIxakdPRDZ6cTFVUGhfVzNWRHNjcWdzMmxxVjhrNFVvSHlpX2J5SkdVampacGV0akM0cGduN3o0S0Z0Ukl0Z0ZXMmt4YnpXaVh3LVBjdXR0UFRueEw1MnBOcXN5MWZWbnc?oc=5",
       "primary": false
     },
     {
@@ -3465,6 +3510,21 @@
       "source_domain": "indiatodayne.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNem42YzUza015NXdLbEVlaV8yLTJhQVRYR21FM1c2ZkJhWGJhd01nWUtaRTdwRGIzRGNiRW5zRi15bTVQQVRHMUQzOW9ZOFpNUzEyLWx2N3huWjluWGxRUVRFV3VldzgwS25UdTlRSjFqWEFrUHRvQ0hfQmNoWnFUTGxfRE5iaHZKMERyc3pfTVBWQTM3Q0ZJNEthRjQ0ZG1hWnNNekhCZHVnUGRNZkIyUk5fOTlSUHNDMkxLd1JOcnpkZjItaE9Tb0pjakRoUUNCWHRmRThjakdZazFjSFJPbTZaUdIB6AFBVV95cUxOMVF3N2ZGWDItRGVQckwxWFZUbWV5RnlKMFFRYnM2MzJEczVQRzZXbEJGWTgtTzhLcXI4ZUVtdkNmTWFaQ2Y5ODVBam03dmxhLV8teEgxQ3NZaU55ZWxhN1gwWWljYkY3M0pNM0pDdmJia3Y5VmRpbUp6TG11Yi1uak81NlE1b184aWdNb0luTmNldzBVOFRSaW02Z2NFTVJNcmRfall2SlVmV0JzQV9yRVREeGRBd0l6UnY5ckZJeXdCNkU5SkJ5eEN6MFNGeVhlUVhNNkJOejRQUHIyaDItVzVGd1NVakpW?oc=5",
+      "primary": false
+    },
+    {
+      "id": "ddc643ce3a60c53a50a8",
+      "leader": "mukul",
+      "date": "2026-10-28T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Meghalaya border fencing: Mukul Sangma flags landowners’ plight, calls for Centre’s intervention - India Today NE",
+      "summary": "Meghalaya border fencing: Mukul Sangma flags landowners’ plight, calls for Centre’s intervention India Today NE",
+      "source": "India Today NE",
+      "reported_source": "India Today NE",
+      "source_domain": "indiatodayne.in",
+      "source_tier": "Regional / national media",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWThBSEYzNS1VMmQ3SUdCN1BHWTcyTng0VTROdHNhTnZaMU9SWjUtc0FvX240NHlKc2txdHQ1Q1A5N01BT2hmdmZjM1hCUGJ5SnMxUWhvd3RjclExQ092b0hPYzd6ZW95cTBxalFqaXdkckxRRGZYTTBaOXNRWHJiazdhWi1zZ0MzZ21ZekRKejJRMWdacGtkV1haMUNKLXZPX3BQalRsSGZCeFl0OHZoRTB6UDF0RUsxUDlleEl5TXQ0dFc1Wm10cXIyXzdSc2ZZVU9wOW5ZNnFvblB4RWVULUhDM3A1ZklHMTJN0gHwAUFVX3lxTE9WckFrU3ByaHNMMmlVUW9XdmhlZ1EzN0VFZ1JkZWdiWDZoZGljMXAyQlVXbUJtN3hTM3JzX3hQMWlEX2lfWkFOeFJCZGZXcmpjek1sbmM0M3MxSFRTVDlpWV9LTVBLdmRqbGI1Qmp0Nzh2TzQtZnB3VGdrM1c5NFVROTdVN1YyVGtNdjBwTThkMWVyaDhfZ2xzejJTd2RhOXJLTEo1RmpUMmdPYlBlazdGREpRdWVvOXVlYW81UmRlbFA5R2s5X0FobkJWNHg0Nng0bXNPMlV1RHFVWFkxRTVaWjJNRUM5bjE5RFBleUhEaw?oc=5",
       "primary": false
     },
     {
@@ -7431,66 +7491,6 @@
       "source_domain": "highlandpost.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1BROUhzTWl5TVRIdXA4Q1lBdHd6bkw5akpuVGNWRkFiVDlYVlVTVkhVYTBrcmhPWE04X3Fibmk1NTBmRzdaZlhUQUl4T1JfaGVwR1Rjbzg0ZVNIT3FvcV9DYU8tb21pM0RCRTVURFlMbW1QaW04MDR6MzNZU1A1T1pWVHdnd3c?oc=5",
-      "primary": false
-    },
-    {
-      "id": "5505e52b8f020bc33a7f",
-      "leader": "mukul",
-      "date": "2026-08-26T06:37:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul Sangma backs uranium resolution, calls for firm follow-up with Centre - Hub News",
-      "summary": "Mukul Sangma backs uranium resolution, calls for firm follow-up with Centre Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2hoQkp0SFBNeTZGa2h6Mk9oUmhSQl9EMzlUNk5hQ1ZVaXpGVWNLbFdySUt0SmJFczZFZkZzVFMtZV9MN1FxQml3ZXNNVEZRYnFUZjh4VVdjLTBaNzhxVmp5V3pBU0xmRk5BejM5YWNVNXJVNTlHa3A3aE9tQ3JBQWIybDJ1Y3FEZ0FhQ2JpWDZScGhYSTBoNEFFSU1HUQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "132f67ef1ea0615e2caa",
-      "leader": "ardent",
-      "date": "2026-08-25T12:33:30+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Border dispute was in status quo for 50 years, 6 of 12 areas resolved in 2022: CM - Hub News",
-      "summary": "Border dispute was in status quo for 50 years, 6 of 12 areas resolved in 2022: CM Hub News",
-      "source": "Hub Network",
-      "reported_source": "Hub News",
-      "source_domain": "hubnetwork.in",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhDa1NvNllJRFhIdUdXSW5tYVFLRU1oeXUwSl9TRHpQdjl1dGZyYUdaLUFHSExaSlpWQnlyN2swaXYtcnpsSmxjTnNoczhmTEZobDNVaUdQd0dOMVZYNkdEUDVjTzJKT3lHZnNwUzk1YUlTNk42RkNLTWNyZE1yZnJmcVQ0eWJValgwR0ZCNkxBZU9oQVM5N3ozczg4Z0JzWFpOVA?oc=5",
-      "primary": false
-    },
-    {
-      "id": "7e7811825c532af91678",
-      "leader": "mukul",
-      "date": "2026-08-25T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Mukul for real-time auditing of schemes - Meghalaya Monitor",
-      "summary": "Mukul for real-time auditing of schemes Meghalaya Monitor",
-      "source": "Meghalaya Monitor",
-      "reported_source": "Meghalaya Monitor",
-      "source_domain": "meghalayamonitor.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1veEs2MHp4Vm1VUDlUM2VEOS1CMmIySml1OHpQMnFsNWMySUFyMHV3ZUpWbUNZNDVCQWwtUDhud3dYN2tZT0E5b2VNRmNKa2ltWGxCRmtCTVloX01KM1k3akVLXzBHVkU0ei1NSk1ZZTA3emlJMVVxRw?oc=5",
-      "primary": false
-    },
-    {
-      "id": "427df3e17d4f5a35b942",
-      "leader": "ardent",
-      "date": "2026-08-25T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya records 20,655 educated unemployed, 74 recruitment exams hit snags - India Today NE",
-      "summary": "Meghalaya records 20,655 educated unemployed, 74 recruitment exams hit snags India Today NE",
-      "source": "India Today NE",
-      "reported_source": "India Today NE",
-      "source_domain": "indiatodayne.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTd4S1N6bklDa1ZQSjUwMnFBOXRIM2xNTnpqVUZjRV9rMkpHcjZZNzNoQnlwR2RFWkJHMkV1aWJBekFqd0RqdFhsOTZkajdadTExTVJFQnVsQU42RDlSWDdDdzI2WGFvQWtXLVZBYTdMV1Y4aWhPYUU2bXdXeTR1V251Mmw5UUZPbm9CZ0VsSmJsS0xscEN5amMtQkJYeEJrNjU1MWQtaC10N0NHM09hZzU2ZWFmamVBY1ZsamY1ZVhibDVVSXJGTm5VVUhPb2NXaEVN0gHYAUFVX3lxTE9rbHBqT2ZUV3RJTzNUSm5aSXNzd2JXc21aYmpqYnhTX0xnTWhEc0xpWnloc3JDRml4NzgtS0tyLV9YMEY5NzNrUHNvV0Q4UzhGTnprTDR2bE5ITEdJQUQ5T2JsTE5zZ1Zjal8wa1NsdXdMem04V1lxdGZTR3NvUFN1c3l5VW50S1ZjeWFlN0tteUxibGxSUExzaGZ6bVBFSVpQUEdaODFXckNOTDRBZ2tnckk3Rllwa21odDl5bzBXeU4tT0d4RHJtd1k4YS0xWUZrN3c1SUpwYw?oc=5",
       "primary": false
     }
   ]
