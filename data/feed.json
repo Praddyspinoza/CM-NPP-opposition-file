@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-26T08:30:11.268561+00:00",
+  "generated_at": "2026-11-27T04:59:57.132050+00:00",
   "status": "updated",
   "items": [
+    {
+      "id": "e52a947747bfd6886c53",
+      "leader": "bernard",
+      "date": "2026-11-27T03:59:20+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "GHADC-ni chang 17-gipa session-ko a·bachenga - The Shillong Times",
+      "summary": "GHADC-ni chang 17-gipa session-ko a·bachenga The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzczQTRTOGVSdjNGNG9qYS1MWVNwQjRveEp3RzhYcTh6UmRHUlcwcTVQRF9nSUtSUEFWWnB0RDd3ZGpIVHhwZXZTcmVHVkVQTGtqSTZvSS1zMzYyRTVTWXc0YmdBV1RYamRXMHNJTG14TXhpTkFRZjhTdDhmZ2xLUHZQSU0tOW9JaU5mc3RReENyRXhV?oc=5",
+      "primary": false
+    },
     {
       "id": "20e12b7cd51416710ac0",
       "leader": "bernard",
@@ -723,21 +738,6 @@
       "primary": true
     },
     {
-      "id": "154e27bfe685e6447b34",
-      "leader": "saleng",
-      "date": "2026-11-20T10:26:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Members of Parliament - Meghalaya Government Portal",
-      "summary": "Members of Parliament Meghalaya Government Portal",
-      "source": "Government of Meghalaya",
-      "reported_source": "Meghalaya Government Portal",
-      "source_domain": "meghalaya.gov.in",
-      "source_tier": "Official / institutional",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUSGlhY0Y1amV6UEpuSTQyX2VSeHVUMHBjMmp2MC10WURXV0RidDZLQjlxWnV4NkZjY1ZtcVk5NW0tMy1TbTVrZmJpZ0s5X1NlVUJubXVoN29mRjJwX2Z3?oc=5",
-      "primary": true
-    },
-    {
       "id": "de39d9d7d89dc5310cfc",
       "leader": "bernard",
       "date": "2026-11-20T07:03:26+00:00",
@@ -1113,21 +1113,6 @@
       "primary": false
     },
     {
-      "id": "1d969d4c5a8d549ce3d3",
-      "leader": "bernard",
-      "date": "2026-11-18T15:40:53+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Bernard seeks Guv’s intervention on Agreed Text, GHADC matters - The Shillong Times",
-      "summary": "Bernard seeks Guv’s intervention on Agreed Text, GHADC matters The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlZIdHNEdm9ja29mVjlZdVhlblZGNEZSWUpiMi1VRWFWZjNLRV84QkFYUkJhU3kxVG45WFFnemNMM2ZjRFd2OUpBOWVrazBINndNSHFLMkI3anpfWmF4dEY5Sk1TYmRLT2JqM3k0RnFnME5zNnk5eDliREVfejR5Rk5vVFZXTktIZm9IUnhFSjJWUFJodXFtNmppYVhfY0ZpNVpz?oc=5",
-      "primary": false
-    },
-    {
       "id": "bb2cd7c7fde3389bc4f0",
       "leader": "mukul",
       "date": "2026-11-18T11:48:00+00:00",
@@ -1200,6 +1185,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnFfcHZlQWk2WFNVdWtZS1FQTFBqd2JPeDAycjlIY1lpX2l6Y1R4QjJ2dlRxakF1UGczTjRkTWRpNFU0Qk8xMG5ZSUVtaFROUWxad1VwTTRIbUI5dEZkZExKemVHNC01dTFIcW1RMXFmZTAtcjFBS0dicDlEUFhyMFpMZ2NJUDJBRnlTZnU3NDdKMUpDSkU2ZjBjd3hTMjJnbVJ1MGc5M08xWG9oNmpBeHVIV1hOcXRrRnc?oc=5",
+      "primary": false
+    },
+    {
+      "id": "1d969d4c5a8d549ce3d3",
+      "leader": "bernard",
+      "date": "2026-11-18T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Bernard seeks Guv’s intervention on Agreed Text, GHADC matters - The Shillong Times",
+      "summary": "Bernard seeks Guv’s intervention on Agreed Text, GHADC matters The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlZIdHNEdm9ja29mVjlZdVhlblZGNEZSWUpiMi1VRWFWZjNLRV84QkFYUkJhU3kxVG45WFFnemNMM2ZjRFd2OUpBOWVrazBINndNSHFLMkI3anpfWmF4dEY5Sk1TYmRLT2JqM3k0RnFnME5zNnk5eDliREVfejR5Rk5vVFZXTktIZm9IUnhFSjJWUFJodXFtNmppYVhfY0ZpNVpz?oc=5",
       "primary": false
     },
     {
@@ -2043,6 +2043,21 @@
       "primary": false
     },
     {
+      "id": "663692ac75567ec601c5",
+      "leader": "bernard",
+      "date": "2026-11-10T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Bernard challenges Rahul Gandhi to substantiate ‘vote theft’ claims - The Shillong Times",
+      "summary": "Bernard challenges Rahul Gandhi to substantiate ‘vote theft’ claims The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEhuWXE1Mi13WjE0V3VFZkNDTGhPbGFZMlA0c2FKUGFJTEI5X2NYZ1dFRHpzdllNRDhqTUZYb3RUUHU4dTlhdk53bUhUWHJzVk1DSFdpdy15QW9yaFFmaTZlRkV1a1FuR0NaVDRGT3dqelR2aWZYYzgyQ08wcEJTN1hoRVRFTlhzX3k2Q2JHNUs3RlNQUjZ6M3dOU2NpNlZCMndfOW9BR25Wdw?oc=5",
+      "primary": false
+    },
+    {
       "id": "18f5e6b3c65be8882313",
       "leader": "saleng",
       "date": "2026-11-10T07:17:37+00:00",
@@ -2280,21 +2295,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUEtaV93V3lVajdkb1R1Q0k1bmktUEc3NHZqMW1peEh5cWNQWEs3Vl8zTHU1ak1NYk81c1ZUZTNkT0txSWRPbno5RjhZVGc1cDdCb2s1cjExY1NZYXEyenVxRHpqZERtT3IxLVlSMGtFRTlmZklkRjdnX3FSOWxHWHRBRkFDS3dSbEMzcS1pSVZiNmJCdFFMdS03LTExYkNRblF4ZGpxRW5Uazg?oc=5",
-      "primary": false
-    },
-    {
-      "id": "663692ac75567ec601c5",
-      "leader": "bernard",
-      "date": "2026-11-10T00:28:48+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Bernard challenges Rahul Gandhi to substantiate ‘vote theft’ claims - The Shillong Times",
-      "summary": "Bernard challenges Rahul Gandhi to substantiate ‘vote theft’ claims The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEhuWXE1Mi13WjE0V3VFZkNDTGhPbGFZMlA0c2FKUGFJTEI5X2NYZ1dFRHpzdllNRDhqTUZYb3RUUHU4dTlhdk53bUhUWHJzVk1DSFdpdy15QW9yaFFmaTZlRkV1a1FuR0NaVDRGT3dqelR2aWZYYzgyQ08wcEJTN1hoRVRFTlhzX3k2Q2JHNUs3RlNQUjZ6M3dOU2NpNlZCMndfOW9BR25Wdw?oc=5",
       "primary": false
     },
     {
