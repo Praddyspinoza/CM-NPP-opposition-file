@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:59:57.132050+00:00",
+  "generated_at": "2026-11-27T08:43:41.280627+00:00",
   "status": "updated",
   "items": [
     {
@@ -635,6 +635,21 @@
     {
       "id": "016a0d159b335c7ab9f9",
       "leader": "bernard",
+      "date": "2026-11-21T03:43:31+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Gospel Fest-ni bidingo RTI ka·aniko ABDK-na pakwatani gimin Tura MDC sing·doa - The Shillong Times",
+      "summary": "Gospel Fest-ni bidingo RTI ka·aniko ABDK-na pakwatani gimin Tura MDC sing·doa The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3dReDNjQ3I3WEZYNnNtNHM3SlhJTm5Cbmk4OXVHVjRhN1FNTlplQUdHbTRFcDN2RjlUNnprc1RoMmFYU011bDdHUVN2T1RSelJvZHRmUzYtWGkwWS0td3NlazhYcUNXbG83bXdlUWFLUGVUbE14NzVaVGNMbWJaRWh4aUw5OTJSYTd5RmE5REhsTERBZ2N3Sl9XWGhUZ21IYzY3VXkteWhmSUtoWWFQUF9oMk8xMEtqVmYyVGtFRG1zYWliRlhr?oc=5",
+      "primary": false
+    },
+    {
+      "id": "d01b7df837862fde7d03",
+      "leader": "mukul",
       "date": "2026-11-21T03:43:31+00:00",
       "type": "news",
       "category": "News",
@@ -7476,21 +7491,6 @@
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0JLckt4R3JpRVh3dmJHOXAxYmc3akR0WFM2ZGtFbzFxOGQ1UTRfLVdqQkF2WE9zU0c3Uktna013TlNRRk81TWl1dlMyMHZiclFhemgzempxQTJVNFNxalJQU2x5NzBiOHRlR1JPaVlCcFFna0wxdm0zQmI2YUhzdjFlMU1hUFlmcU8ydEllcjh6d3ZLZDlWMDdlSmViM3l1WWNKTFNkbndiNnRHb2FkVXNaTmNlWmZSaXlMVW1Sb0E2NWRua1RJWWd0U1dDVTlZblA0UVZ4VnJseTjSAdsBQVVfeXFMT0hWVE1vYnE3U0NKNXdNSF9WMkVFeGNfMUJMbXRKc0VTazlOT242UmV1MFRWSW1QT2J6djNydEdJQlNGVHp3Z0d3TERNSkFKMDQwNDNEbjM3X3dpcGtSdmVBdkxSLUpRLUc5Q3dLTEkySzZleV9HUW9ucGt2V2NNa2ZLNGpuUWZxV2l6OXJlNkZMLVRweGxSZ2FZREYtT3VTczd5cURtV1pVWjdpVnJJbkI1TzhXbmkxS3hVQ29iRXF2VWItQS1ZYkJUaDdvTjVHRC00U2MxVDI4WWow?oc=5",
-      "primary": false
-    },
-    {
-      "id": "687f0d66a87f2fa276bf",
-      "leader": "mukul",
-      "date": "2026-08-26T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Rongjeng-Mangsang-Adokgre road 97pc done, Assembly told - Highland Post",
-      "summary": "Rongjeng-Mangsang-Adokgre road 97pc done, Assembly told Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1BROUhzTWl5TVRIdXA4Q1lBdHd6bkw5akpuVGNWRkFiVDlYVlVTVkhVYTBrcmhPWE04X3Fibmk1NTBmRzdaZlhUQUl4T1JfaGVwR1Rjbzg0ZVNIT3FvcV9DYU8tb21pM0RCRTVURFlMbW1QaW04MDR6MzNZU1A1T1pWVHdnd3c?oc=5",
       "primary": false
     }
   ]
