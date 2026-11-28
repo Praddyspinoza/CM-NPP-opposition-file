@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:43:41.280627+00:00",
+  "generated_at": "2026-11-28T04:43:41.370566+00:00",
   "status": "updated",
   "items": [
     {
@@ -90,6 +90,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEpzZDhQNTZxOEdSSjFUNUxVT3BOTTFPa05fTlRIci1kRHpZSWNiRU5YR21TdUhQbEZvb3plTmYza2JQeGhKODY4eWdjVHE5VTlORUh4NXp3VTBvVGlyNWJkbGtlWlhyd0tDbHQ4cE5hWmJkeWxYdzZhcnJIcGp2a3JfUHJ6SEVZQVpwem10MlNZcnhyb2J3M3lzNng?oc=5",
+      "primary": false
+    },
+    {
+      "id": "9dd434a20c49fb47da0e",
+      "leader": "bernard",
+      "date": "2026-11-25T02:28:09+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Govt mulls hybrid model to run 108 ambulance service - The Shillong Times",
+      "summary": "Govt mulls hybrid model to run 108 ambulance service The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFFjOU8xTXNCQ0xpeEtOMEp2YTFrQTFBdWJhSDlSVDlIcW14QnFnZFl0ZEVzcVNQLURVdFpqdUFfdGRMeVlkVGZEcFhhSTNEY0RvSXpuZ0JyLW5fVkEzRlRfUk5RazZtQWNVV0trSXdYUldac2VFS2F3Rk9SVm1ZYVFlMUczNXJqODRCbHdYZW4tZU5ETWNRWg?oc=5",
       "primary": false
     },
     {
@@ -420,6 +435,21 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm9Mb1NfT1pUTms5UmlvZXU1RWhBRnktYWRobjE5RllrQkNVeExuaDQ5cEp5S3ExbDJobnlzZWdrUnJGVUhUaVdWVVFiVk95d1BOOVFzVnJERnJMNldxb0NSQ1draDVHenZsSmtnazBrbTNkYlVVdlUwUVRnajhUVjJNVHdENjZiRGF5LWxPTHVhcGlpR19BZkNmaVdHUFRDalh3WVdsSGF3YkhGT1dVd1I5MjN3Y3QyVjg0LTN3?oc=5",
+      "primary": false
+    },
+    {
+      "id": "0e6e87392604971627f4",
+      "leader": "bernard",
+      "date": "2026-11-22T00:33:52+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Couple’s marriage, child prompt HC to quash POCSO case - The Shillong Times",
+      "summary": "Couple’s marriage, child prompt HC to quash POCSO case The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkx1WjNQTHg4b1lMYmExOUZOVURSajJySUJxdG1QVUk4Q1UyZlNzWVo2NnZiN24ySjNQYV80THZ4U0hHczNtR0Q1bmxCSVdPZWJwUzFRM2hCQWRQTVVZcFNUSmlWQ3J2dHF3QVc4aUpKeVpqc08xYTE3QVRQUy1mSmgwLXlTTHowZWpMSjdIQWhOcHl3V3JfMg?oc=5",
       "primary": false
     },
     {
@@ -1803,21 +1833,6 @@
       "primary": false
     },
     {
-      "id": "96d699cd7cb4275de0f3",
-      "leader": "mukul",
-      "date": "2026-11-12T18:45:49+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Garo Hills groups press Governor on ILP, border, language - Highland Post",
-      "summary": "Garo Hills groups press Governor on ILP, border, language Highland Post",
-      "source": "Highland Post",
-      "reported_source": "Highland Post",
-      "source_domain": "highlandpost.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXVzazVLSTR1RVljWXhnSkV0MEl1enNqNU5NeTNrdlVnSnhEXzBfNXA1M0w5aGVrbUFlZ01kQ1NSQVpVdnQ2dzBCNm12aHJMNWtwS3l1dUJoamZuRUlhc1FZdEljOXVPaDFBSGI4YUZuVE1CMTlkc0hsMlZyU2tTR2dyTzRWR3Vf?oc=5",
-      "primary": false
-    },
-    {
       "id": "490539402e132320fc2b",
       "leader": "saleng",
       "date": "2026-11-12T15:47:07+00:00",
@@ -1845,6 +1860,21 @@
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdDdrb0VBakpyclJGLXhjM0tlaHAwTDN6Q0dJQVhKY1FfMjJxMFYybDdaZnRtU0l4WE1qb0JjU2dXQVY4QWZEMFg1eDFIZDA?oc=5",
+      "primary": false
+    },
+    {
+      "id": "96d699cd7cb4275de0f3",
+      "leader": "mukul",
+      "date": "2026-11-12T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Garo Hills groups press Governor on ILP, border, language - Highland Post",
+      "summary": "Garo Hills groups press Governor on ILP, border, language Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXVzazVLSTR1RVljWXhnSkV0MEl1enNqNU5NeTNrdlVnSnhEXzBfNXA1M0w5aGVrbUFlZ01kQ1NSQVpVdnQ2dzBCNm12aHJMNWtwS3l1dUJoamZuRUlhc1FZdEljOXVPaDFBSGI4YUZuVE1CMTlkc0hsMlZyU2tTR2dyTzRWR3Vf?oc=5",
       "primary": false
     },
     {
@@ -6672,6 +6702,21 @@
       "primary": false
     },
     {
+      "id": "b1ac2735983b3ec79eb0",
+      "leader": "ardent",
+      "date": "2026-09-20T07:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "VPP holds meet for LS bypoll, eyes 2028 - Highland Post",
+      "summary": "VPP holds meet for LS bypoll, eyes 2028 Highland Post",
+      "source": "Highland Post",
+      "reported_source": "Highland Post",
+      "source_domain": "highlandpost.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHR2FyNDVhbkFMZ0hHa2ZPLWNCcllpRzJabmhCXzN0MjVSR3dRS1dfWmdsUEFvMVNZQkZDZV9HekowQUxWNUtvakdyQjIzaG9PYkVtcUI2LXVFOTlHVm1hMm5wc2hXdlVwZkxpbDRCa2VxQQ?oc=5",
+      "primary": false
+    },
+    {
       "id": "a99cd72b1926bc26c35d",
       "leader": "ardent",
       "date": "2026-09-18T07:00:00+00:00",
@@ -7443,51 +7488,6 @@
       "summary": "Meghalaya seeks mining rules suited to local conditions, Centre reviewing proposal: Conrad Sangma NE NOW",
       "source": "Northeast Now",
       "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0JLckt4R3JpRVh3dmJHOXAxYmc3akR0WFM2ZGtFbzFxOGQ1UTRfLVdqQkF2WE9zU0c3Uktna013TlNRRk81TWl1dlMyMHZiclFhemgzempxQTJVNFNxalJQU2x5NzBiOHRlR1JPaVlCcFFna0wxdm0zQmI2YUhzdjFlMU1hUFlmcU8ydEllcjh6d3ZLZDlWMDdlSmViM3l1WWNKTFNkbndiNnRHb2FkVXNaTmNlWmZSaXlMVW1Sb0E2NWRua1RJWWd0U1dDVTlZblA0UVZ4VnJseTjSAdsBQVVfeXFMT0hWVE1vYnE3U0NKNXdNSF9WMkVFeGNfMUJMbXRKc0VTazlOT242UmV1MFRWSW1QT2J6djNydEdJQlNGVHp3Z0d3TERNSkFKMDQwNDNEbjM3X3dpcGtSdmVBdkxSLUpRLUc5Q3dLTEkySzZleV9HUW9ucGt2V2NNa2ZLNGpuUWZxV2l6OXJlNkZMLVRweGxSZ2FZREYtT3VTczd5cURtV1pVWjdpVnJJbkI1TzhXbmkxS3hVQ29iRXF2VWItQS1ZYkJUaDdvTjVHRC00U2MxVDI4WWow?oc=5",
-      "primary": false
-    },
-    {
-      "id": "51949e56c087e37bc6e9",
-      "leader": "ardent",
-      "date": "2026-08-26T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: Conrad Sangma announces fact-finding panel over Shree Cement plant hearing - NENow.in",
-      "summary": "Meghalaya: Conrad Sangma announces fact-finding panel over Shree Cement plant hearing NENow.in",
-      "source": "Northeast Now",
-      "reported_source": "NENow.in",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmpmcTNzeHRIRnhnal96VXgzaFJUZDQyM0IyQXdnVzZYX3piNkhKcEpNZW42NnAzNGRIaldrMFFObWZpNHNYRXhNNlRwTTF1eEh3VU1EQTAtd0JWaVZZQzFGazJkVml2NF9kWjAzZ1N3WTVrOGpTR2RYeHRnNnNUUWg4MWoyU093aUUtTUhhRi1qV0FHN2tJX1FTNjg0NFhWY3RvMHI2cVdwbjF4X25FNjh0YzFlV3htd1ZibmgxaWNjUGxoRkVZSkZQekTSAcwBQVVfeXFMUHZRWld2RFhXOUt5c2o3b1EtdDhycEJvSUxNbVRCQ1IxVDJyeWdQRlRIbVZlVTRHcFlrY2lPQkhqbjhHSWhGSVd1TnhPaEZGMmxBRUZHejRCOTFqZ0Y4RmFyX3hLWUowVVRPenVyY2JuOVFFZ2hsRUNzdktMS2pxa0xUSUFHY1hSSmN2b3oyd05zME9tUXo3a3R6dURWLW80R1VYX2p6aVlQUEpKRFc1VHNta0J1anAyeUJVTWFjQi1CWGhIUlo4a24tSE5B?oc=5",
-      "primary": false
-    },
-    {
-      "id": "719b3f06f9c228b9640a",
-      "leader": "ardent",
-      "date": "2026-08-26T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya: 28 of 37 Byrnihat industries found violating pollution-control norms - NE NOW",
-      "summary": "Meghalaya: 28 of 37 Byrnihat industries found violating pollution-control norms NE NOW",
-      "source": "Northeast Now",
-      "reported_source": "NE NOW",
-      "source_domain": "nenow.in",
-      "source_tier": "Regional / national media",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOGJEZ21OSVRTWXAwVWVwUTFmdUVnOXgtenNfcGNJVkdJM3B4SVQyeUpVWVBYSzhNY29HZ0pody16djNzZmdZN2R0YjVmNk9jSUVtOW1mckR6QXBSY29UT3o3TXhWUXI3S2ZKOXNVOUYyOFp5NG8yNVBEaEU2dWQ2Q1dGQzZQcWxDZHpkV1lSTl8yN3VUVk1UaFQtOTNveFFBZ0k1ZjhOTFZxMko3elB5RWRmRk5xdGthbnVGcDA3ZkFqTEhG0gHEAUFVX3lxTE5XTnlUaGNreGdLTWRhNFFhUnQyX3pRYXlPSjQ1U1NMYnFPZGVlcjh4MWpfNnNmVlY1TF9UTFI0d3VKNVNUMGROSjdvNHRVa0RPeFhMSFhnTmhkYUdYcHdTQTVVeU9aYXEyQnAxbm5fWHM1RTJJVWt6WEEwSzlFZWNKbEFOYXd5c1VzbmlteUUwNVZobjlGTGlLX3M5NlVPME5qSElyRlJiLWZmdzRNN2Jsb090RENHSWtEN3NPeVZLdUU4SU0?oc=5",
-      "primary": false
-    },
-    {
-      "id": "011bc26eed03f11bf456",
-      "leader": "ardent",
-      "date": "2026-08-26T07:00:00+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Meghalaya seeks mining rules suited to local conditions, Centre reviewing proposal: Conrad Sangma - NENow.in",
-      "summary": "Meghalaya seeks mining rules suited to local conditions, Centre reviewing proposal: Conrad Sangma NENow.in",
-      "source": "Northeast Now",
-      "reported_source": "NENow.in",
       "source_domain": "nenow.in",
       "source_tier": "Regional / national media",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0JLckt4R3JpRVh3dmJHOXAxYmc3akR0WFM2ZGtFbzFxOGQ1UTRfLVdqQkF2WE9zU0c3Uktna013TlNRRk81TWl1dlMyMHZiclFhemgzempxQTJVNFNxalJQU2x5NzBiOHRlR1JPaVlCcFFna0wxdm0zQmI2YUhzdjFlMU1hUFlmcU8ydEllcjh6d3ZLZDlWMDdlSmViM3l1WWNKTFNkbndiNnRHb2FkVXNaTmNlWmZSaXlMVW1Sb0E2NWRua1RJWWd0U1dDVTlZblA0UVZ4VnJseTjSAdsBQVVfeXFMT0hWVE1vYnE3U0NKNXdNSF9WMkVFeGNfMUJMbXRKc0VTazlOT242UmV1MFRWSW1QT2J6djNydEdJQlNGVHp3Z0d3TERNSkFKMDQwNDNEbjM3X3dpcGtSdmVBdkxSLUpRLUc5Q3dLTEkySzZleV9HUW9ucGt2V2NNa2ZLNGpuUWZxV2l6OXJlNkZMLVRweGxSZ2FZREYtT3VTczd5cURtV1pVWjdpVnJJbkI1TzhXbmkxS3hVQ29iRXF2VWItQS1ZYkJUaDdvTjVHRC00U2MxVDI4WWow?oc=5",
