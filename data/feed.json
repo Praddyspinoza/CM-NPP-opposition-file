@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T04:43:41.370566+00:00",
+  "generated_at": "2026-11-28T07:57:17.886128+00:00",
   "status": "updated",
   "items": [
     {
@@ -1248,6 +1248,21 @@
       "primary": false
     },
     {
+      "id": "109734483ba641acb82d",
+      "leader": "bernard",
+      "date": "2026-11-18T08:00:00+00:00",
+      "type": "news",
+      "category": "News",
+      "title": "Bernard takes Garo Hills issues to Governor - The Shillong Times",
+      "summary": "Bernard takes Garo Hills issues to Governor The Shillong Times",
+      "source": "The Shillong Times",
+      "reported_source": "The Shillong Times",
+      "source_domain": "theshillongtimes.com",
+      "source_tier": "Meghalaya media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkNQQkYzQ1Z2bW5jU3RvMTlPY0N6eDljR0VpZDRDc1Bqc3NZNVdQUUEydEtSUzZ2ejFyX1VSZllOYlBFOWNKMzJxRVlnOUdZWm9KeFhveXhzNjhMYjZvckQ1bGxmajlKdmx2eEZYVWFia015aGVnaXpCYWdCQWYtclAyc0tYa0huZ2hVRw?oc=5",
+      "primary": false
+    },
+    {
       "id": "04003eeb1b2fda0fc5ab",
       "leader": "bernard",
       "date": "2026-11-18T07:41:38+00:00",
@@ -1320,21 +1335,6 @@
       "source_domain": "theshillongtimes.com",
       "source_tier": "Meghalaya media",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWRFLS1SZER5bldKSDVrZlZEUVloTXR4cXN1NlF4ZFBodW44TklfX29laG0tNC0tcjNvemtYY28zaUNsT2xyeFI5cWNtS3VyWjN6VWtoYWxlc3RhRVdIbDJYS1RxbDc1MmVrMU56LTZwUURMMjJ1OXpWazcyYWNEUkxFdVFsSkF1dGJxNlNWSFpDd1RLbDQwMDVFQVlyd2wySFBYV1VWUkpKZ0tOS2hEb1hTSQ?oc=5",
-      "primary": false
-    },
-    {
-      "id": "109734483ba641acb82d",
-      "leader": "bernard",
-      "date": "2026-11-18T00:33:04+00:00",
-      "type": "news",
-      "category": "News",
-      "title": "Bernard takes Garo Hills issues to Governor - The Shillong Times",
-      "summary": "Bernard takes Garo Hills issues to Governor The Shillong Times",
-      "source": "The Shillong Times",
-      "reported_source": "The Shillong Times",
-      "source_domain": "theshillongtimes.com",
-      "source_tier": "Meghalaya media",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkNQQkYzQ1Z2bW5jU3RvMTlPY0N6eDljR0VpZDRDc1Bqc3NZNVdQUUEydEtSUzZ2ejFyX1VSZllOYlBFOWNKMzJxRVlnOUdZWm9KeFhveXhzNjhMYjZvckQ1bGxmajlKdmx2eEZYVWFia015aGVnaXpCYWdCQWYtclAyc0tYa0huZ2hVRw?oc=5",
       "primary": false
     },
     {
